@@ -1,0 +1,1 @@
+SIT -> SIG -> SAD -> SIE
