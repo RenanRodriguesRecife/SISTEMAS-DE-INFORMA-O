@@ -1,3 +1,5 @@
+Sistema de apoio à decisão (SAD)
+
 pode resultar em várias telas em resposta a mudanças hipotéticas introduziadas por um gerente. É um sistema usado para explorar alternativas possíveis. 
 
 O SAD envolve quatro tipos básicos de modelagem analítica.
