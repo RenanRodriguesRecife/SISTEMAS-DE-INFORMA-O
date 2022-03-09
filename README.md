@@ -2,6 +2,8 @@ Sistema de informação (SI) é um conjunto de componentes interrelacionados (pe
 
 Os sistemas de informações coletam os dados do dia-a-dia da organização, processam e transformam em informações importantes e úteis para a empresa, que dão suporte para os administradores se posicionarem diante de situações inesperadas e novas oportunidades.
 
+DADOS --> INFORMAÇÃO
+
 SIT -> SIG -> SAD -> SIE
 
 
