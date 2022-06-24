@@ -1,5 +1,9 @@
 Sistema de apoio à decisão (SAD)
 
+Definição
+
+Um sistema de informação consistindo de hardware/software e do elemento humano designado para assistir um tomador de decisão de qualquer nível, com ênfase em tarefas estruturadas e não-estruturadas(desestruturadas).
+
 pode resultar em várias telas em resposta a mudanças hipotéticas introduziadas por um gerente. É um sistema usado para explorar alternativas possíveis. 
 
 O SAD envolve quatro tipos básicos de modelagem analítica.
