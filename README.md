@@ -10,3 +10,9 @@ SIT -> SIG -> SAD -> SIE
 
 FONTES:
 https://gestaodesegurancaprivada.com.br/sistema-de-informacao-o-que-e-conceitos/
+
+
+para fazer quando chegar
+http://www.univasf.edu.br/~ricardo.aramos/disciplinas/TSI2009_1/GrupoF_SPT.pdf
+
+http://sistemadeinformacaofmdn.blogspot.com/2016/09/diferenca-entre-spt-sig-sad-e-sie.html
