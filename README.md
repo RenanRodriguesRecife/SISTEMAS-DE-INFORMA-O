@@ -8,7 +8,7 @@ SIT -> SIG -> SAD -> SIE
 
 Diferenças entre SPT, SIG, SAD e SIE
 
-<img src="assets/nivel.jpg">
+<img src=".assets/niveis.jpg">
 
 Geralmente se divide em 3 níveis organizacionais: operacional, tático e estratégico.
 
@@ -24,8 +24,5 @@ Obs: SAD embora destinado aos níveis mais elevados da gerência, são utilizado
 FONTES:
 https://gestaodesegurancaprivada.com.br/sistema-de-informacao-o-que-e-conceitos/
 
-
-
-http://sistemadeinformacaofmdn.blogspot.com/2016/09/diferenca-entre-spt-sig-sad-e-sie.html
 
 https://www.youtube.com/watch?v=N0Y8SzE0-cg&list=PLxI8Can9yAHczVm37Sw-UssyYdd0FMyR0&index=12
