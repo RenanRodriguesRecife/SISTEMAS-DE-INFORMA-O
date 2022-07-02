@@ -18,3 +18,16 @@ O SAD envolve quatro tipos básicos de modelagem analítica.
     <li>Análise de sensibilidade. É um caso especial da análise anterior, onde a mudança repetida de um única variável faz com que sejam observadas as mudanças nas outras variáveis</li>
     <li>Análise de busca de metas. Alterando os valores das variáveis finais (metas) é observada a mudança das outras variávies</li>
     <li>Análise de Otimização. É um extensão da análise anterior, onde ao invés de fixar uma meta, a meta é encontrar a solução ótima para uma ou mais variáveis alvo do problema. Geralmente a otimização é alcançadas através de programção matemática, sendo que às vezes, devido à complexidade do sistema, são adotados modelos heurísticos que usam métodos de inteligência artificial. Os métodos de inteligência arificial muitas vezes não encontram a solução ótima, mas encontram uma solução próxima da ótima </li>
+</ul>
+
+Eficácia de um SAD
+
+-- O Fator crítico para obter a eficácia do sistema é uma combinação das características abaixo:
+
+- Poder - grau em que o sistema pode responder a importantes decisões
+
+- Acessibilidade - o grau em que o sistema pode fornecer respostas oportunas e consistentes
+
+- Flexibilidade - o grau no qual sistema pode se adaptar às necessidades e situações.
+
+(são vários aspectos que mundam quando está considerando a individualidade de cada um. Cada pessoa pode se preocupar e foca em algum aspecto diferente do problema, não existe um padrão para tomar uma decisão não estruturada. Ex: escolher a carreira - cada pessoa segue uma trilha diferente de pensamento para tomar a sua decisão)
