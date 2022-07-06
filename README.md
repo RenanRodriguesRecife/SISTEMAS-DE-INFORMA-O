@@ -27,3 +27,5 @@ https://gestaodesegurancaprivada.com.br/sistema-de-informacao-o-que-e-conceitos/
 
 
 http://sistemadeinformacaofmdn.blogspot.com/2016/09/diferenca-entre-spt-sig-sad-e-sie.html
+
+https://www.youtube.com/watch?v=N0Y8SzE0-cg&list=PLxI8Can9yAHczVm37Sw-UssyYdd0FMyR0&index=12
