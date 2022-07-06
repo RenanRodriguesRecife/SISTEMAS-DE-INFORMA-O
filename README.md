@@ -14,9 +14,9 @@ Geralmente se divide em 3 níveis organizacionais: operacional, tático e estrat
 
 Para cada nível organizacional existe um tipo específico de sistema de informação
 
-Operacional: Sistemas de processamento de transações (SPT)
-Tático: Sistemas de informação gerencial (SIG)
-Estratégico: Sistemas de informação executiva (SIE)
+- Operacional: Sistemas de processamento de transações (SPT)
+- Tático: Sistemas de informação gerencial (SIG)
+- Estratégico: Sistemas de informação executiva (SIE)
 
 Obs: SAD embora destinado aos níveis mais elevados da gerência, são utilizados em todos os níveis de administração, porque os gerentes de qualquer nível (operacional, tático ou estratégico) podem se defrontar com problemas menos estruturados.
 
