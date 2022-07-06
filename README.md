@@ -6,6 +6,19 @@ DADOS --> INFORMAÇÃO
 
 SIT -> SIG -> SAD -> SIE
 
+Diferenças entre SPT, SIG, SAD e SIE
+
+<img src="assets/nivel.jpg">
+
+Geralmente se divide em 3 níveis organizacionais: operacional, tático e estratégico.
+
+Para cada nível organizacional existe um tipo específico de sistema de informação
+
+Operacional: Sistemas de processamento de transações (SPT)
+Tático: Sistemas de informação gerencial (SIG)
+Estratégico: Sistemas de informação executiva (SIE)
+
+Obs: SAD embora destinado aos níveis mais elevados da gerência, são utilizados em todos os níveis de administração, porque os gerentes de qualquer nível (operacional, tático ou estratégico) podem se defrontar com problemas menos estruturados.
 
 
 FONTES:
