@@ -4,6 +4,12 @@ Definição
 
 Um sistema de informação consistindo de hardware/software e do elemento humano designado para assistir um tomador de decisão de qualquer nível, com ênfase em tarefas estruturadas e não-estruturadas(desestruturadas).
 
+```
+O SAD serve para decisões não estruturadas. QUE não é simplesmente programar um sistema, é preciso entender qual a utilidade, designação e estruturar a aplicação. O problema muitas vezes não está formulado ou dado o cliente muitas vezes não sabe o que quer.
+ 
+Cabe a você compatibilizar os aspectos humanos, decisórios, modelos, base de dados… tudo que vai ser necessário para esse problema de decisão.
+```
+
 pode resultar em várias telas em resposta a mudanças hipotéticas introduziadas por um gerente. É um sistema usado para explorar alternativas possíveis. 
 
 O SAD envolve quatro tipos básicos de modelagem analítica.
