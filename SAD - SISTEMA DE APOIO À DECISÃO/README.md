@@ -45,7 +45,7 @@ Ex: Quanto se deve gastar com marketing para se gerar R$50.000,00 de vendas tota
 
 Etapas para um SAD
 
-- De uma forma geral os gestores tormam decisões seguindo um processo de 4 etapas conforme proposto por Simon:
+De uma forma geral os gestores tormam decisões seguindo um processo de 4 etapas conforme proposto por Simon:
 
 - Definição / Estruturação do problema de decisão (oportunidade de decisão)
 
@@ -54,6 +54,28 @@ Etapas para um SAD
 - Identificação de possíveis soluções para o problema e avaliação de soluções
 
 - Comparação, escolha e recomendação de uma solução potencial para o problema
+
+Características da tomada de decisão
+
+- Pensamento de grupo: Membros do grupo aceitam soluções sem refletir, o que pode levar a decisões ruins
+
+- Avaliação de cenários what-if
+
+- Experimentação de um sistema real é muito custoso (deveria testar num modelo antes?!?)
+
+- Mudanças no ambiente de tomada de decisão podem ocorrer constantemente: - Isso altera as premissas do modelo! (deve verificar o que é dinâmico e o que não é dinâmico)
+
+- Pressão temporal sobre o decisor
+
+- A análise de um problema custa tempo/dinheiro: - É difícil fazer o trade-off e decidir o escopo para tomar uma decisão (dependendo do problema você não vai perder tempo com o problema)
+
+- Informação insuficiente ou em abundância isso atrapalha. Informação demais atrapalha porque você não consegue enchergar o que é relevante.
+
+- A construção de um SAD bem-sucedido requer um conhecimento profundo destes conceitos:
+    - Support: métodos de apoio a decisão
+    - Decision Making: aspectos cognitivos que estão envolvidos no aspecto decisório
+    - System: O que o sistema pode contribuir
+    - Models and data: Como elaborar modelos e enriquecer através de dados.
 
 
 Eficácia de um SAD
