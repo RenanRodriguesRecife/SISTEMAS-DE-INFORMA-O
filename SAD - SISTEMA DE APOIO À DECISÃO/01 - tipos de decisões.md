@@ -12,3 +12,4 @@
 - Controle Gerencial (planejamento tático)
 - Controle Operacional
 
+- Uma decisão estrutura tem uma receita de bolo ou é possivel fazer um algorimo que vai funcionar sempre (ele não varia). Você pode tomar decisões estruturadas 
