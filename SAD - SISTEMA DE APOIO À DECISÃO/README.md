@@ -24,11 +24,11 @@ Eficácia de um SAD
 
 -- O Fator crítico para obter a eficácia do sistema é uma combinação das características abaixo:
 
-- Poder - grau em que o sistema pode responder a importantes decisões
+- Poder - grau em que o sistema pode responder a importantes decisões (O problema deve ser relevante)
 
-- Acessibilidade - o grau em que o sistema pode fornecer respostas oportunas e consistentes
+- Acessibilidade - o grau em que o sistema pode fornecer respostas oportunas e consistentes (não adianta nada você ter um sistema maravilhoso que só fica pronto depois que a decisão precisa ser tomada)
 
-- Flexibilidade - o grau no qual sistema pode se adaptar às necessidades e situações.
+- Flexibilidade - o grau no qual sistema pode se adaptar às necessidades e situações que o problema vai apresentar ao longo do processo que você está usando para resolver. (Você aprende mais sobre o problema o quando mais você pensa sobre o problema)
 
 (são vários aspectos que mundam quando está considerando a individualidade de cada um. Cada pessoa pode se preocupar e foca em algum aspecto diferente do problema, não existe um padrão para tomar uma decisão não estruturada. Ex: escolher a carreira - cada pessoa segue uma trilha diferente de pensamento para tomar a sua decisão)
 
