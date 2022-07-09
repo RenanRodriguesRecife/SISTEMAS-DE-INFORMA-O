@@ -14,10 +14,33 @@ pode resultar em várias telas em resposta a mudanças hipotéticas introduziada
 
 O SAD envolve quatro tipos básicos de modelagem analítica.
 <ul>
-    <li>Análise tipo what if. O usuário indtroduz mudanças nas variáveis ou relações e verifica as mudanças resultantes nos valores das outras variáveis</li>
-    <li>Análise de sensibilidade. É um caso especial da análise anterior, onde a mudança repetida de um única variável faz com que sejam observadas as mudanças nas outras variáveis</li>
-    <li>Análise de busca de metas. Alterando os valores das variáveis finais (metas) é observada a mudança das outras variávies</li>
-    <li>Análise de Otimização. É um extensão da análise anterior, onde ao invés de fixar uma meta, a meta é encontrar a solução ótima para uma ou mais variáveis alvo do problema. Geralmente a otimização é alcançadas através de programção matemática, sendo que às vezes, devido à complexidade do sistema, são adotados modelos heurísticos que usam métodos de inteligência artificial. Os métodos de inteligência arificial muitas vezes não encontram a solução ótima, mas encontram uma solução próxima da ótima </li>
+    <li>Análise tipo what if "o que-se".
+    
+     O usuário indtroduz mudanças nas variáveis ou relações e verifica as mudanças resultantes nos valores das outras variáveis
+     
+     Ex: Se o orçamento com marketing aumentar em 2%, qual será o impacto total nas vendas?
+</li>
+
+<li>Análise de busca de metas (busca de objetivo).
+
+ Alterando os valores das variáveis finais (metas) é observada a mudança das outras variávies
+ 
+Ex: Quanto se deve gastar com marketing para se gerar R$50.000,00 de vendas totais.
+ </li>
+
+
+<li>Análise de sensibilidade.
+
+ É um caso especial da análise what if, onde a mudança repetida de um única variável faz com que sejam observadas as mudanças nas outras variáveis. Permite desenvolver análises aplicando diferentes variáveis.
+
+ Ex: Qual o preço máximo que se deve pagar pela matéria-prima e ainda obter lucro?
+ </li>
+
+ 
+
+
+   
+<li>Análise de Otimização. É um extensão da análise anterior, onde ao invés de fixar uma meta, a meta é encontrar a solução ótima para uma ou mais variáveis alvo do problema. Geralmente a otimização é alcançadas através de programção matemática, sendo que às vezes, devido à complexidade do sistema, são adotados modelos heurísticos que usam métodos de inteligência artificial. Os métodos de inteligência arificial muitas vezes não encontram a solução ótima, mas encontram uma solução próxima da ótima </li>
 </ul>
 
 Eficácia de um SAD
@@ -54,5 +77,5 @@ Benefícios esperados:
 - Melhorar o entendimento dos negócios
 - Respostas rápidas para situações inesperadas
 - Habilidade para lidar com tarefas descontínuas
-- Poupar custos e tempo (pois o processamento agora está sendo feito pelo computador)
+- Poupar custos e tempo (psois o processamento agora está sendo feito pelo computador)
 - Fazer melhor uso dos recursos de dados
