@@ -106,3 +106,21 @@ Decisores
 - Ajuda: Suporte de SIs (GDSS, ERP, SCM, CRM)
 
 (Só existe grandes empresas porque existe sistemas da informação)
+
+
+
+
+
+Fases do processo de decisão
+
+-- Humanos conscientemente ou subconscientemente seguem um processo de decisão sistemática (Simon, 1977)
+
+- Inteligência
+
+- Design
+
+- Escolha
+
+- Implementação
+
+- Monitoramento (alguns dizem que faz parte da faze de inteligência)
