@@ -33,3 +33,26 @@ Eficácia de um SAD
 (são vários aspectos que mundam quando está considerando a individualidade de cada um. Cada pessoa pode se preocupar e foca em algum aspecto diferente do problema, não existe um padrão para tomar uma decisão não estruturada. Ex: escolher a carreira - cada pessoa segue uma trilha diferente de pensamento para tomar a sua decisão)
 
 - idéia é melhorar a qualidade de tomar uma decisão não estruturada para minimisar a insatisfação que pode ter ou as perdas que pode ter no futuro por que não usou uma metodologia não adequada. 
+
+```
+Imprementação de um SAD
+
+- O projetista, o sistema e o usuário devem está integrados a fim de alcançar um desenvolvimento unificado.
+
+Devem conhecer
+
+- Tarefas particulares ou decisões a serem apoiadas
+- Os objetivos do sistema
+- O processo de decisão atual do tomador de decisão.
+```
+
+Benefícios esperados de um SAD
+
+Benefícios esperados:
+
+- Aumentar o número de alternativas examinadas
+- Melhorar o entendimento dos negócios
+- Respostas rápidas para situações inesperadas
+- Habilidade para lidar com tarefas descontínuas
+- Poupar custos e tempo (pois o processamento agora está sendo feito pelo computador)
+- Fazer melhor uso dos recursos de dados
