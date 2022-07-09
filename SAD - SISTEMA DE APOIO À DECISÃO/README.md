@@ -42,6 +42,20 @@ Ex: Quanto se deve gastar com marketing para se gerar R$50.000,00 de vendas tota
  É um extensão da análise busca de metas, onde ao invés de fixar uma meta, a meta é encontrar a solução ótima para uma ou mais variáveis alvo do problema. Geralmente a otimização é alcançadas através de programção matemática, sendo que às vezes, devido à complexidade do sistema, são adotados modelos heurísticos que usam métodos de inteligência artificial. Os métodos de inteligência arificial muitas vezes não encontram a solução ótima, mas encontram uma solução próxima da ótima </li>
 </ul>
 
+
+Etapas para um SAD
+
+- De uma forma geral os gestores tormam decisões seguindo um processo de 4 etapas conforme proposto por Simon:
+
+- Definição / Estruturação do problema de decisão (oportunidade de decisão)
+
+- Construção de um modelo que descreve o problema do mundo real
+
+- Identificação de possíveis soluções para o problema e avaliação de soluções
+
+- Comparação, escolha e recomendação de uma solução potencial para o problema
+
+
 Eficácia de um SAD
 
 -- O Fator crítico para obter a eficácia do sistema é uma combinação das características abaixo:
