@@ -34,3 +34,75 @@ Disciplinas de Tomada de decisão
 - Cientifica: Ciência da computação, análise de decisão, economia, hard sciences (ex: biologia, física, química), pesquisa operacional, matemática e estatísticas
 
 Cada disciplina tem seu próprio conjunto de suposições e cada uma mostra uma visão única de como as pessoas tomam decisões.
+
+
+- Melhores decisões
+    - Trade-off: acurácia VS velocidade
+
+- Decisões rápidas podem ser prejudiciais (ela não ponderou todos os aspectos ou você tomou a decisão antes de ter todos os fatos)(muitas áreas sofrem com decisões rápidas)
+
+- Eficácia VS Eficiência
+- Eficácias -> Acurácia (Qualidade)
+- Eficiênia -> Velocidade (menos recursos)
+
+- É necessário obter um balanço adequado
+
+Estilo de decisão
+
+-- A maneira na qual os decisores pensam e reagem à problemas
+
+- Percepção do problema (cada um persebe de forma diferente: como ver a gravidade de uma situação)
+
+- Resposta cognitiva
+
+- Valores e crenças
+
+-- Ao tomar decisões, pessoas...
+
+- seguem diferentes sequências de ações
+
+- Dão ênfases diferentes, alocação de tempo e prioridade a cada passo
+
+(Depedendo de quem toma decisão o resultado pode mudar, em uma empresa isso é importante a pessoa tem que tomar decisão buscando os valores e as metas que a empresa deseja alcançar)
+
+Estilo de decisão
+
+-- Testes de temperamento de personalidade são sempre utilizados para determinar estilos de decisão
+
+-- Existem vários testes deste tipo:
+
+- Meyers/Briggs
+- Cores verdadeiras (Birkman)
+- Teoria do temperamento de Keirsey
+
+--Estes testes variados medem diferentes aspectos da realidade.(Obs: Eles não podem ser igualados)
+
+-- Eles revelam o estilo de tomada de decisão:
+
+- Heuristico VS Analítico
+
+- Autocrático VS Democrático
+
+- Consultiva (com indivíduos ou grupos)
+
+-- Um sistema computacional bem-sucedido deve se adequar ao estilo de decisor e à situação de decisão (para que no final quando o sistema elaborar uma conclusão a decisão seja aceita e condizente com a realidade). Ex: você não pode ter um sistema que recomente que para alcançar a paz mundial é preciso acabar com a espécie humana.
+
+- Deve ser flexível e adaptável a diferentes usuários (indivíduos VS grupos)(muitos grupos podem não seguir modelos sugeridos)
+
+
+Decisores
+
+-- Pequenas organizações
+
+- Indivíduos (muitas vezes o próprio dono)
+- Objetivos conflitantes
+
+-- Organizações médias à grandes
+
+- Grupos
+- Diferentes estilos, contextos (departamentos/setores), expectativas
+- Objetivos conflitantes
+- Muito frequentemente, é difícil alcançar o consenso (isso ressalta questões políticas)
+- Ajuda: Suporte de SIs (GDSS, ERP, SCM, CRM)
+
+(Só existe grandes empresas porque existe sistemas da informação)
