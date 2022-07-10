@@ -119,3 +119,30 @@ Benefícios esperados:
 As capacidade do sistema de apoio a tomada de decisão vem aumentando cada vez mais.
 
 <img src="">
+
+
+Classificação do sistema de apoio à decisão
+
+-- Classificação fornecida pela Association for Information Systems Special Interest Group on Decision Support Systems (AIS SIGDSS).
+
+- SAD orientado a comunicação e SAD para grupos
+- SAD orientado a dados
+- SAD orientado a documentos
+- SAD orientado a conhecimento
+- SAD orientado a modelos
+
+- (Frequentemente o SAD é um híbrido de muitas classes)
+
+-- Outras categorias SAD
+
+- SAD institucional e ad-hoc
+
+-- Sistemas personalizados versus sistemas prontos
+
+-- Suporte pessoal, em grupo e organizacional
+
+-- Sistema de suporte individual versus sistema de suporte em grupo (GSS)...
+
+Componentes de um SAD
+
+<img src="">
