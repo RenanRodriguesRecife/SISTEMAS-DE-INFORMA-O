@@ -187,3 +187,36 @@ Fase de design
 - Uma proposição de suposições sobre o ambiente operacional (variáveis) de um sistema particular em um dado momento
 
 - Possíveis cenários: melhor, pior, mais provável, médio (e intervalos customizados)
+
+
+
+Fase de escolha
+
+-- A decisão é o comprometimento em seguir em certo curso de ações são feitos aqui
+
+-- Uma fronteira entre design e escolha é frequentemente pouco evidente (fases parcialmente sobrepostas)
+
+    - Gerar alternativas enquanto avaliações são desenvolvidas
+
+-- Inclui a busca, avaliação e recomendação de uma solução apropriada para o modelo
+
+-- Solucionando o modelo VS solucionando o problema
+
+
+--- Abordagens de busca
+
+- Técnicas analíticas (resolvendo com uma fórmula)
+
+- Algoritmos (procedimento passo-a-passo)
+
+- Heurísticas (guia baseado em experimentos)
+
+- Busca cega (busca aleatória)
+
+-- Atividades adicionais
+
+- Análise de sensibilidade
+
+- Análise se-então
+
+- Busca de objetivos
