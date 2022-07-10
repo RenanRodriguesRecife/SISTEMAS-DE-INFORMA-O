@@ -220,3 +220,16 @@ Fase de escolha
 - Análise se-então
 
 - Busca de objetivos
+
+
+
+
+Fase de implementação
+
+"Nada mais difícil de realizar, nem mais duvidoso do sucesso, nem mais perigoso de lidar do que iniciar uma nova ordem de coisas" (Maquiavel)
+
+- Solução de um problema -> mudança
+
+- mudar gestão?
+
+- Implementação: colocar a solução recomendada em prática
