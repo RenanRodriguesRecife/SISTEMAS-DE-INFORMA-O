@@ -112,3 +112,18 @@ Decisores
 Sistema de SI dá suporte às decisões
 
 <img src=".assets/si que aux implimentacao.JPG">
+
+
+Suporte:
+ 
+- Suporte para a fase de inteligência
+
+    - Permitir monitoramento contínuo de fontes de informação extern e interna para identificar problemas e/ou oportunidades
+
+    - Recursos/tecnologias: A web, sistemas espeialistas (ES), online analytical processing (OLAP), data warehousing, mineração de texto/web/dados, EIS/dashboards, sistemas de apoio à decisão em grupo (GSS), sistemas de informação geográfica (GIS), sistemas de gestão do conhecimento (KMS)
+
+    - Monitoramento de atividades do negócio (BAM)
+
+    - Gestão do processo de negócio (BPM)
+
+    - Gestão do ciclo de vida do produto (PLM)
