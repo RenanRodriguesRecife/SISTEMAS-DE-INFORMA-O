@@ -144,4 +144,12 @@ Suporte:
 
 - Suporte fase de implementação
 
-    - Permitir implementação 
+    - Permitir implementação da solução escolhida no sistema
+
+    - Comunicação da decisão, explicação e justificação para reduzir resistência à mudanças
+
+    - Recursos
+
+        - Portais corporativos, Web 2.0/wikis
+        - Brainstorming/GSS
+        - KMS, ES
