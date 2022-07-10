@@ -127,3 +127,21 @@ Suporte:
     - Gestão do processo de negócio (BPM)
 
     - Gestão do ciclo de vida do produto (PLM)
+
+
+
+ Suporte fase de Design
+
+- Permitir o desenvolvimento de cursos ações alternativos, determinação do critério de escolha
+
+- Gerando alternativas
+
+    - Problema estruturados/simples: modelos padrão e/ou especias
+    - Modelo não-estruturados/complexos: especialistas humanos, ES, KMS, brainstorming/GSS, OLAP, mineração de texto/dados
+
+- Um bom "critério para escolha" é essencial
+
+
+- Suporte fase de implementação
+
+    - Permitir implementação 
