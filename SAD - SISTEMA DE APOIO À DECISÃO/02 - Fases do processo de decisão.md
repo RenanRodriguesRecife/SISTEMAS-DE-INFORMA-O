@@ -122,3 +122,68 @@ Fase de design
 
 
 
+
+-- Modelo normativos = otimização
+
+- A alternativa escolhida é a ótima (melhor que todas as outras)
+- Suposições de decisores racionais:
+    - Humanos são seres econômicos cujo objetivo é maximizar os seus objetivos
+    - Para uma situação de tomada de decisão, todas as alternativas e consequencias são conhecidas
+    - Decisores têm uma ordem ou preferência que os permite ranquear a desafabilidade de todas as consequências
+
+-- Modelos heurísticos = sub-otimização
+
+- A alternativa escolhida é a melhor de um subconjunto de alternativas (não precisa procurar todas as alternativas)
+- Frequentemente, não é viável otimizar problemas complexos reais
+- Sub-otimização também ajuda a relaxar suposições não realisticas dos modelos
+- Ajuda a encontrar uma boa solução rapidamente
+
+
+
+
+
+
+-- modelos descritivos
+
+- Descrevem as coisas como elas são ou como acredita-se que elas são (baseando-se matematicamente)
+
+- Não fornecem uma solução, mas sim uma informação que pode levar a uma solução
+
+- Simulação - modelo descrito mais comum (representação matemática de sistemas em um ambiente computacional)
+
+- Permite experimentação com o modelo descritivo de um sistema
+
+
+
+
+-- Bom o suficiente, ou Satisfatório "algo a menos que o melhor"
+
+- Uma forma de sub-otimização
+
+- Procurar alcançar um nível de desejabilidade de performance, ao invés do "melhor"
+
+- Benefício: economia de tempo
+
+- Ideia de Simon de Recionalidade limitada
+
+
+
+-- Desenvolvendo (Gerando) alternativas
+
+- EM modelos de otimização (tais como programação linear), as alternativas podem ser geradas automaticamente.
+
+- Entretanto, na maioria das situações encaradas por sistemas de suporte a gestão (SSG), é necessário gerar as alternativas manualmente
+
+- O uso de sistema de suporte à grupos ajuda a gerar alternativas
+
+-- Risco
+
+- Falta de conhecimento preciso (incerteza) 
+
+- Risco pode ser medido com probabilidade
+
+-- Cenário (caso se-então)
+
+- Uma proposição de suposições sobre o ambiente operacional (variáveis) de um sistema particular em um dado momento
+
+- Possíveis cenários: melhor, pior, mais provável, médio (e intervalos customizados)
