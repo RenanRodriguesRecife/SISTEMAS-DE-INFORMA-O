@@ -114,3 +114,8 @@ Benefícios esperados:
 - Habilidade para lidar com tarefas descontínuas
 - Poupar custos e tempo (psois o processamento agora está sendo feito pelo computador)
 - Fazer melhor uso dos recursos de dados
+
+
+As capacidade do sistema de apoio a tomada de decisão vem aumentando cada vez mais.
+
+<img src="">
