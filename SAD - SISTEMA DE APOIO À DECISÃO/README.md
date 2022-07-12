@@ -63,11 +63,13 @@ Características da tomada de decisão
 
 - Experimentação de um sistema real é muito custoso (deveria testar num modelo antes?!?)
 
-- Mudanças no ambiente de tomada de decisão podem ocorrer constantemente: - Isso altera as premissas do modelo! (deve verificar o que é dinâmico e o que não é dinâmico)
+- Mudanças no ambiente de tomada de decisão podem ocorrer constantemente: - Isso altera as premissas do modelo! (deve verificar o que é dinâmico e o que não é dinâmico)(por exemplo,(em um sistema tipo ifood) as entregas em dias de
+feriado podem aumentar, exigindo uma visão diferente do problema).
 
-- Pressão temporal sobre o decisor
+- Impondo pressão de tempo sobre o decisor.
 
-- A análise de um problema custa tempo/dinheiro: - É difícil fazer o trade-off e decidir o escopo para tomar uma decisão (dependendo do problema você não vai perder tempo com o problema)
+- A análise de um problema custa tempo/dinheiro: - É difícil fazer o trade-off e decidir o escopo para tomar uma decisão (É difícil
+determinar quando parar e tomar uma decisão - dependendo do problema você não vai perder tempo com o problema)
 
 - Informação insuficiente ou em abundância isso atrapalha. Informação demais atrapalha porque você não consegue enchergar o que é relevante.
 
