@@ -95,7 +95,7 @@ Eficácia de um SAD
 - idéia é melhorar a qualidade de tomar uma decisão não estruturada para minimisar a insatisfação que pode ter ou as perdas que pode ter no futuro por que não usou uma metodologia não adequada. 
 
 ```
-Imprementação de um SAD
+Implementação de um SAD
 
 - O projetista, o sistema e o usuário devem está integrados a fim de alcançar um desenvolvimento unificado.
 
