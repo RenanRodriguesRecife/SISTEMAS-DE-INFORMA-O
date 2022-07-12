@@ -1,15 +1,18 @@
 
-Fases do processo de decisão
+Fases do processo de decisão: Simon (1977)
 
 -- Humanos conscientemente ou subconscientemente seguem um processo de decisão sistemática (Simon, 1977)
 
-- Inteligência: percepção do indivíduo e a capacidade de análise.
+- Inteligência: percepção do indivíduo e a capacidade de análise. (nesta fase, o decisor examina a realidade e identifica e define o problema.)
 
-- Design: 
+- Design: (é construído um modelo que representa o
+sistema. Isso é feito fazendo suposições que simplificam a realidade e anotando as relações
+entre todas as variáveis)
 
-- Escolha
+- Escolha (inclui a seleção de uma solução proposta para o modelo (não necessariamente para o problema que ele representa). Esta solução é testada para determinar sua viabilidade.)
 
-- Implementação
+- Implementação (implementação da decisão (não necessariamente de um sistema). A implementação
+bem-sucedida resulta na solução do problema real.)
 
 - Monitoramento (alguns dizem que faz parte da faze de inteligência)
 
