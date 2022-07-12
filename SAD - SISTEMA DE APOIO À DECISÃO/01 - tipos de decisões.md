@@ -26,6 +26,10 @@ Tomada de decisão
 
 Ex: Planejamento: - o que deve ser feito? Quando? Onde? Por que? Como? Por quem?
 
+Um decisor não deve simplesmente aplicar as ferramentas de TI às cegas. Em vez disso, o decisor obtém apoio por meio de uma abordagem racional que simplifica a realidade e fornece um meio relativamente rápido e barato de considerar vários cursos alternativos de ação para chegar à melhor (ou pelo menos uma muito boa) solução para o problema.
+
+
+
 
 Disciplinas de Tomada de decisão
 
