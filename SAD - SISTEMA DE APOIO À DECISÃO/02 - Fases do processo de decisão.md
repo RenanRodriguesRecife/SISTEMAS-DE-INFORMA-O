@@ -28,6 +28,13 @@ Fases do processo de decisão
 6 - verificar as falhas e retornar ao processo.
 
 
+Os gerentes definem metas ou planejam; portanto, o planejamento implica a tomada de decisões. Outras funções gerenciais, como organização e controle, também envolvem a tomada de decisões.
+
+
+
+
+
+
 Fase de inteligência:
 
 - Escaneia o ambiente de forma intermitente ou continuamente.

@@ -55,6 +55,8 @@ Estilo de decisão
 
 -- A maneira na qual os decisores pensam e reagem à problemas
 
+- Para que uma ferramenta computacional dê suporte a um gerente com sucesso, esta deve se adequar à situação de decisão e também ao estilo de decisão. 
+
 - Percepção do problema (cada um persebe de forma diferente: como ver a gravidade de uma situação)
 
 - Resposta cognitiva
@@ -68,6 +70,8 @@ Estilo de decisão
 - Dão ênfases diferentes, alocação de tempo e prioridade a cada passo
 
 (Depedendo de quem toma decisão o resultado pode mudar, em uma empresa isso é importante a pessoa tem que tomar decisão buscando os valores e as metas que a empresa deseja alcançar)
+
+- Se um SAD deve oferecer suporte a estilos, habilidades e conhecimentos variados, não deve tentar impor um processo específico. Em vez disso, deve ajudar os decisores a usar e desenvolver seus próprios estilos, habilidades e conhecimentos.
 
 Estilo de decisão
 
@@ -111,14 +115,24 @@ Decisores
 
 (Só existe grandes empresas porque existe sistemas da informação)
 
+- Um fator importante que determina o tipo de suporte necessário é se o decisor é um indivíduo ou um grupo. Os decisores individuais precisam de acesso aos dados e a especialistas que podem fornecer conselhos, enquanto os grupos também precisam de ferramentas de colaboração. O SAD baseado na Web pode fornecer suporte para ambos.
 
+- A maioria das decisões importantes em organizações de médio e grande porte é feita por grupos. Obviamente, muitas vezes existem objetivos conflitantes em um ambiente de tomada de decisão em grupo.
 
 Sistema de SI dá suporte às decisões
 
 <img src=".assets/si que aux implimentacao.JPG">
 
 
-Suporte:
+Suporte: O suporte de computacional pode ser fornecido em um nível amplo, permitindo que membros de departamentos, divisões ou até organizações inteiras colaborem online. Esse suporte evoluiu nos últimos anos para sistemas de informação empresarial (EIS - enterprise information systems) 
+e inclui sistemas de suporte de grupo (GSS- group support systems),
+gestão de recursos empresariais (ERM - enterprise resource management) /
+planejamento de recursos empresariais (ERP - enterprise resource planning),
+gestão da cadeia de suprimentos (SCM - supply chain management), 
+sistemas de gestão de conhecimento ( KMS - knowledge management systems) 
+sistemas de gerenciamento de relacionamento com o cliente (CRM - customer relationship management).
+
+
  
 - Suporte para a fase de inteligência
 
