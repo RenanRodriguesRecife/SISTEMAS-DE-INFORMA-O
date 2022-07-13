@@ -148,3 +148,6 @@ Classificação do sistema de apoio à decisão
 Componentes de um SAD
 
 <img src="">
+
+
+OBS: Acessibilidade: Verificar se o usuário tem algum problema visual na hora de desenvolver a interface. Ex: Alguns usuários daltônicos não conseguiam diferenciar as cores no gráfico.

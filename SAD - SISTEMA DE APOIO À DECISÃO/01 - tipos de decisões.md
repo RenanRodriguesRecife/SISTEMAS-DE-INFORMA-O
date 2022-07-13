@@ -171,3 +171,7 @@ sistemas de gerenciamento de relacionamento com o cliente (CRM - customer relati
         - Portais corporativos, Web 2.0/wikis
         - Brainstorming/GSS
         - KMS, ES
+
+
+
+Interdependencia: Decisões que dependem uma outra para acontecer. Outras decisões são concorrentes.
