@@ -1,3 +1,22 @@
+-- Como gerenciar informação e conhecimento?
+
+- Por que estudar Gestão da Informação e do Conhecimento?
+
+    - Investimentos em TI / Modelos de Governancia
+
+    - Diversidade de funções / Grid Estratégico
+
+    - Abundância de Informação / estratégia (MCGEE & PRUZAK, 1994)
+
+    - Concorrência, globalização, recursos escassos (SADs ou DSSs)
+
+    - Data Science, Big Data (SADs, ERPs, CRMs, BI)
+
+    - Controle, gerenciamento de operações (SADs, ERPs, CRMs, BI)
+
+
+
+
 obs: Muitas pessoas confundem BI com SAD a diferença entre uma coisa ou outra é que SAD trabalha com problemas não estruturados e BI com problemas estruturados
 
 Modelo Business Pressures-Responses-Support
