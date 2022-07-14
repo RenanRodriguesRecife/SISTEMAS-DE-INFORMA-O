@@ -18,6 +18,82 @@
 
     <img src="">
 
+    - A informação é utilizada na definição de estratégias
+    <img src=””>
+
+    - A informação precisa estar em todos os processos da organização -> Business Intelligence!
+    <img src=””>
+
+- A informação na integração de estratégias (MCGEE & PRUZAK, 1994)
+    - Atuar como elemento de ligação entre a definição da estratégia e sua execução
+    - Fornecer feedback para garantir que a estratégia esteja sendo executada conforme sua definição
+    - Fornecer subsídios para adaptação das estratégias diante do ambiente competitivo
+    - Possibilitar o aprendizado organizacional
+    - Avaliar/definir estratégias de TI diante das estratégias de negócio (ou vice-versa)
+
+_ Em síntese:
+    - SIs precisão ser vistos como uma ferramenta fundamental para para obtenção de vantagem competitiva (uso da informação)
+    - SIs permitem utilizar a informação como instrumento de gestão
+    - SIs oferecem suporte para melhorar o relacionamento com o clientes e fornecedores.
+    - SIs fornecem suporte para redução de custos, estoques, melhoram a logística (interna e externa), entre outros;
+    - SIs permitem melhorar a eficiência organizacional, a produtividade, a eficiência dos processos, a satisfação…
+
+Desde que haja uma boa Gestão da Informação e do Conhecimento para que os SIs possam ser planejados e priorizados de forma estratégica.
+
+
+
+## O que é “Gestão”?
+
+Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racionalizar e otimizar o funcionamento das organizações.
+
+- Este objetivo compreende diversos aspectos:
+
+    - Práticas de direção das empresas: definir orientações estratégias, de otimizar as relações entre os diferentes elementos necessários para pôr em ação um sistema de ação coletiva, de definir a estrutura e a política da organização.
+    - Discursos sobre os modos de organizar a produção, de conduzir os homens que a isso contribuem, de ordenar o tempo e o espaço, de pensar a empresa como uma organização racional.
+    - Técnicas, processos, dispositivos que conciliam as atividades, fixam os lugares, as funções, os estatutos, definem regras de funcionamento.
+    - A gestão é definitivamente um sistema de organização do poder!!!
+    - Por trás de sua aparente neutralidade, é preciso compreender os funcionamentos e as características desse poder que evoluiu consideravelmente.
+
+## Qual a função do gestor?
+
+O gestor, mais do que qualquer outra pessoa, interioriza fortemente a contradição entre capital/trabalho:
+    - De um lado, forte identificação com os interesses da empresa um interiorização da lógica de lucro, uma adesão às normas e aos valores do sistema capitalista.
+    - De outro, uma condição salarial submetida às imprevisibilidade da carreira, ao risco da dispensa, à pressão do trabalho e a uma competição feroz.
+
+	Como lidar com isso?
+
+    - Sua função consiste em produzir um sistema que liga e combina elementos tão disparatados quanto o capital, o trabalho, as matérias-primas, a tecnologia, as regras, as normas e os procedimentos.
+
+### O que é gerenciamento?
+
+- O gerenciamento remonta a ideia de arranjar, instalar e providenciar
+
+    - A providência consistem em organizar em vista de uma produção coletiva, de uma tarefa a cumprir, de uma obra a realizar
+
+    - O arranjo ou ordenação consiste em pretar atenção ao conjunto daqueles que contribuem para essa missão, a fim de melhor mobilizá-los em vista de um fim comum, para o proveito de todos
+
+- Hoje, em muitas empresas, o termo evoca mais a ideia de arrumação
+
+- Então, como "arranjar", "providenciar" e "arrumar" a informação e conhecimento?
+
+### Era da informação e do conhecimento?
+
+- Diante das mudanças no capitalismo industrial surgiu "a era da informação e do conhecimento"
+
+- 3 fenômenos maiores transformam o capitalismo industrial do final do século XX:
+
+    - As lógicas de produção estão cada vez mais submetidas às pressões das lógicas financeiras. A economia financeira substituiu a economia industrial.
+
+        - É a lógica financeira que faz com que a informação tenha alto valor nessa nova economia -> menos que produzir, eu preciso conhecer para poder especular, prever, antecipar, modelar!
+
+    - O peso dos mercados e mundialização  põem de novo em questão os modos de regulação econômica: o capital é desterritorializado
+
+    - A fusão das telecomunicações com a informática instaura a “ditadura” do tempo real e a imediatidade das respostas às exigências dos mercados financeiros
+
+## Principais teorias de Gestão
+
+<img src="">
+
 
 obs: Muitas pessoas confundem BI com SAD a diferença entre uma coisa ou outra é que SAD trabalha com problemas não estruturados e BI com problemas estruturados
 
