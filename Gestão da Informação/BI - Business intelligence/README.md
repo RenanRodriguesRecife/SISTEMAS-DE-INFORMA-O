@@ -246,6 +246,15 @@ Teoria Econômica Neoclássica
 
 Teoria Econômica neoclássica: Oferta e Demanda.
 
+- A formação gráfica dessa teoria foi formalizada ao final do século XIX
+
+- Conforme relações gráficas, foram formalizadas as relações
+
+	- Função Demanda (Preço/Quantidade)
+
+	- Função Oferta (Preço/Quantidade)
+
+	- Equilíbrio de mercado (Oferta x Demanda)
 
 
 
