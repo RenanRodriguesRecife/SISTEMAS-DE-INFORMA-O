@@ -94,6 +94,31 @@ O gestor, mais do que qualquer outra pessoa, interioriza fortemente a contradiç
 
 <img src="">
 
+## Qual o grande desafio?
+
+- Entendendo que a gestão não é algo neutro, mas sim um conjunto de formas de atuar no mundo que se baseiam em crenças e maneiras de pensar:
+
+    - Como pensamos os fenômenos informação e conhecimento para a construção de modos mais interessantes e empoderados de Gestão da Informação e do Conhecimento?
+
+    - Como entendemos onde temos de lidar nas organizações, nas relações humanas e nos processos individuais para construir essas formas de Gestão?
+
+    - Que fenômenos exatamente lidamos em nosso dia a dia?
+
+## Sistema de Informação
+
+É um conjunto de componentes inter-relacionados para coletar (ou recuperar), processar, armazenar e distribuir informações destinadas a:
+
+    - Apoiar a tomada de decisões de uma organização
+
+    - Coordenação de uma organização
+
+    - Controle de uma organização
+
+<img src= "">
+
+<img src= "">
+
+
 
 obs: Muitas pessoas confundem BI com SAD a diferença entre uma coisa ou outra é que SAD trabalha com problemas não estruturados e BI com problemas estruturados
 
