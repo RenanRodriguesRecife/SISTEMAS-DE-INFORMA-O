@@ -118,6 +118,26 @@ O gestor, mais do que qualquer outra pessoa, interioriza fortemente a contradiç
 
 <img src= "">
 
+## Dados vs Informação
+
+- A informação não se limita aos dados coletados; na verdade são dados coletados, organizados, ordenados, aos quais são atribuídos significado e contexto para uma decisão (MCGEE & PRUZAK, 1994)
+
+- O conhecimento é um conjunto de informações interligadas e logicamente relacionadas, envolve a percepção do ambiente (MCGEE & PRUZAK, 1994)
+
+    - É um nível mais elevado do que um mero conjunto de informações: inclui reflexão, síntese, contexto
+
+    - Conhecimento é um entendimento (ou modelo) sobre pessoas, objetos ou eventos, derivado de informações sobre eles
+
+<img src="">
+
+<img src="">
+
+Ex: 
+- Dado: Valores diários de vendas
+
+- Informação: Histórico de vendas mensal
+
+- Conhecimento: Perfil do consumidor (ambiente, informações interligadas)
 
 
 obs: Muitas pessoas confundem BI com SAD a diferença entre uma coisa ou outra é que SAD trabalha com problemas não estruturados e BI com problemas estruturados
