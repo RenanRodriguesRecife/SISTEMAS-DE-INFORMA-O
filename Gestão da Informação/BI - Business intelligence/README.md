@@ -177,6 +177,75 @@ Ex:
 
 ## Modelo de Estratégia de Porter
 
+- A estratégia competitiva é a busca de uma posição competitiva favorável em um segmento econômico (arena fundamental da concorrência)
+	- Visa estabelecer uma posição lucrativa e sustentável contra as forças que determinam a concorrência.
+	
+- Dois fatores são essenciais para escolha de uma estratégia competitiva:
+
+	- Rentabilidade do segmento econômico a longo prazo (atratividade)
+	
+	- Posição competitiva
+		- Não importa o segmento econômico, sempre existem empresas que possuem uma rentabilidade acima da média!!!
+		
+- Não há regra absoluta para escolha de uma estratégia, a estratégia é dinâmica em função da rentabilidade do segmento e da posição competitiva
+
+
+- O modelo de estratégia de Porter considera fatores preponderantes que explicam a relação de concorrência na dimensão atratividade para um segmento econômico.
+
+- Portanto, a estratégia competitiva surge após a compreensão das regras da concorrência que determinam a competitividade da indústria
+
+- A meta final da estratégia competitiva é lidar com as regras de concorrência e (em termos ideais) modificar as regras em favor da empresa.
+
+- O modelo de Porter considera que existem 5 forças competitivas.
+
+- O que motiva a demanda por um determinado produto ou serviço?
+
+- O que motiva a oferta de um produto ou serviço?
+
+- Qual o resultado da interação entre a Oferta e Demanda por um determinado produto ou serviço?
+
+Oferta x Demanda
+
+<img src="">
+
+Oferta x Demanda: Concorrência
+
+<img src="">
+
+# Pensamento econômico
+
+- Existem várias correntes de pensamento econômico
+
+	- Clássica
+	
+	- Neoclássica
+	
+	- Schumpeteriana
+	
+	- Neoschumpeteriana
+
+Teoria Econômica Neoclássica
+
+- A teoria neoclássica busca provar teorias explicativas sobre o funcionamento da economia de mercado
+
+- Assim busca explicar o funcionamento da economia através da alocação mais eficiente possível dos recursos
+
+- Portanto em seu paradigma a economia é um universo de pequenos produtores e consumidores, livre para maximizar suas preferências em condições de certeza
+
+- A abordagem utilizada pelos fundadores dessas correntes é que o método de análise mais adequado para os estudos econômicos deveria ser aquele desenvolvido pelas ciências exatas e da natureza (Física e Matemática)
+
+- Assim formalizaram o "sistema de equilíbrio geral", conhecido também por "fluxo circular da economia neoclássica"
+
+- O tipo de mercado é um complicador para as análises econômicas incluse a definição de competitividade entre as firmas
+
+- As imperfeições do mercado levam a implicações no "pleno e ótimo uso dos recursos"
+
+- A configuração da estrutura de mercado pode ser perfeita ou imperfeita.
+
+- Assim, tem-se estruturas de mercado de monopólio, oligopólio e outras formas de concorrência que influenciam na formação dos preços.
+
+Teoria Econômica neoclássica: Oferta e Demanda.
+
 
 
 
