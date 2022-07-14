@@ -14,7 +14,9 @@
 
     - Controle, gerenciamento de operações (SADs, ERPs, CRMs, BI)
 
+    - A informação competitiva engloba muito mais do que a análise dos concorrentes (MCGEE & PRUZAK, 1994)
 
+    <img src="">
 
 
 obs: Muitas pessoas confundem BI com SAD a diferença entre uma coisa ou outra é que SAD trabalha com problemas não estruturados e BI com problemas estruturados
