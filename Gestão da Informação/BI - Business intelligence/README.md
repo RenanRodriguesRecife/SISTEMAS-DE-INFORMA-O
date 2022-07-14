@@ -140,6 +140,15 @@ Ex:
 - Conhecimento: Perfil do consumidor (ambiente, informações interligadas)
 
 
+## Relação entre Gestão da Informação e do Conhecimento
+
+<img src="">
+
+## Evolução dos SI com GI&C
+
+<img src="">
+
+
 obs: Muitas pessoas confundem BI com SAD a diferença entre uma coisa ou outra é que SAD trabalha com problemas não estruturados e BI com problemas estruturados
 
 Modelo Business Pressures-Responses-Support
