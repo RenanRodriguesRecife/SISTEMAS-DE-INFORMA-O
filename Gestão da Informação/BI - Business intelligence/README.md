@@ -149,6 +149,43 @@ Ex:
 <img src="">
 
 
+
+
+
+# Modelo de Estratégia de Porter
+
+- A concorrência está no âmago do sucesso ou fracasso de uma organização
+
+- A competição é a força motriz para adequação das atividades que podem contribuir para o seu desempenho:
+
+    - Inovações
+
+    - Estrutura organizacional
+
+    - Operação: Função Produção
+
+<img src= "">
+
+
+## Adizes: Crescimento organizacional
+
+<img src= "">
+
+## Greiner: Características das fases de crescimento
+
+<img src = "">
+
+## Modelo de Estratégia de Porter
+
+
+
+
+
+
+
+
+
+
 obs: Muitas pessoas confundem BI com SAD a diferença entre uma coisa ou outra é que SAD trabalha com problemas não estruturados e BI com problemas estruturados
 
 Modelo Business Pressures-Responses-Support
