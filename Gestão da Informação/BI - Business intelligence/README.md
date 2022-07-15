@@ -256,6 +256,38 @@ Teoria Econômica neoclássica: Oferta e Demanda.
 
 	- Equilíbrio de mercado (Oferta x Demanda)
 
+Teoria Econômica Neoclássica: Oferta e Demanda
+
+- Do gráfico da relação Oferta x Demanda pode-se observar que:
+
+    - Se o preço for maior que o preço de mercado, (P1>P*), ocorre sobre de mercadorias (Q*-Qtd1)
+
+    - Se o preço for menor que o de mercado, (P2< P*), ocorre falta de mercadoria (Qtd2 -Q*)
+
+    - Isso que dizer que o sistema entra em equilibrio somente no ponto em que a oferta é igual à demanda (P*, Q*), ou seja, um ponto virtual de equilibrío
+
+
+<img src="">
+
+
+## Modelo de Estratégia de Porter
+
+- De acordo com Porter, as regras de concorrência são influenciadas por 5 forças
+
+    - Entrada de novos concorrentes
+
+    - Ameaça de substitutos
+
+    - Poder de negociação dos compradores
+
+    - Poder de negociação dos fornecedores
+
+    - Rivalidade entre os concorrentes existentes
+
+<img src="">
+
+
+
 
 
 
