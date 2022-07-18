@@ -13,6 +13,7 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 ## Qual a função do gestor?
 
 O gestor, mais do que qualquer outra pessoa, interioriza fortemente a contradição entre capital/trabalho:
+
     - De um lado, forte identificação com os interesses da empresa um interiorização da lógica de lucro, uma adesão às normas e aos valores do sistema capitalista.
     - De outro, uma condição salarial submetida às imprevisibilidade da carreira, ao risco da dispensa, à pressão do trabalho e a uma competição feroz.
 
