@@ -26,7 +26,7 @@ o raciocínio do ser humano tem a capacidade limitada, não adinta um programa c
 
     - A informação competitiva engloba muito mais do que a análise dos concorrentes (MCGEE & PRUZAK, 1994)
 
-    <img src="/.assets/analiseConco.JPG">
+    <img src="../.assets/analiseConco.JPG">
 
     - A informação é utilizada na definição de estratégias
     <img src=””>
