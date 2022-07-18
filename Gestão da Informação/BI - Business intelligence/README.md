@@ -29,10 +29,10 @@ o raciocínio do ser humano tem a capacidade limitada, não adinta um programa c
     <img src="../.assets/analiseConco.JPG">
 
     - A informação é utilizada na definição de estratégias
-    <img src=””>
+    <img src=”../.assets/ifoestr.JPG”>
 
     - A informação precisa estar em todos os processos da organização -> Business Intelligence!
-    <img src=””>
+    <img src=”../.assets/proorg.JPG”>
 
 - A informação na integração de estratégias (MCGEE & PRUZAK, 1994)
     - Atuar como elemento de ligação entre a definição da estratégia e sua execução
