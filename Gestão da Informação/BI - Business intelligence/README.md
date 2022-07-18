@@ -1,3 +1,5 @@
+o raciocínio do ser humano é limitado, não adinta um programa cheio de features ou cheio de saídas se o que você precisa para solucionar um problema é algo bem limitado
+
 -- Como gerenciar informação e conhecimento?
 
 - Por que estudar Gestão da Informação e do Conhecimento?
@@ -6,9 +8,9 @@
 
     - Diversidade de funções / Grid Estratégico
 
-    - Abundância de Informação / estratégia (MCGEE & PRUZAK, 1994)
+    - Abundância de Informação / integração entre estratégia e informação (MCGEE & PRUZAK, 1994)
 
-    - Concorrência, globalização, recursos escassos (SADs ou DSSs)
+    - Concorrência, globalização, recursos escassos para ser usado de forma mais eficiente (SADs ou DSSs)
 
     - Data Science, Big Data (SADs, ERPs, CRMs, BI)
 
