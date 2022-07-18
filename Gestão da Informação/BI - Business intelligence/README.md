@@ -1,24 +1,32 @@
-o raciocínio do ser humano é limitado, não adinta um programa cheio de features ou cheio de saídas se o que você precisa para solucionar um problema é algo bem limitado
+o raciocínio do ser humano tem a capacidade limitada, não adinta um programa cheio de features ou cheio de saídas se o que você precisa para solucionar um problema de decisão é algo bem limitado
 
 -- Como gerenciar informação e conhecimento?
+- Como uma organização pode crescer oferencendo a informação no tempo e no local correto?
 
 - Por que estudar Gestão da Informação e do Conhecimento?
 
-    - Investimentos em TI / Modelos de Governancia
+    - Tem muitos Investimentos em TI / Modelos de Governancia
 
-    - Diversidade de funções / Grid Estratégico
+    - Diversidade de funções nas empresas / Grid Estratégico
 
     - Abundância de Informação / integração entre estratégia e informação (MCGEE & PRUZAK, 1994)
 
     - Concorrência, globalização, recursos escassos para ser usado de forma mais eficiente (SADs ou DSSs)
 
-    - Data Science, Big Data (SADs, ERPs, CRMs, BI)
+    - Data Science, Big Data (SADs, ERPs, CRMs, BI), muitos dados sendo produzidos nos sistemas das empresas
 
-    - Controle, gerenciamento de operações (SADs, ERPs, CRMs, BI)
+    - As empresas precisão cada vez mais resolver problemas relacionados a Controle, gerenciamento de operações (SADs, ERPs, CRMs, BI)
+
+- levantar os dados
+- estruturar o problema
+- criar indicadores
+- acompanhar os indicadores, prever os resultados dos indicadores
+- detectar qualquer tipo de anomalia ou itens que precisam de melhoria
+
 
     - A informação competitiva engloba muito mais do que a análise dos concorrentes (MCGEE & PRUZAK, 1994)
 
-    <img src="">
+    <img src="/.assets/analiseConco.JPG">
 
     - A informação é utilizada na definição de estratégias
     <img src=””>
