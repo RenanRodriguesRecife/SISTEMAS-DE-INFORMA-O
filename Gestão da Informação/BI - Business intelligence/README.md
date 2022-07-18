@@ -52,7 +52,7 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 
 ## Principais teorias de Gestão
 
-<img src="">
+<img src="../.assets/teoGest.JPG">
 
 ## Qual o grande desafio?
 
