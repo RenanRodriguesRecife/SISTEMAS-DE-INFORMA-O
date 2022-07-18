@@ -33,7 +33,7 @@ o raciocínio do ser humano tem a capacidade limitada, não adinta um programa c
 
 
     - A informação precisa estar em todos os processos da organização (todos os setores devem ter acesso a informação para conseguir aumnetar a margem de lucro e melhorando os processos)-> Business Intelligence! (informação no contexto correto, no lugar certo, na hora certa, sendo disponibilizada para quem precisa)
-    <img src=”../.assets/proorg.JPG”>
+    <img src="../.assets/proorg.JPG">
 
 
 - A informação na integração de estratégias (MCGEE & PRUZAK, 1994)
