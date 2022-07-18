@@ -76,7 +76,7 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 
 <img src= "../.assets/si.JPG">
 
-<img src= "">
+<img src= "../.assets/orgopes.JPG">
 
 ## Dados vs Informação
 
