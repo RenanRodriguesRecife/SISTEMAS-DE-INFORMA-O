@@ -43,12 +43,12 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 - 3 fenômenos maiores transformam o capitalismo industrial do final do século XX:
 
     - As lógicas de produção estão cada vez mais submetidas às pressões das lógicas financeiras. A economia financeira substituiu a economia industrial.
-
+    
         - É a lógica financeira que faz com que a informação tenha alto valor nessa nova economia -> menos que produzir, eu preciso conhecer para poder especular, prever, antecipar, modelar!
 
-    - O peso dos mercados e mundialização  põem de novo em questão os modos de regulação econômica: o capital é desterritorializado
+    - O peso dos mercados e mundialização  põem de novo em questão os modos de regulação econômica: o capital é desterritorializado (para trabalhar em um mercado regional não tem como desconsiderar o mercado mundial)
 
-    - A fusão das telecomunicações com a informática instaura a “ditadura” do tempo real e a imediatidade das respostas às exigências dos mercados financeiros
+    - A fusão das telecomunicações com a informática instaura a “ditadura” do tempo real e a imediatidade das respostas às exigências dos mercados financeiros (com base nas informações você pode tormar melhores decisões aumentando sua eficiência)
 
 ## Principais teorias de Gestão
 
