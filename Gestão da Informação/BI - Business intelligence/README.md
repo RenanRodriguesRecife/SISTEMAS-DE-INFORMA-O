@@ -77,6 +77,7 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 <img src= "../.assets/si.JPG">
 
 <img src= "../.assets/orgopes.JPG">
+(os sistemas da informação devem apoiar todas essas etapas)
 
 ## Dados vs Informação
 
