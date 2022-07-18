@@ -49,6 +49,7 @@ _ Em síntese:
     - SIs oferecem suporte para melhorar o relacionamento com o clientes e fornecedores.
     - SIs fornecem suporte para redução de custos, estoques, melhoram a logística (interna e externa), entre outros;
     - SIs permitem melhorar a eficiência organizacional, a produtividade, a eficiência dos processos, a satisfação…
+    - Existe uma infinidade de motivos...
 
 Desde que haja uma boa Gestão da Informação e do Conhecimento para que os SIs possam ser planejados e priorizados de forma estratégica.
 
