@@ -12,7 +12,7 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 
 ## Qual a função do gestor?
 
-= O gestor, mais do que qualquer outra pessoa, interioriza fortemente a contradição entre capital/trabalho:
+- O gestor, mais do que qualquer outra pessoa, interioriza fortemente a contradição entre capital/trabalho:
 
     - De um lado, forte identificação com os interesses da empresa um interiorização da lógica de lucro, uma adesão às normas e aos valores do sistema capitalista. (ele faz parte da mão de obra mas tem que refletir o interesse do lucro)
 
@@ -22,6 +22,7 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 
     - Sua função consiste em produzir um sistema que liga e combina elementos tão disparatados quanto o capital, o trabalho, as matérias-primas, a tecnologia, as regras, as normas e os procedimentos.
 
+(Existe um ditado antigo: "O que engorda o gado é o olho do dono". Porém esse ditado é ultrapassado hoje existe gestão organizacional, nas multinacionais é impossível o dono da empresa ficar de olho em tudo)(Um bom sistema de gestão para funcionar precisa de um Sistema da Informação)
     
 ### O que é gerenciamento?
 
@@ -31,9 +32,9 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 
     - O arranjo ou ordenação consiste em pretar atenção ao conjunto daqueles que contribuem para essa missão, a fim de melhor mobilizá-los em vista de um fim comum, para o proveito de todos
 
-- Hoje, em muitas empresas, o termo evoca mais a ideia de arrumação
+- Hoje, em muitas empresas, o termo evoca mais a ideia de arrumação como "arranjar", "providenciar" e "arrumar"
 
-- Então, como "arranjar", "providenciar" e "arrumar" a informação e conhecimento?
+- Porém na década de 90 advento das tecnologias Computacionais a informação e o conhecimento tornaram questão chaves para a conectividade e esse termo ganhou novo significado.
 
 ### Era da informação e do conhecimento?
 
