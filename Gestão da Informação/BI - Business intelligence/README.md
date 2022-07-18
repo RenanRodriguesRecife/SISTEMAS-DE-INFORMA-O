@@ -66,7 +66,7 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 
 ## Sistema de Informação
 
-É um conjunto de componentes inter-relacionados para coletar (ou recuperar), processar, armazenar e distribuir informações destinadas a:
+- É um conjunto de componentes inter-relacionados para coletar (ou recuperar), processar, armazenar e distribuir informações destinadas a:
 
     - Apoiar a tomada de decisões de uma organização
 
@@ -74,7 +74,7 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 
     - Controle de uma organização
 
-<img src= "">
+<img src= "../.assets/si.JPG">
 
 <img src= "">
 
