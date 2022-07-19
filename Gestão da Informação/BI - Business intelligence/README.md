@@ -79,6 +79,8 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 <img src= "../.assets/orgopes.JPG">
 (os sistemas da informação devem apoiar todas essas etapas)
 
+22:27
+
 ## Dados vs Informação
 
 - A informação não se limita aos dados coletados; na verdade são dados coletados, organizados, ordenados, aos quais são atribuídos significado e contexto para uma decisão (MCGEE & PRUZAK, 1994)
