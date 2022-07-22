@@ -1,4 +1,6 @@
-Sistema de apoio à decisão (SAD)
+# Sistema de apoio à decisão (SAD)
+
+(também conhecido por Decision Support System (DSS))
 
 Definição
 
