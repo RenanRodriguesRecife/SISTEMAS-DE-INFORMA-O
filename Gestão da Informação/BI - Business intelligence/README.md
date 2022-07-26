@@ -343,3 +343,28 @@ Business Intelligence
     - BI é um termo guarda-chuva que combine arquitetura, ferramentas, base de dados, ferramentas de análise (analytics), aplicações e metodologias
 
     - BI é um termo de conteúdo livre pois possui diferentes significados dependendo do pessoal envolvido.
+
+
+OBS
+```
+As empresas estão muito preocupadas em adquirir novos clientes e não tanto em manter os que têm (As promoções para quem está entrando é sempre melhor do que os que está estão dentro)
+
+
+NPS (Net Promoter Score) - Kpi para verificar o nível de fidelidade do cliente
+```
+
+OBS
+```
+Bi geralmente é colocado de lado no Brasil. Pq existe muita sonegação e "corrupção" que causa maior vantagem competitiva.
+```
+
+OBS
+```
+Programação linear:
+- Variável de excesso 
+- Variável de folga
+
+No computador o sinal de <=é tratado como ==. O < é tratado como uma variável artificial. (ou seja <= tem o mesmo tempo de processamento do ==)
+
+"Se for realizar um problema no computador usando solver pode dá error por conta disso"
+```
