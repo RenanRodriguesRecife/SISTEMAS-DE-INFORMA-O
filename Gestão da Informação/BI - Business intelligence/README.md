@@ -46,7 +46,7 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 
     - As lógicas de produção estão cada vez mais submetidas às pressões das lógicas financeiras. A economia financeira substituiu a economia industrial.
     
-        - É a lógica financeira que faz com que a informação tenha alto valor nessa nova economia -> menos que produzir, eu preciso conhecer para poder especular, prever, antecipar, modelar!
+        - É a lógica financeira que faz com que a informação tenha alto valor nessa nova economia -> menos o que produzir, eu preciso conhecer para poder especular, prever, antecipar, modelar!
 
     - O peso dos mercados e mundialização  põem de novo em questão os modos de regulação econômica: o capital é desterritorializado (para trabalhar em um mercado regional não tem como desconsiderar o mercado mundial)
 
@@ -81,21 +81,19 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 <img src= "../.assets/orgopes.JPG">
 (os sistemas da informação devem apoiar todas essas etapas)
 
-22:27
-
 ## Dados vs Informação
 
-- A informação não se limita aos dados coletados; na verdade são dados coletados, organizados, ordenados, aos quais são atribuídos significado e contexto para uma decisão (MCGEE & PRUZAK, 1994)
+- A informação não se limita aos dados coletados; na verdade são dados coletados, organizados, ordenados, aos quais são atribuídos **significado e contexto para uma decisão** (MCGEE & PRUZAK, 1994)
 
 - O conhecimento é um conjunto de informações interligadas e logicamente relacionadas, envolve a percepção do ambiente (MCGEE & PRUZAK, 1994)
 
-    - É um nível mais elevado do que um mero conjunto de informações: inclui reflexão, síntese, contexto
+    - É um nível mais elevado do que um mero conjunto de informações: **inclui reflexão, síntese, contexto**
 
     - Conhecimento é um entendimento (ou modelo) sobre pessoas, objetos ou eventos, derivado de informações sobre eles
 
-<img src="">
+<img src="../.assets/dados vs info.JPG">
 
-<img src="">
+<img src="../.assets/confinfodados.JPG">
 
 Ex: 
 - Dado: Valores diários de vendas
