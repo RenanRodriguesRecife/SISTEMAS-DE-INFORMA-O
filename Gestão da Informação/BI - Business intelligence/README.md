@@ -18,6 +18,8 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 
     - De outro, uma condição salarial submetida às imprevisibilidade da carreira, ao risco da dispensa, à pressão do trabalho e a uma competição feroz.
 
+    (O papel do gestor é a pessoa que está fazendo essa ponte)(ele tem que tar defendendo os interecesses da empresa mas ele não é dono)(existe mecanismos de controle e acompanhamento tanto do trabalho de quem tá abaixo do gestor quanto do gestor)
+
 	Como lidar com isso?
 
     - Sua função consiste em produzir um sistema que liga e combina elementos tão disparatados quanto o capital, o trabalho, as matérias-primas, a tecnologia, as regras, as normas e os procedimentos.
@@ -368,3 +370,5 @@ No computador o sinal de <=é tratado como ==. O < é tratado como uma variável
 
 "Se for realizar um problema no computador usando solver pode dá error por conta disso"
 ```
+
+Buscar: Excel (solver)
