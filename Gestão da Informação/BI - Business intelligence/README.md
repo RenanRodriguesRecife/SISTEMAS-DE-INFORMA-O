@@ -92,6 +92,8 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
     - Conhecimento é um entendimento (ou modelo) sobre pessoas, objetos ou eventos, derivado de informações sobre eles
 
 <img src="../.assets/dados vs info.JPG">
+(Informação - exige consenso - todo mundo que ver vai entender a mesma coisa)
+(Um dos trabalhos é transformar o conhecimento tácito em explícito e disseminar esse conhecimento na organização)
 
 <img src="../.assets/confinfodados.JPG">
 
@@ -100,16 +102,18 @@ Ex:
 
 - Informação: Histórico de vendas mensal
 
-- Conhecimento: Perfil do consumidor (ambiente, informações interligadas)
+- Conhecimento: Perfil do consumidor (ambiente, informações interligadas)(cria um modelo com a informação)
 
 
 ## Relação entre Gestão da Informação e do Conhecimento
 
-<img src="">
+<img src="../.assets/relação.JPG">
+
+A relação de gestão de informação e conhecimento é que tem um processo de interação de procurar transformar o conhecimento tácito em explícito
 
 ## Evolução dos SI com GI&C
 
-<img src="">
+<img src="../.assets/evosi.JPG">
 
 
 
