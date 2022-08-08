@@ -116,8 +116,13 @@ A relação de gestão de informação e conhecimento é que tem um processo de 
 <img src="../.assets/evosi.JPG">
 
 
+## ESTUDO DE CASO: SISTEMA SABRE:
 
+Sabre foi um sistema de processamento de reservas eletrônica criado pela American Airlines. Era totalmente centralizado e eletrônico, capaz de lidar com agendamentos de tripulações, rota, movimento de carga...Na época ele era o maior sistema de processamento ele usava o mesmo equipamento usado pelo pentágono para monitorar a defesa. Funcionava 24/7.
 
+Sabre tem 3 componentes principais
+
+Origens do SABRE: • https://www.youtube.com/watch?v=SSGWq9VrMZ8
 
 # Modelo de Estratégia de Porter
 
