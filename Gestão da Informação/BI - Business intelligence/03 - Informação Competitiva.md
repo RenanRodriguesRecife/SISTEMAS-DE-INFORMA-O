@@ -16,7 +16,7 @@
 
 ## Adizes: Crescimento organizacional
 
-<img src= "">
+<img src= "./.assets/crescimentoOrg.JPG">
 
 ## Greiner: Características das fases de crescimento
 
