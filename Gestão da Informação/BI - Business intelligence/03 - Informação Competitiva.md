@@ -53,11 +53,11 @@
 
 Oferta x Demanda
 
-<img src="">
+<img src="../.assets/ofertademanda.JPG">
 
 Oferta x Demanda: Concorrência
 
-<img src="">
+<img src="../.assets/concorrencia.JPG">
 
 # Pensamento econômico
 
