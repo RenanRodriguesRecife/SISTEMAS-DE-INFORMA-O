@@ -11,7 +11,7 @@
 
     - Operação: Função Produção
 
-<img src= ".assets/como empresas crescem.JPG">
+<img src= "./.assets/como empresas crescem.JPG">
 
 
 ## Adizes: Crescimento organizacional
