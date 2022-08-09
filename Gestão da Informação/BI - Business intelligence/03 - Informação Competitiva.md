@@ -20,7 +20,7 @@
 
 ## Greiner: Características das fases de crescimento
 
-<img src = "">
+<img src = "./.assets/fases organizacionais.JPG">
 
 ## Modelo de Estratégia de Porter
 
