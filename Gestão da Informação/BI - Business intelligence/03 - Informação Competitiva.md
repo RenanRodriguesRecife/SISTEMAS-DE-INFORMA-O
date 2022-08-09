@@ -1,4 +1,4 @@
-
+./.assets/
 # Modelo de Estratégia de Porter
 
 - A concorrência está no âmago do sucesso ou fracasso de uma organização
@@ -16,7 +16,7 @@
 
 ## Adizes: Crescimento organizacional
 
-<img src= "./.assets/crescimentoOrg.JPG">
+<img src= "../.assets/crescimentoOrg.JPG">
 
 ## Greiner: Características das fases de crescimento
 
