@@ -114,7 +114,7 @@ Teoria Econômica Neoclássica: Oferta e Demanda
     - Isso que dizer que o sistema entra em equilibrio somente no ponto em que a oferta é igual à demanda (P*, Q*), ou seja, um ponto virtual de equilibrío
 
 
-<img src="">
+<img src="../.assets/PensaEco.JPG">
 
 
 ## Modelo de Estratégia de Porter
@@ -130,7 +130,7 @@ Teoria Econômica Neoclássica: Oferta e Demanda
 
     - Rivalidade entre os concorrentes existentes
 
-<img src="">
+<img src="../.assets/poter.JPG">
 
 ## Vantagem competitiva através de GI
 
@@ -164,7 +164,7 @@ Teoria Econômica Neoclássica: Oferta e Demanda
 
 - Como a Gestao da Informação pode melhorar o negócio?
 
-<img src="">
+<img src="../.assets/vantcomp.JPG">
 
 - Contribuições da Gestão da Informação para vantagem competitiva:
 
