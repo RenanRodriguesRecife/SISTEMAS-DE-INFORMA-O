@@ -10,4 +10,4 @@ apoio a decisão
 
 ## Modelo Business Pressures-Responses-Support
 
-<img src="./.assets/pressure responses support.JPG">
+<img src="../.assets/pressure responses support.JPG">
