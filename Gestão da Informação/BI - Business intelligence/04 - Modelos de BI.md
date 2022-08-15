@@ -11,3 +11,13 @@ apoio a decisão
 ## Modelo Business Pressures-Responses-Support
 
 <img src="../.assets/pressure responses support.JPG">
+
+### Modelo Business Pressures-Responses-Support
+
+- Este modelo considera 3 componentes básicos:
+
+    -  Pressões do ambiente competitivo
+
+    -  Respostas, ações e contra-medidas da organização
+    
+    -  Suporte a decisões
