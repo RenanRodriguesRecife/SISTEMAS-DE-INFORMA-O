@@ -19,5 +19,10 @@ apoio a decisão
     -  Pressões do ambiente competitivo
 
     -  Respostas, ações e contra-medidas da organização
-    
+
     -  Suporte a decisões
+
+
+- O **ambiente competitivo** torna-se cada vez mais complexo, no entanto esta complexidade também traz oportunidades
+
+    - 

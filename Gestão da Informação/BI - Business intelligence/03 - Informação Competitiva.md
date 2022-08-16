@@ -1,4 +1,3 @@
-./.assets/
 # Modelo de Estratégia de Porter
 
 - A concorrência está no âmago do sucesso ou fracasso de uma organização
@@ -9,18 +8,30 @@
 
     - Estrutura organizacional
 
-    - Operação: Função Produção
+    - Operação: Função Produção (a forma de como a empresa agrega valor, presta ou produz algum serviço)
+
+## Greiner: Crescimento organizacional
 
 <img src= "../.assets/como empresas crescem.JPG">
+Existe uma relação entre a maturidade de uma empresa e o tamanho dela. 
 
+Esses períodos de ranhuras no gráfico são processos de revolução dentro de uma empresa. Ela tem uma crise e dentro da crise ela amadurece e cresce e tem um processo de aprendisagem organisacional. Tem empresas que tem uma taxa de crescimento mais rápida e outras mais baixa.
 
 ## Adizes: Crescimento organizacional
 
 <img src= "../.assets/crescimentoOrg.JPG">
 
+Ele diz que as empresas tem suas crises. E se não morrer antes ela pode até chegar ao momento de Prime (melhor performace). Até chegar no pico e depois cair.
+
 ## Greiner: Características das fases de crescimento
 
 <img src = "../.assets/fases organizacionais.JPG">
+
+dependendo da faze que a empresa está ela vai ter uma abordagem gerencial, de controle, de remuneração... diferente.
+
+Fase 1: No início a organização é bem informal 
+
+7:31
 
 ## Modelo de Estratégia de Porter
 
