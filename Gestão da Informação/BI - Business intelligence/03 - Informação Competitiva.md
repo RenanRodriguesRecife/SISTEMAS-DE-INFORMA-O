@@ -29,13 +29,36 @@ Ele diz que as empresas tem suas crises. E se não morrer antes ela pode até ch
 
 dependendo da faze que a empresa está ela vai ter uma abordagem gerencial, de controle, de remuneração... diferente.
 
-Fase 1: No início a organização é bem informal 
+Fase 1: No início a organização é bem informal,
+    produz oque está em encomenda,
+    o estilo é empreendedor,
+    é monitorado apenas pelos resultados que o mercado determina,
+    a remuneração está acossiada com o sentimento de posse, de sentir dono do negócio
 
-7:31
+Fase 2: Busca maior pela eficiencia,
+    estilo mais gerencial (voltado ao direcionamento),
+    monitoramento de indicadores de custos,
+    motivação está associada a recompensas financeiras
+
+Fase 3: Expanção do mercado,
+    questões geográficas que são incorporadas,
+    delegação de responsabilidade e controle através de relatórios,
+    Bonus, ganhos atravez da participação nos lucros.
+
+
+Uma empresa jovem para concorrer com uma empresa maior ela precisa se destacar pela inovação (realidade das startup)
+
+Depois que se tem uma estrutura muito burocrática que se torna enrigecida, as vezes é preciso voltar a buscar inovar para caminhar ao sucesso.
+
+De uma forma de outra tudo isso está voltado a competividade e a vantagem competitiva.
+
 
 ## Modelo de Estratégia de Porter
 
+12:13
+
 - A estratégia competitiva é a busca de uma posição competitiva favorável em um segmento econômico (arena fundamental da concorrência)
+
 	- Visa estabelecer uma posição lucrativa e sustentável contra as forças que determinam a concorrência.
 	
 - Dois fatores são essenciais para escolha de uma estratégia competitiva:
