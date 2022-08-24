@@ -9,3 +9,12 @@ baixar o xml de cada professor de cada programa
 Comparar cada programa os indicadores do professor para comparar dados
 
 Cada artigo tem uma nota
+
+Avaliar o quanto mais pode produzir avaliando outras unidades
+
+criar um Dashboard - verificar métricas de comparação
+
+obs: Focar nos pontos para almentar a nota e não nos pontos de corte
+obs: a nota é uma saída. Um resultado na avaliação
+obs: indicador importante - a renovação do programa
+
