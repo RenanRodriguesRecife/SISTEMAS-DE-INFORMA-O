@@ -26,6 +26,8 @@ obs: indicador importante - a renovação do programa
 - N de alunos formados
 - Per capta
 - agregado
-
+- número de pessoas que já leu
+- numero de acessos 
+- impacto nas redes sociais (views)
 
 Próxima etapa (Definir líderes do grupo, escolher a ferramenta)
