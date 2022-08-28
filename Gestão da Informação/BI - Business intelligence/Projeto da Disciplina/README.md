@@ -2,7 +2,10 @@ Late é um tipo de facebook dos pesquisadores
 
 1 - Baixar o XML do lates
 
-(Tem uma plataforma chamda sucupira)(busca avançada)
+(Tem uma plataforma chamda sucupira)(busca avançada)(A melhor forma de imprimir é no sucupira)
+
+Obs: As defesas do XML do lates pode tá desatualizada. Mais peso: Publicação do aluno e do professor.
+
 Buscar o curso
 verificar a lista de docentes
 baixar o xml de cada professor de cada programa
@@ -31,3 +34,7 @@ obs: indicador importante - a renovação do programa
 - impacto nas redes sociais (views)
 
 Próxima etapa (Definir líderes do grupo, escolher a ferramenta)
+
+
+
+
