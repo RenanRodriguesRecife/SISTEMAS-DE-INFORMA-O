@@ -1,6 +1,13 @@
+CAPES - Olha para o grupo de pós
+CNPQ - Olha para o pesquisador (indivíduo)
 Late é um tipo de facebook dos pesquisadores
 
+
 1 - Baixar o XML do lates
+
+lucylattes - github
+
+<img src="./.assets/projeto.jpg">
 
 (Tem uma plataforma chamda sucupira)(busca avançada)(A melhor forma de imprimir é no sucupira)
 
