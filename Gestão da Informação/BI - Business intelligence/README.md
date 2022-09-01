@@ -64,3 +64,23 @@ No computador o sinal de <=é tratado como ==. O < é tratado como uma variável
 ```
 
 Buscar: Excel (solver)
+
+
+
+
+
+===================
+
+```
+- SAD está mais voltado a empresas menores de consultoria
+
+Obs: O nome BI vende muito por isso algumas empresas usam no lugar e SAD
+
+- Existe outros tipos de lucros 
+
+- Social - melhora a qualidade a custo menor (serviços públicos)
+
+Analitics
+Tudo começa com BI
+
+```
