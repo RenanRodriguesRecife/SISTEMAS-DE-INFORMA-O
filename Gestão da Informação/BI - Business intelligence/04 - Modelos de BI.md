@@ -38,3 +38,66 @@ apoio a decisão
     - Regulamentações da sociedade
 
 <img src="../.assets/pressure responses support2.JPG">
+
+- **Respostas, ações e contra-medidas da organização** podem ser reativas, antecipativas, adaptativas ou proativas
+
+- Algumas empresas usam BI para melhorar a comunicação e dar suporte a gestão em seus esforços para reter os clientes e aumentar o faturamento
+
+- O uso de BI pode dar suporte a diversas atividades gerenciais para aumentar a competitividade do negócio
+
+#### Processos que podem ser suportados com BI:
+
+- Planejamento estratégico
+- Usar modelos de negócio inovadores
+- Reestruturar os processos de negócio
+- Formar de alianças
+- Sistemas de gestão corporativa
+- Relacionamento com parceiros
+- Estimular a inovação e criatividade
+- Melhorar relacionamentos com clientes
+- Envolver mídias sociais e plataformas móveis
+- Migrar para modelos make-to-order ou on-demand
+- Etc...
+
+### Modelo Business Pressures-Responses-Support
+
+- **DSSs (SAD)** permitem diminuir o gap entre a performance atual de uma organização e a performance almejada
+
+    - Alcançar Missão, Objetivos e Metas
+
+- Mintzbert (2008) classificou a atuação dos gestores em três categorias: interpessoal, informacional e de decisão
+
+- Para executar as atividades de gestão é necessário o suprimento eficiente de informação em tempo hábil
+
+- Quanto maior o nível gerencial, maior o escopo das decisões e as atividades gerenciais tornam-se basicamente processos decisórios
+
+<img src="../.assets/pressure responses support.JPG">
+
+- Decisões gerenciais representam um processo no qual os objetivos da organização são atingidos através do uso de recursos
+
+    - Input: recursos
+
+    - Output: alcançar as metas
+
+    - Sucesso: output/input
+
+- Então, GERENCIAR é TOMAR DECISÕES!
+
+- Decidir é escolher a melhor alternativa quando se tem no mínimo 2!
+
+- De uma forma geral os gestores tomam decisões seguindo um
+processo de 4 etapas:
+
+    - Definição / Estruturação do problema de decisão (oportunidade de decisão)
+
+    - Construção de um modelo que descreve o problema do mundo real
+
+    - Identificação de possíveis soluções para o problema e avaliação de soluções
+
+    - Comparação, escolha e recomendação de uma solução potencial para o problema
+
+- O uso desta abordagem para tomada de decisão pressupõe:
+
+    - 
+
+    14
