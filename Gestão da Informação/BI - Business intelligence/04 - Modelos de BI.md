@@ -266,3 +266,37 @@ BI vs DSS(SAD)
 - O objetivo é a uma recomendação (decisão) para uma ação específica
     - Em alguns casos é denominada de Analytics para Decisão ou Analytics Normativa
 
+
+<img src="../.assets/analitics.JPG">
+
+
+Analytics
+
+- https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/
+
+- How analytics enhance the guest experience at Walt Disney World
+    - https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/Industry-
+Profiles/Disney
+
+- Simplifying Vehicle Choice: Ford’s Fleet Purchase Planner
+    - https://www.youtube.com/watch?v=HErOv30WLqQ
+
+Overcoming the Challenges of Aircraft Engine Maintenance and Repair (American Airlines) 
+- https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/Overcoming-the-Challenges-of-Aircraft-Engine-Maintenance-and-Repair 
+– https://www.youtube.com/watch?v=_Gq4lga5ER4
+
+
+Edelman Award
+
+- A competição Franz Edelman iniciou em 1972
+
+- Busca premiar iniciativas de Analytics (PO) na iniciativa privada, ONGs e departamentos de Estado
+    - Organizações com ou sem fins lucrativos!
+
+- O premio é concedido para trabalhos implementados, não por um paper ou por uma apresentação de trabalho!
+
+- A empresa que usou o trabalho vencedor recebe um prêmio de citação e os autores do trabalho um prêmio em dinheiro
+
+- Os trabalhos finalistas são publicados na Interfaces / Journal of Applied Analytics
+
+22
