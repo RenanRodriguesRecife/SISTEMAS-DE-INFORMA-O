@@ -115,3 +115,52 @@ processo de 4 etapas:
     - Sistemas Complexos
 
 <img src="../.assets/map.JPG">
+
+<img src="../.assets/circlebi.JPG">
+
+<img src="../.assets/1970computerdesicionsurport.JPG">
+
+### 1970: Computerized Decision Support: Gorry & Scott-Morton Framework
+
+– Nível de Estruturação (Simon, 1977)
+
+    - Decisões são classificadas em estruturadas (programadas), semi-estruturadas e não estruturadas (não-programadas)
+
+- Tipos de Controle (Anthony, 1965)
+
+    - Planejamento Estratégico (longo prazo, alto nível gerencial)
+
+    - Controle Gerencial (planejamento tático)
+
+    - Controle Operacional
+
+
+
+
+- Business Intelligence (BI) é a evolução de conceitos utilizados para DSSs (SAD) ao longo do tempo
+
+
+    - Antes: Sistemas de Informação Executivo
+    - Agora: Sistemas de Informação para Todos (BI)
+
+- Sistemas de Business Intelligence possuem avanços em termos de visualização, alertas, e acompanhamento de indicadores de performance 
+
+- O termo BI foi cunhado a partir da evolução de SIs em empresas privadas
+
+    - BI é um termo guarda-chuva que combina arquitetura, ferramentas, base de dados, ferramentas de análise (analytics), aplicações e metodologias
+
+    - BI é um termo de conteúdo livre pois possui diferentes significados dependendo do pessoal envolvido
+
+Ex: Exemplo do uso de BI (Case Overbooking Frankfurt-London):
+
+- https://www.youtube.com/watch?v=NXEL5F4_aKA
+
+BI vs DSS(SAD)
+
+- Similaridades e diferenças?
+
+    - As arquiteturas são similares dado que BI teve sua origem em DSS(SAD)
+
+    - BI implica o uso de data warehouse, enquanto DSS(SAD) pode ou não requerer
+
+    - 
