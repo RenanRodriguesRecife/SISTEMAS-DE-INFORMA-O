@@ -225,3 +225,44 @@ BI vs DSS(SAD)
         - Prescriptive Analytics
 
 <img src="../.assets/analytics.JPG">
+
+### Descriptive Analytics
+
+- Relatórios de (Descriptive) Analytics se referem ao conhecimento daquilo que está acontecendo na organização e entendimento de algumas tendências
+
+- Envolve a consolidação de fontes de dados e disponibilidade de todos os dados relevantes de modo a parmitir a geração de relatórios e análises
+
+- O desenvolvimento dessa estrutura de dados parte do data warehouse
+
+- Um ponto essencial aqui são as tecnologias de visualização de dados 
+    **- Quem tiver maior interesse, tentar cursar disciplina de Prof.Nivan Ferreira!!!"** (2022)
+
+### Predictive Analytics
+
+- (Predictive) Analytics Preditiva tem o objetivo de determinar aquilo que pode acontecer no futuro
+
+- São análises baseadas em técnicas estatísticas assim como técnicas mais modernas que poderiam ser classificadas genericamente como data mining
+
+- O objetivo destas técnicas é ser capaz de antecipar:
+
+    - Se um cliente deseja migrar para um concorrente (Chum)
+
+    - Aquilo que o cliente deseja comprar e quanto  
+
+    - Que oferta um cliente pode aceitar
+
+    - Risco de inadimplência
+
+- Existem diversas técnicas para estas aplicações, incluindo vários tipos de algoritmos de classificação/segmentação/clusterização, tais como arvores de decisão, redes neurais.
+
+### Prescriptive Analytics
+
+- (Prescriptive) Analyticsc Prescritiva é a terceira categoria de analytics que considera aquilo que está acontecendo e o que foi previsto para tomar decisões (prescrever) que levem à melhor performance possível.
+
+- Este conjunto de ferramentas evoluiu sob o termo guarda-chuva de "Pesquisa Operacional" e "Management Science"
+
+- Busca a otimização da performance do sistema
+
+- O objetivo é a uma recomendação (decisão) para uma ação específica
+    - Em alguns casos é denominada de Analytics para Decisão ou Analytics Normativa
+
