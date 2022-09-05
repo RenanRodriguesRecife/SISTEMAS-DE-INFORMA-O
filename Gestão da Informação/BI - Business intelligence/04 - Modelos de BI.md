@@ -98,6 +98,20 @@ processo de 4 etapas:
 
 - O uso desta abordagem para tomada de decisão pressupõe:
 
-    - 
+    - Número suficiente de alternativas para solução do problema
 
-    14
+    - Capacidade de predição das consequências de escolher todos os cursos de ação considerados
+
+    - Capacidade de racionalizar, comparar e valorar os impactos das alternativas
+
+- Estes pressupostos são difíceis de validar totalmente (ambiente competitivo):
+
+    - Tecnologia (SIs, Search Engines, etc) e as consequências da globalização geram cada vez possibilidades
+
+    - Incertezas (governamental, regulatória, política, comportamento dos consumidores)
+
+    - Necessidade de decisões rápidas versus Custos de decisões equivocadas
+
+    - Sistemas Complexos
+
+<img src="../.assets/map.JPG">
