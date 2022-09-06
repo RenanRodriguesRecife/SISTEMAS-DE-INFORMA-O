@@ -156,7 +156,7 @@ Teoria Econômica Neoclássica: Oferta e Demanda
 
 - Do gráfico da relação Oferta x Demanda pode-se observar que:
 
-    - Se o preço for maior que o preço de mercado, (P1>P*), ocorre sobre de mercadorias (Q*-Qtd1)
+    - Se o preço for maior que o preço de mercado, (P1>P*), ocorre sobra de mercadorias (Q*-Qtd1)
 
     - Se o preço for menor que o de mercado, (P2< P*), ocorre falta de mercadoria (Qtd2 -Q*)
 
