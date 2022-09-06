@@ -1,4 +1,4 @@
-O raciocínio do ser humano tem a capacidade limitada, não adianta um programa cheio de features ou cheio de saídas se o que você precisa para solucionar um problema de decisão é algo bem limitado
+
 
 -- Como gerenciar informação e conhecimento?
 - Como uma organização pode crescer oferencendo a informação no tempo e no local correto?
