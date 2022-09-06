@@ -112,6 +112,12 @@ Ex:
 
 A relação de gestão de informação e conhecimento é que tem um processo de interação de procurar transformar o conhecimento tácito em explícito
 
+```
+Conhecimento explícito: é o conhecimento que possuímos e de que temos consciência. É o conhecimento que somos capazes de documentar, é o conhecimento que as organizações conseguem armazenar.
+
+O conhecimento tácito: ao contrário, é conhecimento que temos mas do qual não nos apercebemos. É conhecimento que adquirimos através da prática, da experiência, dos erros e dos sucessos. É conhecimento que não somos capazes de descrever nem documentar. É conhecimento que as organizações não podem utilizar depois fora das horas de trabalho dos seus colaboradores.
+```
+
 ## Evolução dos SI com GI&C
 
 <img src="../.assets/evosi.JPG">
