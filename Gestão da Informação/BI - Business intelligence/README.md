@@ -1,3 +1,10 @@
+## Objetivo da Disciplina
+
+
+
+**Entender e relacionar** os principais conceitos ligados a **informação**, **conhecimento e gestão** que são utilizados para operacionalizar modos de trabalho e formas de fazer numa organização
+
+
 
 
 obs: Muitas pessoas confundem BI com SAD a diferença entre uma coisa ou outra é que SAD trabalha com problemas não estruturados e BI com problemas estruturados
