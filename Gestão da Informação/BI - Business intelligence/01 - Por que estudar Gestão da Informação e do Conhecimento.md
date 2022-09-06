@@ -29,7 +29,7 @@
 
     <img src="../.assets/analiseConco.JPG">
 
-    - A informação é utilizada na definição de estratégias
+    - A informação é utilizada na **definição** de estratégias
     <img src="../.assets/ifoestr.JPG">
 
 
