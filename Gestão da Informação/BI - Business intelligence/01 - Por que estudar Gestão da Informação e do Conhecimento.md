@@ -6,7 +6,7 @@
 
 - Por que estudar Gestão da Informação e do Conhecimento?
 
-    - Tem muitos Investimentos em TI / Modelos de Governancia
+    - Tem muitos Investimentos em TI / Modelos de Governança
 
     - Diversidade de funções nas empresas / Grid Estratégico
 
