@@ -33,7 +33,7 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 
     - A providência consistem em organizar em vista de uma produção coletiva, de uma tarefa a cumprir, de uma obra a realizar
 
-    - O arranjo ou ordenação consiste em pretar atenção ao conjunto daqueles que contribuem para essa missão, a fim de melhor mobilizá-los em vista de um fim comum, para o proveito de todos
+    - O arranjo ou ordenação consiste em prestar atenção ao conjunto daqueles que contribuem para essa missão, a fim de melhor mobilizá-los em vista de um fim comum, para o proveito de todos
 
 - Hoje, em muitas empresas, o termo evoca mais a ideia de arrumação como "arranjar", "providenciar" e "arrumar"
 
