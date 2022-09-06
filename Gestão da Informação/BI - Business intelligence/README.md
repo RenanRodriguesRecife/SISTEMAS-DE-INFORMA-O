@@ -1,11 +1,5 @@
 
 
-
-
-
-
-
-
 obs: Muitas pessoas confundem BI com SAD a diferença entre uma coisa ou outra é que SAD trabalha com problemas não estruturados e BI com problemas estruturados
 
 Modelo Business Pressures-Responses-Support
@@ -34,6 +28,9 @@ Business Intelligence
 
     - BI é um termo de conteúdo livre pois possui diferentes significados dependendo do pessoal envolvido.
 
+
+OBS:
+```O raciocínio do ser humano tem a capacidade limitada, não adianta um programa cheio de features ou cheio de saídas se o que você precisa para solucionar um problema de decisão é algo bem limitado```
 
 OBS
 ```
