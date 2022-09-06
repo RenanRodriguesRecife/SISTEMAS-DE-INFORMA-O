@@ -299,4 +299,72 @@ Edelman Award
 
 - Os trabalhos finalistas são publicados na Interfaces / Journal of Applied Analytics
 
-22
+Os projetos finalistas desta competição já alcançaram retorno financeiro de mais de 250 bilhões de dólares! 
+– https://www.informs.org/Resource-Center/Video-Library/Edelman-Competition-Videos
+
+• INFORMS O.R. and Analytics Impact (5:26) 
+– https://www.youtube.com/watch?v=lq0B6wnAbk0
+
+• INFORMS 2017 Edelman Gala Video (5:26) 
+– https://www.youtube.com/watch?v=uApYRpZL_FY
+
+
+- 2018 Edelman Finalist Turner Broadcasting (37:29) 
+– https://www.youtube.com/watch?v=KJ5aK4-pRWo
+
+• Turner has designed and implemented innovative and integrated forecasting and optimization models that power audience targeting solutions disrupting decades-old paradigms and business processes in the media industry, and producing significant sales and advertisement efficiencies for Turner and its clients. Turner is on track to sell 50 percent of its inventory through audience targeting by 2020, representing billions in ad revenue.
+
+• 2018 Edelman Finalist Intel 
+
+– https://www.youtube.com/watch?v=gdIESpRi00k
+
+• Analytics Makes Inventory Planning A Lights-Out Activity at Intel Corporation Intel, which employs more than 100,000 people in over 70 countries around the world and has an annual revenue of $60 billion, implemented a fully automated Multi-Echelon Inventory Optimization (MEIO) based inventory target-setting system managing $1 billion daily in finished goods inventory representing over $40B a year in sales. Algorithm-derived inventory targets at Intel are accepted by planners +99.5 percent of the time and have simultaneously driven higher customer service and lower inventory levels resulting in over $1.3B in gross profit since 2014.
+In addition, customers are delighted: since MEIO was implemented at all of Intel’s vendor managed inventory hubs in 2012, customer satisfaction has never been higher and Intel has landed in the top-10 of Gartner’s Supply Chain Top-25 every year. Faculty in the department of Business Analytics and Statistics at the University of Tennessee, Knoxville and the supply chain software company Logility also contributed to this project.
+
+
+2018 Edelman Finalist Europcar 
+
+– https://www.youtube.com/watch?v=3ikQmmyNSQg
+
+• Europcar Integrates Forecast, Simulation and Optimization Techniques in a Capacity and Revenue
+Management System Europcar, the leading European car rental company, partnered with ACT Operations
+Research to create Opticar, a complex decision support system. Opticar features forecasts, discrete event
+simulations and optimization techniques providing an integrated approach to revenue and capacity
+management. Opticar anticipates future demand for Europcar’s vehicles fleet, up to six months in advance,
+improving capacity management. In addition, Opticar enables Europcar to optimize its approach to revenue
+management and rental pricing, taking into account competitors information, the currently available fleet and
+expected demand for vehicles. Opticar provides a shared mathematical approach used as a starting point for all
+daily operations to nine Europcar’s corporate countries.
+
+• 2018 Edelman Finalist Pediatric Heart Network 
+– https://www.youtube.com/watch?v=8U_T_m8rStg
+
+• Collaborative Systems Analytics: Establishing Effective Clinical Practice Guidelines for Advancing Congenital
+Cardiac Care The Pediatric Heart Network enlisted researchers with the Georgia Institute of Technology to
+create clinical practice guidelines (CPG) for pre-, intra-, and post-surgical care of patients with congenital heart
+defects (CHDs), the most common birth defect, impacting nearly 1 million children and 1.4 million adults in the
+U.S. Substantial variances in surgical practices to treat patients with CHDs among different healthcare centers
+were reflected in inconsistent surgical outcomes, some of which resulted in negative consequences for patients.
+By studying the nine leading U.S. pediatric centers, the researchers identified seven significant factors for
+influencing surgical outcome, and implemented a CPG that enables patients to be removed from breathing
+apparatuses earlier, lowered the rate of reintubation, and decreased the time patients need to remain in the
+intensive care unit. These guidelines also realized a cost savings of 27 percent, which translates to $13,500 per
+patient.
+
+2018 Edelman Winner Federal Communications Comission
+
+– https://www.youtube.com/watch?v=cSG5D7BOzWQ
+
+• 2018 Edelman Winner: Unlocking the Beachfront: Using
+Operations Research to Repurpose Wireless Spectrum. The
+Federal Communications Commission (FCC) recently
+completed the world’s first two-sided spectrum auction,
+reclaiming spectrum from TV broadcasters to meet exploding
+demand for wireless services. Operations research tools–
+including optimization, simulation, and SAT-solvers – were
+essential to both the design and implementation of the auction.
+The auction was one of the most successful in the FCC’s
+history, repurposing 84 MHz of spectrum and generating revenue of nearly $20 billion, including more than $10 billion in new capital for the broadcast TV industry and over $7 billion to
+pay down the U.S. deficit.
+
+
