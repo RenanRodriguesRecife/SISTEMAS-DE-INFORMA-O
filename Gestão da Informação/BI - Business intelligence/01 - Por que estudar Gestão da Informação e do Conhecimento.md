@@ -1,8 +1,8 @@
 
 
-## Como gerenciar informação e conhecimento?
+#### Como gerenciar informação e conhecimento?
 
-### Como uma organização pode crescer oferencendo a informação no tempo e no local correto?
+#### Como uma organização pode crescer oferencendo a informação no tempo e no local correto?
 
 - Por que estudar Gestão da Informação e do Conhecimento?
 
