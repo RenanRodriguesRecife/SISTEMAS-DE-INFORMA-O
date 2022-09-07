@@ -83,4 +83,23 @@ Obs: O nome BI vende muito por isso algumas empresas usam no lugar e SAD
 Analitics
 Tudo começa com BI
 
+- Gotraz (teoria das Restrições)
+ - Metodologia para identificação de gargalos
+
+- Em uma organização tem muitas variáveis que as vezes é difícil encontrar o problema matriz
+
+- A dor muitas vezes é o sistema e não a causa
+
+Analitics tem um ciclo
+
+
+```
+
+```
+Disney:
+- Modelo: para que vai 1 vez na vida
+- Modelo: para quem vai todo ano (Dinheiro não é problema)
+- Modelo: para quem é local
+
+PO - Pesquisa Operacional
 ```
