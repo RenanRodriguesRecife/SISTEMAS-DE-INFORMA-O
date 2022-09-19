@@ -33,7 +33,7 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 
     - A providência consistem em organizar em vista de uma produção coletiva, de uma tarefa a cumprir, de uma obra a realizar
 
-    - O arranjo ou ordenação consiste em pretar atenção ao conjunto daqueles que contribuem para essa missão, a fim de melhor mobilizá-los em vista de um fim comum, para o proveito de todos
+    - O arranjo ou ordenação consiste em prestar atenção ao conjunto daqueles que contribuem para essa missão, a fim de melhor mobilizá-los em vista de um fim comum, para o proveito de todos
 
 - Hoje, em muitas empresas, o termo evoca mais a ideia de arrumação como "arranjar", "providenciar" e "arrumar"
 
@@ -51,7 +51,7 @@ Nos manuais, é apresentada como um conjunto de técnicas, destinadas a racional
 
     - O peso dos mercados e mundialização  põem de novo em questão os modos de regulação econômica: o capital é desterritorializado (para trabalhar em um mercado regional não tem como desconsiderar o mercado mundial)
 
-    - A fusão das telecomunicações com a informática instaura a “ditadura” do tempo real e a imediatidade das respostas às exigências dos mercados financeiros (com base nas informações você pode tormar melhores decisões aumentando sua eficiência)
+    - A fusão das telecomunicações com a informática instaura a **“ditadura” do tempo real** e a imediatidade das respostas às exigências dos mercados financeiros (com base nas informações você pode tormar melhores decisões aumentando sua eficiência)
 
 ## Principais teorias de Gestão
 
@@ -111,6 +111,12 @@ Ex:
 <img src="../.assets/relação.JPG">
 
 A relação de gestão de informação e conhecimento é que tem um processo de interação de procurar transformar o conhecimento tácito em explícito
+
+```
+Conhecimento explícito: é o conhecimento que possuímos e de que temos consciência. É o conhecimento que somos capazes de documentar, é o conhecimento que as organizações conseguem armazenar.
+
+O conhecimento tácito: ao contrário, é conhecimento que temos mas do qual não nos apercebemos. É conhecimento que adquirimos através da prática, da experiência, dos erros e dos sucessos. É conhecimento que não somos capazes de descrever nem documentar. É conhecimento que as organizações não podem utilizar depois fora das horas de trabalho dos seus colaboradores.
+```
 
 ## Evolução dos SI com GI&C
 

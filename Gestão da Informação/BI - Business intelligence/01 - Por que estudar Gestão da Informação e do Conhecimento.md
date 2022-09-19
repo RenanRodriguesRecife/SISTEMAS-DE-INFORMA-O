@@ -1,11 +1,12 @@
-o raciocínio do ser humano tem a capacidade limitada, não adinta um programa cheio de features ou cheio de saídas se o que você precisa para solucionar um problema de decisão é algo bem limitado
 
--- Como gerenciar informação e conhecimento?
-- Como uma organização pode crescer oferencendo a informação no tempo e no local correto?
 
-- Por que estudar Gestão da Informação e do Conhecimento?
+#### Como gerenciar informação e conhecimento?
 
-    - Tem muitos Investimentos em TI / Modelos de Governancia
+#### Como uma organização pode crescer oferencendo a informação no tempo e no local correto?
+
+### Por que estudar Gestão da Informação e do Conhecimento?
+
+    - Tem muitos Investimentos em TI / Modelos de Governança
 
     - Diversidade de funções nas empresas / Grid Estratégico
 
@@ -28,7 +29,7 @@ o raciocínio do ser humano tem a capacidade limitada, não adinta um programa c
 
     <img src="../.assets/analiseConco.JPG">
 
-    - A informação é utilizada na definição de estratégias
+    - A informação é utilizada na **definição** de estratégias
     <img src="../.assets/ifoestr.JPG">
 
 
@@ -43,13 +44,19 @@ o raciocínio do ser humano tem a capacidade limitada, não adinta um programa c
     - Possibilitar o aprendizado organizacional
     - Avaliar/definir estratégias de TI diante das estratégias de negócio (ou vice-versa)
 
-_ Em síntese:
-    - SIs precisão ser vistos como uma ferramenta fundamental para para obtenção de vantagem competitiva (uso da informação)
+### Em síntese:
+
+    - SIs precisão ser vistos como uma ferramenta fundamental para obtenção de vantagem competitiva (uso da informação)
+    
     - SIs permitem utilizar a informação como instrumento de gestão
+    
     - SIs oferecem suporte para melhorar o relacionamento com o clientes e fornecedores.
+    
     - SIs fornecem suporte para redução de custos, estoques, melhoram a logística (interna e externa), entre outros;
+    
     - SIs permitem melhorar a eficiência organizacional, a produtividade, a eficiência dos processos, a satisfação…
+    
     - Existe uma infinidade de motivos...
 
-Desde que haja uma boa Gestão da Informação e do Conhecimento para que os SIs possam ser planejados e priorizados de forma estratégica.
+OBS: Desde que haja uma boa Gestão da Informação e do Conhecimento para que os SIs possam ser planejados e priorizados de forma estratégica.
 

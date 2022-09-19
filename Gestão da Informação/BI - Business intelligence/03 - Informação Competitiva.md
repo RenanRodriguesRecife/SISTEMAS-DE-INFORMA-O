@@ -29,21 +29,36 @@ Ele diz que as empresas tem suas crises. E se não morrer antes ela pode até ch
 
 dependendo da faze que a empresa está ela vai ter uma abordagem gerencial, de controle, de remuneração... diferente.
 
-Fase 1: No início a organização é bem informal,
-    produz oque está em encomenda,
-    o estilo é empreendedor,
-    é monitorado apenas pelos resultados que o mercado determina,
-    a remuneração está acossiada com o sentimento de posse, de sentir dono do negócio
+Fase 1: 
+    
+    - No início a organização é bem informal,
+    
+    - produz oque está em encomenda,
+    
+    - o estilo é empreendedor,
+    
+    - é monitorado apenas pelos resultados que o mercado determina,
+    
+    -a remuneração está associada com o sentimento de posse, de sentir dono do negócio
 
-Fase 2: Busca maior pela eficiencia,
-    estilo mais gerencial (voltado ao direcionamento),
-    monitoramento de indicadores de custos,
-    motivação está associada a recompensas financeiras
+Fase 2: 
 
-Fase 3: Expanção do mercado,
-    questões geográficas que são incorporadas,
-    delegação de responsabilidade e controle através de relatórios,
-    Bonus, ganhos atravez da participação nos lucros.
+    - Busca maior pela eficiencia,
+    
+    - estilo mais gerencial (voltado ao direcionamento),
+    
+    - monitoramento de indicadores de custos,
+    
+    - motivação está associada a recompensas financeiras
+
+Fase 3: 
+    - Expanção do mercado,
+    
+    - questões geográficas que são incorporadas,
+    
+    - delegação de responsabilidade e controle através de relatórios,
+    
+    - Bonus, ganhos atravez da participação nos lucros.
 
 
 Uma empresa jovem para concorrer com uma empresa maior ela precisa se destacar pela inovação (realidade das startup)
@@ -141,7 +156,7 @@ Teoria Econômica Neoclássica: Oferta e Demanda
 
 - Do gráfico da relação Oferta x Demanda pode-se observar que:
 
-    - Se o preço for maior que o preço de mercado, (P1>P*), ocorre sobre de mercadorias (Q*-Qtd1)
+    - Se o preço for maior que o preço de mercado, (P1>P*), ocorre sobra de mercadorias (Q*-Qtd1)
 
     - Se o preço for menor que o de mercado, (P2< P*), ocorre falta de mercadoria (Qtd2 -Q*)
 
