@@ -1,8 +1,8 @@
 # Sistema de apoio à decisão (SAD)
 
-(também conhecido por Decision Support System (DSS))
+### (também conhecido por Decision Support System (DSS))
 
-Definição
+#### Definição
 
 Um sistema de informação consistindo de hardware/software e do elemento humano designado para assistir um tomador de decisão de qualquer nível, com ênfase em tarefas estruturadas e não-estruturadas(desestruturadas).
 
