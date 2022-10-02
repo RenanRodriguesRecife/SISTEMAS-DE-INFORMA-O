@@ -9,3 +9,5 @@ Loteria - algo que vai representar uma distribuição de probabilidade
 ~ -> Indiferente 
 
 ======================
+
+A função probabilidade também fala quando você é propenso a risco
