@@ -22,11 +22,13 @@ Problema multicritério
 
  Tem mais de uma alternativa e você vai racionalisar em escolher (função utilidade é pra 1 critério)
  
+ =====================================
+ 
  Critério único -> pode fazer análise ponderado 
  
  a probabilidade demanda utilidade
 
-
+=====================================
 
 - Critério único de Sintese (escola americana)
 
