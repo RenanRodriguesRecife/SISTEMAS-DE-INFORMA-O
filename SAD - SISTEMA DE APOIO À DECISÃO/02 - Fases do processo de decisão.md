@@ -255,3 +255,30 @@ Implementação: A gerência cria a regra e quem tá embaixo joga o jogo. (Muita
 ## Dando suporte às decisões
 
 <img src=".assets/suportDecisao.png">
+
+#### Suporte para a fase de inteligência
+
+    - Permitir monitoramento contínuo de fontes de informação externa e interna para identificar problemas e/ou oportunidades
+    
+    - Recursos/tecnologias: A web, sistmeas especialistas (ES), online analytical processing (OLAP), data warehousing, mineração de texto/web/dados, EIS/dashboards, sistemas de apoio à decisão em grupo (GSS), sistemas de informação geográfica (GIS), sistemas de gestão do conhecimento (KMS)
+    
+    - Monitoramento de atividades do negócio (BAM)
+    
+    - Gestão do processo de negócio (BPM)
+    
+    - Gestão do ciclo de vida do produto (PLM)
+    
+ #### Suporte para a fase de design
+ 
+    - Permitir o desenvolvimento de cursos ações alternativos determinação do critério de escolha
+    
+    - Gerando alternativas
+    
+        - Problemas estruturados/simples: modelos padrão e/ou especiais
+        
+        - Modelos não-estruturados/complexos: especialistas humanos ES, KMS, brainstorming/GSS, OLAP, mineração de texto/dados
+        
+    - Um bom "critério para escolha" é essencial
+     
+  
+    
