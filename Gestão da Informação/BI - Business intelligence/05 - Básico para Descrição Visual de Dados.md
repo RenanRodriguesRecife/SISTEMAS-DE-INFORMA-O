@@ -51,3 +51,13 @@ De uma forma geral, são considerados duas categorias:
 – Dados numéricos (quantitativos).
 
 <img src="../.assets/tipos de dados.JPG">
+
+
+
+
+
+===============================
+
+Gráfico de barra - as variáveis nominais na vertical são colocados em relação ao tamanho do rótulo (quando você quer uma visão melhor delas)
+
+pesquisar desvio padrão
