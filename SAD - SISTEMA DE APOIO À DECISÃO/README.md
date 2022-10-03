@@ -1,3 +1,12 @@
+- Deve tomar cuidado com informações do tipo: dados com mais de 3 desvios padrões deve ser apagados. Ex: Pessoas mortas na COVID
+
+
+- six sigma: de cada 1.000.000 um dá problema
+
+quando você está apagando algum dado da base você tem que realmente identificar o que está fazendo (na maioria das situações você tem que verificar a referencia desses eventos)
+
+==============================
+
 - Você já cria várias opções só decidindo os objetivos
 
 Uma abordagem baseado em alternativa
