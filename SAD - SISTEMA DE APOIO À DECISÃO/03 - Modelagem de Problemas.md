@@ -137,6 +137,58 @@ melhoria não é otimização
 
 <img src=".assets/PO.JPG">
 
+
+- Mais atual:
+
+  - Pesquisa Operacional (PO) é a área de conhecimento que estuda, desenvolve e aplica **métodos analíticos avançados** para auxiliar na tomada de melhores decisões na mais diversas áreas de atuação humana.
+  
+- Anterior:
+
+  - Pesquisa Operacional é uma **disciplina** que tenta **auxiliar tomada de decisões gerenciais** por aplicar uma abordagem científica para problemas gerenciais que envolvem **fatores quantitativos**
+  
+### Breve Histórico
+
+- Escassez de recursos - Otimizar a utilização de recursos
+
+- As primeiras noções de otimização - século XVIII
+
+- Otimização de funções
+
+- Matemático Huygens
+
+- Johann Bernoulli - condição de máximo e mínimo
+
+- Problemas de decisão - Anos 40
+
+- II Guerra Mundial
+
+- 1947 - Método Simplex - George Dantzig
+
+- O nome foi aplicado porque as equipes de cientistas na II Guerra Mundial estavam fazendo **pesquisa** em como gerenciar **operações** militares.
+
+- O surgimento da PO está diretamente ligado à invenção do radar na Inglaterra em 1934, que levou a criação da Estação de Pesquisa Manor Bawdsey (Suffolk)
+
+- Em 1941 foi inaugurada a seção de Pesquisa Operacional do Comando da Força Aérea de Combate, dando capacidade analítica para o planejamento do uso de recursos militares na Segunda Guerra Mundial
+
+- Ao final da guerra, em 1947, foi implantado o projeto SCOOP (Scientific Computation of Optimal Programs) no Pentágono
+
+- Estes conceitos de "otimização" resultaram no prêmio Nobel de economia em 1975 para Koopmans e Kantorovich pelas contribuições à teoria de alocação ótima de recursos.
+
+## Apoio a Tomada de Decisão
+
+- Analistas **não** tomam decisões
+
+- Gerentes **tomam** decisões
+
+- Uma análise proverá **recomendações** baseadas em fatores quantitativos do problema
+
+- Gerentes devem levar em considerações diversos aspectos **intangíveis** em sua decisão.
+
+## O Impacto da Pesquisa Operacional
+
+  Pesquisa Operacional tem tido um impressionante **impacto** na melhoria da **eficiência** de diversas organizações pelo mundo. Neste processo, tem sido feito uma significante contribuição para o crescimento da **produtividade** das **economias** de vários países.
+
+
 =======================
 
 
