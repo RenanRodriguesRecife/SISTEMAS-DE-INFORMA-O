@@ -205,6 +205,34 @@ Uma fábrica de rádios tem como desafio maximizar o lucro global diário obtido
 
 - rádio tipo luxo
 
+**Com relação aos rádios tipo padrão sabe-se que:**
+
+- A linha de produção comporta um máximo de 24 pessoas;
+
+- Cada rádio consome 1 homem/dia para ser produzido;
+
+- Cada rádio fornece um lucro de R$ 30,00
+
+**Com relação aos rádios tipo luxo sabe-se que:**
+
+- A linha de produção comporta um máximo de 32 pessoas;
+
+- Cada rádio consome 2 homens/dia para ser produzido;
+
+- Cada rádio fornece um lucro de R$ 40,00
+
+CONSTRUÇÃO DO MODELO
+
+**Estratégia de construção**
+
+Transformar as características do problema em um modelo matemático constituido de:
+
+- uma função objetivo
+
+- um conjunto de restrições
+
+
+
 =======================
 
 
