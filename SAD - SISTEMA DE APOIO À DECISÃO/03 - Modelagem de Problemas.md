@@ -3,6 +3,11 @@
 
 Um modelo é uma simplificação da realidade...
 
+- Modelos físicos - protótipos de carros, maquetes (hj c/ visualizaçao 3d?)
+
+<img src=".assets/modelagemCarro.jpg">
+
+
 
 
 A informação passada pelo modelo é mais usada para definir metas. Pq é muito comum ter imprevistos que aumenta os custos e tempo
