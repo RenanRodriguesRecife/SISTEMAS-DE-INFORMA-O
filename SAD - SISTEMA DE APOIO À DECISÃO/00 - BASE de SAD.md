@@ -43,7 +43,7 @@ Ex: Quanto se deve gastar com marketing para se gerar R$50.000,00 de vendas tota
 </ul>
 
 
-### Etapas para um SAD
+#### Etapas para um SAD
 
 De uma forma geral os gestores tormam decisões seguindo um processo de 4 etapas conforme proposto por Simon:
 
@@ -55,7 +55,7 @@ De uma forma geral os gestores tormam decisões seguindo um processo de 4 etapas
 
 - Comparação, escolha e recomendação de uma solução potencial para o problema
 
-Características da tomada de decisão
+#### Características da tomada de decisão
 
 - Pensamento de grupo: Membros do grupo aceitam soluções sem refletir, o que pode levar a decisões ruins
 
