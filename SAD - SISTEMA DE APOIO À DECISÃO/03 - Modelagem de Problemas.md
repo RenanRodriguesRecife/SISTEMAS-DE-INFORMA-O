@@ -194,6 +194,17 @@ melhoria não é otimização
 
 <img src=".assets/impPO3.JPG">
 
+
+### Modelagem de Problemas
+
+PROBLEMA
+
+Uma fábrica de rádios tem como desafio maximizar o lucro global diário obtido de **2 linhas de produção** que comportam **56 operários**, sendo que a fábrica somente possui **40 funcionários** a serem alocados. As linhas de produção são:
+
+- rádio tipo padrão
+
+- rádio tipo luxo
+
 =======================
 
 
