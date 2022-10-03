@@ -231,8 +231,92 @@ Transformar as características do problema em um modelo matemático constituido
 
 - um conjunto de restrições
 
+```
+- tanto a função objetivo como o conjunto de restrições fazem referência a variáveis do problema
 
+- No problema descrito as variáveis do problema são as quantidades a serem produzidas dos modelos de rádio tipo padrão e tipo luxo.
 
+- A função objetivo mostra como o lucro se relaciona com as variáveis do problema
+
+- O conjunto de restrições mostra os limites para as variáveis do problema
+
+```
+
+O MODELO
+
+- Definição das variáveis do problema
+
+LUCRO - lucro máximo a ser atingido
+
+  - X1 - quantidade ótima de produção diária de rádios tipo padrão
+
+  - X2 - quantidade ótima da produção diária de rádios tipo luxo
+
+- Definição da função objetivo:
+
+```
+LUCRO = 30 * X1 + 40 * X2
+```
+
+- Definição do conjunto de restrições
+
+  - As variáveis X1 e X2 não podem assumir qualquer valor
+
+  - Elas tem que assumir valores inteiros positivos
+
+  - Elas estão sujeitas às restrições da fábrica
+
+  - Capacidade máxima diária da linha tipo padrão
+  
+    - A fábrica apenas pode colocar 24 pessoas na linha de produção tipo padrão.
+
+    - Cada rádio tipo padrão gasta 1 homem/dia para sua produção.
+
+    - A produção máxima diária desta linha é 24 rádios
+
+então:
+
+    X1 <= 24
+    
+  - Capacidade máxima diária da linha tipo luxo
+
+    - A fábrica apenas pode colocar 32 pessoas na linha de produção tipo luxo.
+
+    - Cada rádio tipo luxo gasta 2 homens/dia para sua produção
+
+    - A produção máxima diária desta linha é 16 rádios
+
+Então: 
+
+    X2 <= 16
+    
+    
+   - Disponibilidade Máxima de Operários
+
+    - A fábrica possui apenas 40 operários
+    
+    - A linha tipo padrão vai consumir 1 * X1 operários por dia.
+    
+    - A linha tipo luxo vai consumir 2 * X2 operários por dia.
+    
+Então:
+
+    1 * X1 + 2 * X2 <= 40
+   
+   
+Máximizar     LUCRO = 30 * X1 + 40 * X2
+
+sujeito a:
+
+      X1 <= 24
+      X2 <= 16
+      1 * X1 + 2 * X2 <= 40
+      X1, X2 >= 0
+      
+
+**Problema do Transporte**
+
+<img src=".assets/">
 =======================
 
 
