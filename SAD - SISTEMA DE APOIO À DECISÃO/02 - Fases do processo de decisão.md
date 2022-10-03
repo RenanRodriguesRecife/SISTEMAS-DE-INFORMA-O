@@ -393,3 +393,25 @@ Implementação: A gerência cria a regra e quem tá embaixo joga o jogo. (Muita
 - Execução do modelo, integração e processador de comandos
 
 <img src=".assets/compModelo.JPG">
+
+### Componentes do SAD: Subsistema de Interface do usuário
+
+- Inteface
+
+- Interface de aplicação
+
+- Interface do usuário (GUI)
+
+- Interface de usuário SAD
+
+- Portal
+
+- Ícones gráficos
+
+- Painel de controle
+
+- Código de cores
+
+- Interface com telefones celulares, etc
+
+<img src=".assets/subUser.JPG">
