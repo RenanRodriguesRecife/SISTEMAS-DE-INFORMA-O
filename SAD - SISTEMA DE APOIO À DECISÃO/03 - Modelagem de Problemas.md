@@ -125,6 +125,18 @@ melhoria não é otimização
 
 <img src=".assets/pesqOperacional.JPG">
 
+- **Impacto** da PO na **retabilidade** de empresas
+
+- Uso de métodos **engenhosos**
+
+- Reputação por alto nível **matemático**
+
+- **Teoria x Prática** - Problemas Gerenciais
+
+- O Poder das **planilhas** eletrônicas
+
+<img src=".assets/PO.JPG">
+
 =======================
 
 
