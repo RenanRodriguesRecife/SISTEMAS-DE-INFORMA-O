@@ -322,3 +322,26 @@ Implementação: A gerência cria a regra e quem tá embaixo joga o jogo. (Muita
     
 <img src=".assets/CapdoSAD.JPG">    
     
+- Classifiação fornecida pela Association for Information Systems Special Interest Group on Decision Support Systems (AIS SIGDSS).
+
+    - SAD orientado a comunicação e SAD para grupos
+
+    - SAD orientado a dados
+
+    - SAD orientado a documentos
+
+    - SAD orientado a conhecimento
+
+    - SAD orientado a modelos
+
+- Frequentemente o SAD é um híbrido de muitas classes
+
+- Outras categorias SAD
+
+    - SAD institucinal e ad-hoc
+    
+- Sistemas personalizados versus sistemas prontos
+
+- Suporte pessoal, em grupo e organizacional
+
+- Sistema de suporte individual versus sistema de suporte em grupo (GSS)...
