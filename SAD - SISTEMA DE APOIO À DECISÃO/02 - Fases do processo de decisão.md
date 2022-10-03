@@ -345,3 +345,6 @@ Implementação: A gerência cria a regra e quem tá embaixo joga o jogo. (Muita
 - Suporte pessoal, em grupo e organizacional
 
 - Sistema de suporte individual versus sistema de suporte em grupo (GSS)...
+
+
+<img src=".assets/compSAD.JPG">
