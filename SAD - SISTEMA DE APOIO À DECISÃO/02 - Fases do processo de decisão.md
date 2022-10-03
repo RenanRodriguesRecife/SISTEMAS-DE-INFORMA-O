@@ -280,5 +280,45 @@ Implementação: A gerência cria a regra e quem tá embaixo joga o jogo. (Muita
         
     - Um bom "critério para escolha" é essencial
      
+  #### Suporte para a fase de escolha
   
+    - Permitir a seleção da melhor alternativa dada uma estrutura complexa de restrições
+    
+    - Uso de análises de sensibilidade, se-então e busca por objetivos 
+    
+    - Recursos:
+    
+        - KMS
+        
+        - Sistemas de gestão de relacionamento com o cliente (CRM)
+        
+        - Gestão de cadeia de suprimentos (SCM)
+        
+        - Enterprise resource planning (ERP)
+        
+#### Suporte para a fase de implementação
+
+    - Permitir implementação da solução escolhida no sistema
+    
+    - Comunicação da decisão, explicação e justificativa para reduzir resistência à mudanças
+    
+    - Recursos
+    
+        - Portais corporativos, Web 2.0/Wikis
+        
+        - Brainstorming/GSS
+        
+        - KMS, ES
+        
+ ### Capacidades do sistema de apoio à decisão
+ 
+    - Definição inicial do SAD: é um sistema destinado a apoiar decisões gerenciais em situações de decisão semiestruturadas e não estruturadas.
+    
+    - O SAD foi criado para auxiliar os decisores, ampliando suas capacidades
+    
+    - Eles são baseados em computador e operariam interativamente online e, de preferência, teriam recursos gráficos de saída
+    
+    - Atualmente, simplificados por meio de navegadores da Web e dispositivos móveis
+    
+<img src=".assets/CapdoSAD.JPG">    
     
