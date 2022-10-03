@@ -316,7 +316,7 @@ sujeito a:
 
 **Problema do Transporte**
 
-<img src=".assets/">
+<img src=".assets/problemaTransporte.png">
 =======================
 
 
