@@ -82,7 +82,7 @@ determinar quando parar e tomar uma decisão - dependendo do problema você não
 
 #### Eficácia de um SAD
 
--- O Fator crítico para obter a eficácia do sistema é uma combinação das características abaixo:
+O Fator crítico para obter a eficácia do sistema é uma combinação das características abaixo:
 
 - Poder - grau em que o sistema pode responder a importantes decisões (O problema deve ser relevante)
 
