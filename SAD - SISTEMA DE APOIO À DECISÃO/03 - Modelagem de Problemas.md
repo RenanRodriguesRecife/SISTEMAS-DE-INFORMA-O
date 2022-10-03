@@ -8,14 +8,18 @@ Um modelo é uma simplificação da realidade...
 <img src=".assets/modelagemCarro.jpg">
 
 
+- modelo analogo (modelo semelhante)
+
+<img src=".assets/modeloanalogo.JPG">
+
 
 
 A informação passada pelo modelo é mais usada para definir metas. Pq é muito comum ter imprevistos que aumenta os custos e tempo
 =======================
 
-- modelo físico
 
-- modelo analogo (semelhante)
+
+
 
 - modelo matemático por uma comparação
 
