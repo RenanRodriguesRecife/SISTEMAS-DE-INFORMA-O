@@ -39,7 +39,7 @@ Ex: Quanto se deve gastar com marketing para se gerar R$50.000,00 de vendas tota
  
 <li>Análise de Otimização.
 
- É um extensão da análise busca de metas, onde ao invés de fixar uma meta, a meta é encontrar a solução ótima para uma ou mais variáveis alvo do problema. Geralmente a otimização é alcançadas através de programção matemática, sendo que às vezes, devido à complexidade do sistema, são adotados modelos heurísticos que usam métodos de inteligência artificial. Os métodos de inteligência arificial muitas vezes não encontram a solução ótima, mas encontram uma solução próxima da ótima </li>
+ É uma extensão da análise busca de metas, onde ao invés de fixar uma meta, a meta é encontrar a solução ótima para uma ou mais variáveis alvo do problema. Geralmente a otimização é alcançadas através de programção matemática, sendo que às vezes, devido à complexidade do sistema, são adotados modelos heurísticos que usam métodos de inteligência artificial. Os métodos de inteligência arificial muitas vezes não encontram a solução ótima, mas encontram uma solução próxima da ótima </li>
 </ul>
 
 
