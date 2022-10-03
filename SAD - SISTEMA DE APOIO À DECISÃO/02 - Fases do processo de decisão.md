@@ -254,4 +254,4 @@ Implementação: A gerência cria a regra e quem tá embaixo joga o jogo. (Muita
 
 ## Dando suporte às decisões
 
-<img src=".assets/">
+<img src=".assets/suportDecisao.png">
