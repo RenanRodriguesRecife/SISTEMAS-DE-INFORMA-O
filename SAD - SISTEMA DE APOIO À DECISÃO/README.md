@@ -1,3 +1,17 @@
+Arvore de Decisão
+
+F = c * (1 + e)^n
+
+P = C/(1 + e)^n
+
+exercício
+
+1 - Vai calcular cada triangulo
+2 - no exel (função PNT)
+
+
+===========================
+
 - Deve tomar cuidado com informações do tipo: dados com mais de 3 desvios padrões deve ser apagados. Ex: Pessoas mortas na COVID
 
 
