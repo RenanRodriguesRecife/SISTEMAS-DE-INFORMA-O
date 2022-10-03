@@ -348,3 +348,34 @@ Implementação: A gerência cria a regra e quem tá embaixo joga o jogo. (Muita
 
 
 <img src=".assets/compSAD.JPG">
+
+- Subsistema de Gerenciamento de Dados
+
+    - Inclui o banco de dados que contém os dados.
+    
+    - Sistema de gerenciamento de banco de dados (DBMS)
+    
+    - Pode ser conectado a um data warehouse
+    
+ - Subsistema de Gerenciamento de Modelos
+ 
+    - Sistema de gerenciamento da base do modelo (MBMS)
+    
+- Subsistema de Interface do Usuário
+
+- Subsistema de Gerenciamento de Base de Conhecimento
+
+    - Base de conhecimento organizacional
+    
+    
+### Componentes do SAD: Subsistema de Gerenciamento de Dados
+
+- Banco de dados DSS
+
+- DBMS
+
+- Diretório de dados
+
+- Recurso de consulta
+
+<img src=".assets/compSubAD.JPG">
