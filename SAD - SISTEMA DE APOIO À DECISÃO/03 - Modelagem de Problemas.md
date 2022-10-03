@@ -123,7 +123,7 @@ melhoria não é otimização
 
 ### Pesquisa Operacional
 
-<img src=".assets/pesqOperacioanl.JPG">
+<img src=".assets/pesqOperacional.JPG">
 
 =======================
 
