@@ -1,3 +1,12 @@
+- Você já cria várias opções só decidindo os objetivos
+
+Uma abordagem baseado em alternativa
+
+AFT (é muito reativa)
+
+VFT (proativo) - é uma abordagem melhor pois você escolhe
+
+=========================
 
 Usar UFT - para criar (?)
 
