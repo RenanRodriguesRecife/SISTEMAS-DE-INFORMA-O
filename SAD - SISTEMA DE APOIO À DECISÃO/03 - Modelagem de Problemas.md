@@ -47,9 +47,41 @@ wrong do they have to be to not be useful”
 
 "Não se pode gerenciar o que não pode ser medido"
 
-## Será que todos que otimizam, de fato “otimizam”?
+### Será que todos que otimizam, de fato “otimizam”?
 
+melhoria não é otimização
 
+#### Modelos de Otimização
+
+- Programação Matemática
+
+  - Programação Linear
+  
+  - Programação Inteira
+  
+  - Programação Inteira-Mista
+  
+  - Programação Não Linear
+  
+  - Programação Dinâmica
+
+#### Pesquisa Operacional
+
+- Arte de aplicar técnicas de modelagem a problemas de **tomada de decisão**, e resolver problemas identificados por meio de **métodos matemáticos e estatísticos** visando à obtenção de uma **solução ótima**
+
+- Pesquisa Operacinal (PO) - Operations Research (OR)
+
+- Ciência da Administração - Management Science (MS)
+
+- Objectivos:
+
+  - **Apoiar** o processo de tomada de decisão
+  
+  - Uso de uma abordagem **científica**
+  
+  - Fatores **quantitativos**: Lucro, Custo, Recursos, Tempo, etc.
+  
+<img src=".assets/pesquisaOpr.jpg">
 
 =======================
 
@@ -61,6 +93,6 @@ A informação passada pelo modelo é mais usada para definir metas. Pq é muito
 
 
 
-melhoria não é otimização
+
 
 derivada igual a zero
