@@ -22,4 +22,19 @@
 
   - Como estabelecer cronogramas de projeto realistas
 
+- Kelly e Kaskade (2013) fizeram uma pesquisa com 300 empresas que trabalham com Big Data e certificam que "55% dos projetos de ciência dados não são concluídos e muitos outros ficam aquém de seus objetivos".
+
+- Foi sugerido que uma melhoria no processo de ciência de dados ajudar a melhorar a taxa de sucesso desses projetos (Saltz, 2015).
+
+- No entanto, também foi observado que são necessárias várias metodologias de processo de ciência de dados, com base nos atributos do projeto (Ahangama & Poo, 2015)
+
+- Mas no que consiste um Projeto de Ciência de Dados???
+
+- Ele pode ser descrito como
+
+"um projeto que usa técnicas estatísticas e de aprendizado de máquina em grandes volumes de dados não estruturados e/ou estruturados gerados por sistemas, pessoas, sensores ou rastros digitais de informações de pessoas."
+
+- Este trabalho é feito em um am
+
+4
 
