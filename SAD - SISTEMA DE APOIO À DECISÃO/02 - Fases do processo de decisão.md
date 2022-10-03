@@ -252,3 +252,6 @@ OBS: Resolver o modelo não significa resolver o problema
 
 Implementação: A gerência cria a regra e quem tá embaixo joga o jogo. (Muitas vezes se pensa em uma coisa e o resultado sai outro)
 
+## Dando suporte às decisões
+
+<img src=".assets/">
