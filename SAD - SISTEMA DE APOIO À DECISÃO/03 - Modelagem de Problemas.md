@@ -83,6 +83,45 @@ melhoria não é otimização
   
 <img src=".assets/pesquisaOpr.jpg">
 
+### Identificação do Problema
+
+#### Exemplos:
+
+  - Investimentos em Publicidade
+
+  - Mix de Produtos
+
+  - Rotas de Transporte
+
+  - Planejamento Agregado
+
+  - Planejamento de Pessoal
+
+  - Análise de Investimentos
+
+  - Portfolio de Ações
+
+  - Localização de Instalações
+
+  - Outros
+
+### O Problema da Implementação
+
+- Ackoff escreveu sobre **implementação** como "o assunto mais **difícil*** confrontado pela ciência, pessoas, e grupos sociais".
+
+- Churchman definiu implementação como "a maneira na qual os resultados do **esforço científico** podem vir a ser usados por um **gerente**".
+
+- Muitos **analistas** e **executivos** consideram a **implementação** a área mais **fraca** em Pesquisa Operacional.
+
+- Estudos sobre implementação apresentam:
+
+  - A relação de **comportamento** entre o analista e o gerente;
+
+  - **Resistência a mudanças;**
+
+  - **O papel da informação** no processo de tomada de decisão
+
+
 =======================
 
 
