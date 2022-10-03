@@ -323,6 +323,17 @@ sujeito a:
 - Matematicamente, queremos minimizar o custo total de transporte dado por:
 
 <img src=".assets/transporteFormula.png">
+
+- Um dado produto é produzido em diferentes fábricas no país com capacidades de produção limitadas e deve ser levado a centros de distribuição (depósitos) onde há demandas a serem satisfeitas
+
+- O custo de transporte de cada fábrica a cada depósito é proporcional à quantidade transportada e devem-se achar estas quantidades que minimizem o custo total de transporte (CT) do produto em questão
+
+- A tabela abaixo fornece os custos unitários de transporte de cada fábrica para cada depósito, bem como as demandas em cada um dos depósitos e as produções de cada fábrica.
+
+<img src=".assets/tabelaTransporte.png">
+
+<img src=".assets/resolucaoTransporte.png">
+
 =======================
 
 
