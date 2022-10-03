@@ -379,3 +379,17 @@ Implementação: A gerência cria a regra e quem tá embaixo joga o jogo. (Muita
 - Recurso de consulta
 
 <img src=".assets/compSubAD.JPG">
+
+### Componentes do SAD: Subsistema de Gerenciamento do Modelo
+
+- Base do modelo
+
+- MBMS
+
+- Linguagem de modelagem
+
+- Diretório do modelo
+
+- Execução do modelo, integração e processador de comandos
+
+<img src=".assets/compModelo.JPG">
