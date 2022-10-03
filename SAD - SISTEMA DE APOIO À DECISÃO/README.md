@@ -5,8 +5,14 @@ Usar teoria da decisões para lidar com as insertesas
 
 função utilidade - é uma função matemática para lidar com uma função probabilistica
 
+=====================
+Teoria da decisão não responde tudo
 
-
+```
+a conte é melhor fazer. (quanto custa uma vida?) - 2.000.000 o custo de uma vida (segundo sei lá os ingleses).
+No brasil muitas mulheres morrem por não fazer uma mamografia
+- quem tem dinheiro para entrar na justiça entra em uma fila
+```
 
 
 ======================
