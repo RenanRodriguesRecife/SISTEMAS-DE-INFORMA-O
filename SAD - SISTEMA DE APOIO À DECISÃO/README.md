@@ -1,3 +1,9 @@
+Começa a analisar uma arvore de traz para frente
+
+<img src=".assets/arvoreD.jpg">
+
+============================
+
 Arvore de Decisão
 
 F = c * (1 + e)^n
@@ -7,8 +13,8 @@ P = C/(1 + e)^n
 exercício
 
 1 - Vai calcular cada triangulo
-2 - no exel (função PNT)
 
+2 - no exel (função PNT)
 
 ===========================
 
