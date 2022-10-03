@@ -334,6 +334,22 @@ sujeito a:
 
 <img src=".assets/resolucaoTransporte.png">
 
+**Problema de seleção de mídia para propaganda, adaptado de Ravindran et al (1987)**
+
+- Uma companhia de propaganda deseja planejar uma campanha em 03 deferentes meios: tv, radio e revistas. Pretende-se alcançar o maior número de clientes possível.
+
+- A companhia não quer gastar mais de $800.000 e adicionalmente deseja:
+
+  - No mínimo 2 milhões de mulheres sejam atingidas;
+  - Gastar no máximo $500.000 com TV;
+  - No mínimo 03 veiculações ocorram no horário normal na TV.
+  - No mínimo 02 veiculações ocorram no horário nobre na TV.
+  - Numero de veiculações no radio, e nas revistas, devem ficar entre 05 e 10, para cada meio de divulgação
+
+- Um estudo de mercado resultou nos dados da tabela abaixo, sendo os valores válidos para cada veiculação da propaganda.
+
+<img src=".assets/probProp.png">
+
 =======================
 
 
