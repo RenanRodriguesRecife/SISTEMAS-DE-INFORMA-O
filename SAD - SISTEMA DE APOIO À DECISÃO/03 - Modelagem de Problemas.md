@@ -188,6 +188,11 @@ melhoria não é otimização
 
   Pesquisa Operacional tem tido um impressionante **impacto** na melhoria da **eficiência** de diversas organizações pelo mundo. Neste processo, tem sido feito uma significante contribuição para o crescimento da **produtividade** das **economias** de vários países.
 
+<img src=".assets/impPO1.JPG">
+
+<img src=".assets/impPO2.JPG">
+
+<img src=".assets/impPO3.JPG">
 
 =======================
 
