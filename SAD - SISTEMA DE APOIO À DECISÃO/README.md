@@ -18,6 +18,10 @@ exercício
 
 ===========================
 
+<img src=".assets/arvoreDcal.jpg">
+
+===========================
+
 - Deve tomar cuidado com informações do tipo: dados com mais de 3 desvios padrões deve ser apagados. Ex: Pessoas mortas na COVID
 
 
