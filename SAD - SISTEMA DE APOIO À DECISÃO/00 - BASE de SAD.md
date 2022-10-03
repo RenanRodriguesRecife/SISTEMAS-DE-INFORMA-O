@@ -16,7 +16,7 @@ O SAD envolve quatro tipos básicos de modelagem analítica.
 <ul>
     <li>Análise tipo what if "o que-se".
     
-     O usuário indtroduz mudanças nas variáveis ou relações e verifica as mudanças resultantes nos valores das outras variáveis
+     O usuário introduz mudanças nas variáveis ou relações e verifica as mudanças resultantes nos valores das outras variáveis
      
      Ex: Se o orçamento com marketing aumentar em 2%, qual será o impacto total nas vendas?
 </li>
