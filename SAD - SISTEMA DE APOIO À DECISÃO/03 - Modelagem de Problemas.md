@@ -1,3 +1,10 @@
+
+# Métodos e Modelos
+
+Um modelo é uma simplificação da realidade...
+
+
+
 A informação passada pelo modelo é mais usada para definir metas. Pq é muito comum ter imprevistos que aumenta os custos e tempo
 =======================
 
