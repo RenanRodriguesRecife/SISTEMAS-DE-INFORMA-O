@@ -317,6 +317,12 @@ sujeito a:
 **Problema do Transporte**
 
 <img src=".assets/problemaTransporte.png">
+
+- O problema do transporte é aquele em que queremos determinar, dentre as diversas maneiras de distribuição de um produto, a que resultar no menor custo de transporte entre as fábricas e os centros de distribuição.
+
+- Matematicamente, queremos minimizar o custo total de transporte dado por:
+
+<img src=".assets/transporteFormula.png">
 =======================
 
 
