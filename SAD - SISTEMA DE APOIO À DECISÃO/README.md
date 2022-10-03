@@ -1,3 +1,14 @@
+
+Usar UFT - para criar (?)
+
+Usar teoria da decisões para lidar com as insertesas 
+
+função utilidade - é uma função matemática para lidar com uma função probabilistica
+
+
+
+
+
 ======================
 
 prospecto - é uma consequência probabilística (uma chance de ganho e uma chance de perda)
