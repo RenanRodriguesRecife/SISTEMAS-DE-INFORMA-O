@@ -121,6 +121,9 @@ melhoria não é otimização
 
   - **O papel da informação** no processo de tomada de decisão
 
+### Pesquisa Operacional
+
+<img src=".assets/pesqOperacioanl.JPG">
 
 =======================
 
