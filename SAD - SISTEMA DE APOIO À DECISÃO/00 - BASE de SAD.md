@@ -43,7 +43,7 @@ Ex: Quanto se deve gastar com marketing para se gerar R$50.000,00 de vendas tota
 </ul>
 
 
-Etapas para um SAD
+### Etapas para um SAD
 
 De uma forma geral os gestores tormam decisões seguindo um processo de 4 etapas conforme proposto por Simon:
 
