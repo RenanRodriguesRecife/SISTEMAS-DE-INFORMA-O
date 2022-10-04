@@ -104,3 +104,77 @@ Então todas as decisões não são problemas?
 ##### Os valores são o motivo de ficarmos pensando na decisão!
 
 <img src=".assets/vft.jpg">
+
+E como as decisões são tomadas?
+
+  - O processo padrão de Tomada de Decisão:
+
+    - Ocorre um problema
+
+    - Identificam-se as alternativas (muitas vezes apenas aceita-se)
+
+    - Avaliam-se as alternativas e escolher
+
+- Este processo de **Tomada de decisão com foco na alternativa** é reativa e inversa. 
+  
+  – É uma reação a um problema que ocorreu. 
+  
+  – É inversa porque se concentra em alternativas antes de ser claro sobre o que a decisão deve alcançar. 
+  
+- Alternativas são meios para alcançar seus valores, então **comece com valores**.
+
+
+- Uma abordagem de decisão mais útil e capacitadora é baseada em seus valores. 
+
+- Para um problema de decisão ou uma oportunidade de decisão: 
+
+  – comece com seus valores: seu primeiro pensamento consciente deve ser sobre seus valores. 
+  
+  – Seus valores, então, guiam tudo o que você faz em relação a essa decisão. 
+  
+- Isso é **Tomada de Decisão Focada em Valor** (VALUE-FOCUSED THINKING). 
+  
+  – É uma tomada de decisão proativa e com visão de futuro.
+  
+  
+- Para aprender habilidades (praticar esportes, tocar instrumentos musicais, pintura, cozinhar) 
+
+  – Nós as dividimos em pequenos elementos que são necessários para nos tornarmos habilidosos. 
+
+  – Em seguida, tentamos dominar cada um dos elementos mais simples pelo estudo e pela prática. 
+
+  – Uma vez que tenhamos aprendido os diferentes elementos individualmente, praticamo-los em pares e, eventualmente, todos juntos.
+  
+
+
+- A tomada de decisão é uma habilidade importante. 
+
+- Contudo, 
+
+  – a maioria das pessoas não conhece os elementos, 
+  
+  – eles certamente não os aprenderam formalmente, então
+
+  – eles não podem praticar usá-los.
+  
+  
+ 
+- Os elementos comuns da tomada de decisão envolvem:
+  
+  – criar decisões que você gostaria de enfrentar, 
+  
+  – definir as decisões que você enfrentará, 
+  
+  – gerar alternativas, 
+  
+  – especificar objetivos, 
+  
+  – identificar escalas ou métricas para medir o alcance dos objetivos por alternativas, 
+  
+  – compreender as possíveis consequências das alternativas, 
+  
+  – reconhecer incertezas relevantes, e
+
+  - fazer julgamentos de valor para equilibrar a realização de diferentes objetivos.
+
+(Há também subelementos de cada um desses aspectos)
