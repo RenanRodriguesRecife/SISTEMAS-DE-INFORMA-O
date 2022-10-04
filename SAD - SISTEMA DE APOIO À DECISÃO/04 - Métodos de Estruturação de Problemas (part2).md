@@ -45,3 +45,12 @@ O livro “The theory of games and economic behavior” (von Neumann & Morgenste
 <img src=".assets/categoriaDecisao.jpg">
 
 <img src=".assets/diagPosVida.jpg">
+
+- Existem inúmeras possibilidades para sua vida que você cria com suas
+decisões 
+
+    – considerando dez decisões de mudança de vida, cinco alternativas cada, haveria cerca de dez milhões de vidas distintas possíveis
+
+- As decisões que você toma agora podem ter um grande impacto nas decisões que você enfrentará no futuro. 
+
+- Você pode criar proativamente oportunidades de decisão agora que influenciam o conjunto de decisões futuras que você enfrentará
