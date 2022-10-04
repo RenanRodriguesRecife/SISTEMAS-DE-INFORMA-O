@@ -12,5 +12,5 @@ O livro “The theory of games and economic behavior” (von Neumann & Morgenste
  
  "Customers are busy, lazy and ofter confused, they are surprisingly likely to take whatever option is made the default." - Richard thaler
  
- <img src=".assets/shouldI.JPG">
+ <img src=".assets/shouldI.jpg">
  
