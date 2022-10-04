@@ -178,3 +178,13 @@ E como as decisões são tomadas?
   - fazer julgamentos de valor para equilibrar a realização de diferentes objetivos.
 
 (Há também subelementos de cada um desses aspectos)
+
+
+
+- Tomar decisões de qualidade, como acontece com outras habilidades, requer prática! 
+
+- Você pode continuar melhorando com mais prática (ou seja, experiência). 
+ 
+- E normalmente fica mais fácil tomar decisões com mais proficiência quando você tem mais prática.
+
+
