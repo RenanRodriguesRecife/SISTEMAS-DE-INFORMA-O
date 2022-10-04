@@ -23,3 +23,23 @@ O livro “The theory of games and economic behavior” (von Neumann & Morgenste
  Livro - Give Yourself a Nudge Helping Smart People Meke Smarter Personal and Business Decisions - Ralph L.Keeney
  
  
+### VALUE-FOCUSED THINKING - VFT
+
+- O processo de tomada de decisões pode causar
+
+  – preocupação, ansiedade e estresse. 
+  
+  – Ter dúvidas sobre seu processo de decisão e a própria escolha. 
+  
+  – arrependimento devido às suas escolhas e/ou decepção com as consequências da decisão. 
+  
+- Além disso, a tomada de decisão requer tempo e esforço!!!
+
+
+- Apesar disso, é importante tomar decisões para influenciar as escolhas (do seu ambiente de trabalho, por exemplo) para a melhor. 
+
+- Tomamos decisões todos os dias na nossa vida cotidiana... 
+
+-   E estas representam o **poder** que nós temos de **melhor nossa qualidade de vida**.
+
+<img src=".assets/escolhas.jpg">
