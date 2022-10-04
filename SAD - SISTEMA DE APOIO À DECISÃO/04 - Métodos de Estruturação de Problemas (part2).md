@@ -42,4 +42,4 @@ O livro “The theory of games and economic behavior” (von Neumann & Morgenste
 
 -   E estas representam o **poder** que nós temos de **melhor nossa qualidade de vida**.
 
-<img src=".assets/escolhas.jpg">
+<img src=".assets/categoriaDecisao.jpg">
