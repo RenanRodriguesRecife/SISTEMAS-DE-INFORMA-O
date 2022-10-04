@@ -48,4 +48,11 @@
   
   - veracidade (a confiabilidade dos dados).
   
-  
+- Mas será que esses 4 Vs são suficientes?
+
+- Esses critérios e outros, como fontes de dados, armazenamentos de dados, data staging e processamento de dados, podem ser úteis para descrever os dados usados em um projeto de Big Data.
+
+- Mas muitas vezes é preciso mais para descrever completamente outros atributos sobre o projeto.
+
+6
+
