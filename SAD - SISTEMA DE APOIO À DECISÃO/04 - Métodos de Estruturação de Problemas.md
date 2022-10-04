@@ -54,5 +54,19 @@
 
 - Mas muitas vezes é preciso mais para descrever completamente outros atributos sobre o projeto.
 
-6
+- Vamos tomar como exemplo o CRISP-DM (Cross Industry Standard Process for Data Mining), que é um modelo de processo de mineração de dados.
+
+- Ele é um modelo de processo com seis fases que descreve naturalmente o ciclo de vida da ciência de dados.
+
+- É como um conjunto de proteções para ajudar a planejar, organizar e implementar seu projeto de ciência de dados (ou aprendizado de máquina).
+
+- Foi publicado em 1999 para padronizar os processos de mineração de dados em todos os setores.
+
+- Se tornou a metodologia mais comum para projetos de data mining, analytics e data science
+
+- A metodologia pode ser combinada com outras metodologias de gerenciamento de projetos.
+
+- E mesmo sem implementar integralmente, é possível obter benefícios.
+
+<img src=".assets/">
 
