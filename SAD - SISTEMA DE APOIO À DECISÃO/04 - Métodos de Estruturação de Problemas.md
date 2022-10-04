@@ -180,5 +180,37 @@
 
 - Como estrutura de projeto, o CRISP-DM não descreve o que faz apóx o projeto.
 
-- 
-  
+- Mas se o modelo for para produção, certifique-se de manter o modelo em produção
+
+- O monitoramento constante e o ajuste ocasional do modelo geralmente são necessários, por isso ele é cíclico.
+
+
+```
+Será que nós sempre sabemos o que o cliente deseja realizar?
+
+Será que nós sempre conseguimos identificar os objetivos de negócios?
+
+Será que nós sempre conseguimos identificar recursos que vamos precisar, requisitos do projeto, os riscos e contingências envolvidas?
+
+Será que nós sempre conseguimos identificar quais são as perguntas que precisamos fazer aos dados?
+
+Por que será que nós não sabemos o que queremos muitas vezes quando vamos tratar de um problema estratégico da organização? Ou quando vamos sugerir um novo produto? Ou um novo serviço?
+
+```
+
+Dinâmica
+
+• Considere que você irá trabalhar de home office, de modo que a
+localização em que você vive pode ser completamente independente
+da empresa onde você trabalha. 
+
+• Defina em grupo duas personas com perfis diferentes (por exemplo,
+jovem solteiro e maduro casado e com filhos) e esboce como seria o
+processo destas personas para estruturação da escolha do local onde
+elas morariam, para que possam iniciar a coleta de dados para
+subsidiar esta escolha. 
+
+• Vocês podem sugerir critérios que considerariam importantes nesta
+escolha. Considere adicionalmente a lista de critérios em anexo e
+incluam aqueles que vocês acreditam que deveriam ser incluídos na
+análise.
