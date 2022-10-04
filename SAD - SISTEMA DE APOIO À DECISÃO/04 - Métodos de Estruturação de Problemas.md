@@ -34,7 +34,18 @@
 
 "um projeto que usa técnicas estatísticas e de aprendizado de máquina em grandes volumes de dados não estruturados e/ou estruturados gerados por sistemas, pessoas, sensores ou rastros digitais de informações de pessoas."
 
-- Este trabalho é feito em um am
+- Este trabalho é feito em um ambiente computacional com o objetivo de identificar correlações e relações causais, classificar e prever eventos, identificar padrões e anomalias e inferir probabilidades, interesse e sentimento.
 
-4
+- Big Data é muitas vezes pensado como um subconjunto da ciência de dados, onde a quantidade de dados requer o uso de ferramentas e algoritmos especiais.
 
+- Projetos de Big Data têm sido frequentemente descritos por meio dos "4 Vs" (Beyer, 2011; IBM, 2013):
+
+  - volume (tamanho dos dados a serem analisados - a equipe precisa usar técnicas de "Big Data")
+  
+  - variedade (número de fontes e tipo de dados - estruturados, não estruturados ou ambos)
+  
+  - velocidade (velocidade dos dados coletados/gerados que precisam ser analisados)
+  
+  - veracidade (a confiabilidade dos dados).
+  
+  
