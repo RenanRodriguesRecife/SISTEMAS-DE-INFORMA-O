@@ -68,5 +68,5 @@
 
 - E mesmo sem implementar integralmente, é possível obter benefícios.
 
-<img src=".assets/">
+<img src=".assets/cicloDC.jpg">
 
