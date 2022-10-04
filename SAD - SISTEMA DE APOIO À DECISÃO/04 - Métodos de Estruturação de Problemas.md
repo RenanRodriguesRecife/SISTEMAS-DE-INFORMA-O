@@ -70,5 +70,72 @@
 
 <img src=".assets/cicloDC.jpg">
 
+#### compreensão do negócio
+
+- A fase de **compreensão do negócio** concentra-se na compreensão dos objetivos e requisitos do projeto.
+
+  - Apesar de muitas equipes se apressarem nessa fase, ela é absolutamente essencial.
+
+    (gerenciamento de projetos){
+   - Determine os objetivos de negócios (o que o cliente deseja realizar?)
+
+   - Avalie a situação (recursos, requisitos, riscos e contingências, analise custo-benefício)
+
+   - Determine as metas de mineração de dados
+
+   - Produza o plano do projeto (seleção de tecnologias e ferrametnas).
+  
+  }
+  
+  #### compreensão do negócio
+  
+  - A fase de **compreensão do negócio** concentra-se na compreensão dos objetivos e requisitos do projeto.
+
+  - Apesar de muitas equipes se apressarem nessa fase, ela é absolutamente essencial.
+
+  gerenciamento de projetos {
+    - Determine os objetivos de negócios (o que cliente deseja realizar?)
+
+    - Avalie a situação (recursos, requisitos, riscos e contingências, analise custo-benefício)
+
+    - Determine as metas de mineração de dados
+
+    - Produza o plano do projeto (seleção de tecnologias e ferramentas).
+ 
+  }
+
+  #### compreensão de dados
+  
+  Em seguida é a fase de **compreensão de dados**.
+  
+    - Esta fase direciona o foco para identificar, coletar e analisar os conjuntos de dados que podem ajudá-lo a atingir as metas do projeto.
+
+    - Esta fase também tem quatro tarefas:
+
+     - Colete dados iniciais
+
+     - Descreva os dados
+
+     - Explore os dados
+
+     - Verifique a qualidade dos dados
+
+#### preparação dos dados
+
+ - Fase de **preparação dos dados**.
+ 
+  - São preparados o(s) conjunto(s) de dados final(is) para modelagem.
+
+  - Tem cinco tarefas:
+
+    - Selecionar dados (o que será usado?)
+
+    - Limpe os dados
+
+    - Construa dados (derivar de novos atributos que serão úteis)
+
+    - Integre os dados (combinação de várias fontes)
+
+    - Formete os dados conforme necessário
 
 
