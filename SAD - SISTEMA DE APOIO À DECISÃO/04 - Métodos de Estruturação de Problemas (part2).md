@@ -54,3 +54,53 @@ decisões
 - As decisões que você toma agora podem ter um grande impacto nas decisões que você enfrentará no futuro. 
 
 - Você pode criar proativamente oportunidades de decisão agora que influenciam o conjunto de decisões futuras que você enfrentará
+
+- Numerosas circunstâncias exógenas causadas por outros ou pela natureza afetam significativamente as decisões que você enfrenta e suas consequências. •
+
+- Não há sentido em tentar ilustrar um diagrama de possibilidades de vida e selecionar a melhor vida entre estas. 
+
+- No entanto, o tempo e o esforço para tomar decisões devem ser equilibrados com o tempo para experimentar e aproveitar as consequências dessas decisões
+
+
+De onde vêm os problema de decisão?
+
+- Outros - Concorrentes, governo, patrões
+
+- Acontecimento - acaso, mal-entendidos
+
+- Nossas ações sem pensamento
+
+Por que pensamos neles como problemas?
+
+- Não controlamos suas origens
+
+- Devemos reagir
+
+
+- Parece estranho que as palavras decisão e problema estejam tão entrelaçadas no uso diário. 
+  – Dizemos ‘tenho um problema de decisão’. 
+  
+- Mas nossas decisões são a única maneira intencional de influenciar qualquer coisa. 
+  – são oportunidades de mudanças para melhor em nossas vidas, organizações, comunidades, países e planeta.
+  
+Então todas as decisões não são problemas?
+
+- Alguns são...
+
+- Outros não!
+
+- Se você cria uma decisão para enfrentar, então ela pode ser vista como uma **oportunidade** de decisão
+
+
+
+- Mas o que são **valores**?
+
+  - Eles especificam o que é importante nas decisões que você toma;
+
+  - Indicam o que você espera alcançar ao tomar aquela decisão
+ 
+  - Deixam claro o significado do que é melhor para você naquele contexto de decisão
+
+##### Os valores são o motivo de ficarmos pensando na decisão!
+
+<img src=".assets/vft.jpg">
