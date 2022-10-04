@@ -188,3 +188,48 @@ E como as decisões são tomadas?
 - E normalmente fica mais fácil tomar decisões com mais proficiência quando você tem mais prática.
 
 
+
+- Se você **não** sabe o que quer alcançar tomando uma decisão, é <u>impossível pensar na melhor forma de alcançá-lo.</u> 
+
+- A regra principal de qualquer processo de decisão coerente é “entender com o que você se importa em relação à decisão que enfrenta”. 
+
+- Valores que deem significado para as consequências de suas decisões.
+
+
+- Quando seus valores são explicitados:
+
+– eles estabelecem uma base para avaliar as possíveis consequências de cada alternativa e
+
+– fornecem orientação para sua decisão.
+
+<img src=".assets/alice.jpg">
+
+- Em suas decisões, os valores relevantes são seus valores. 
+ 
+- Seus valores devem ser gerados inicialmente pelo seu pensamento ou por uma sugestão de outro indivíduo (amigo ou profissional). 
+
+- A fonte de seus valores é a coleção de todas as experiências de
+sua vida.
+
+- Mas não é fácil fazer isso!
+
+
+- Para problemas de decisão reais: 
+  
+  – Os indivíduos podem identificar menos da metade de seus objetivos 
+  
+  – Eles deixam de identificar objetivos aproximadamente tão importantes quanto os identificados
+
+- É importante dedicar um sério esforço à especificação de objetivos
+
+
+- Processo para identificar valores:
+
+1. Crie uma lista de desejos. Inclua todos os valores que você espera alcançar na situação de decisão.
+
+2. Estimule valores adicionais usando técnicas de sondagem da mente.
+
+3. Peça que outras pessoas sugiram valores
+
+4. Use valores identificados para identificar valores adicionais
+
