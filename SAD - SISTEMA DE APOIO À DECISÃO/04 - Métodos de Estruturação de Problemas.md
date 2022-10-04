@@ -139,3 +139,46 @@
     - Formete os dados conforme necessário
 
 
+- Na fase de **modelagem**, provavelmente serão construídos e avaliados vários modelos com base em várias técnicas de modelagem diferentes.
+
+  - Deve-se iterar até encontrar um modelo que seja bom o suficiente, rodar o ciclo de vida do CRISP-DM e melhorar o modelo em iterações futuras.
+  
+- A fase de **modelagem** tem quatro tarefas:
+
+  - Selecione técnicas de modelagem/algoritmos usados
+  
+  - Gerar design de teste (pode ser necessário dividir os dados em conjuntos de treinamento, teste e validações).
+  
+  - Construção do modelo
+  
+  - Avaliação do modelo (análise com base no conhecimento do domínio, nos critérios de sucesso predefinidos e no design do teste)
+  
+  
+- Diferentemente da Avaliação do Modelo da fase de Modelagem, a fase de **Avaliação** foca em verificar de forma mais ampla qual modelo atende melhor aos negócios e o que fazer em seguida.
+
+  - Esta fase tem três tarefas:
+  
+    - Avalie os resultados (atende ao negócio? Quais atendem?)
+    
+    - Processo de revisão (checklist de itens, etapas e descobertas)
+    
+    - Determine as próximas etapas (continuar com a implantação, iterar mais ou iniciar novos projetos?)
+    
+- Um modelo só é util se traz resultados para o cliente, fazendo com que a fase de **implantação** seja muito importante e com complexidade variável.
+
+  - Esta fase final tem quatro tarefas:
+  
+    - Planejar a implantação
+    
+    - Desenvolver o plano de monitoramento e manutenção
+    
+    - Produzir relatório final
+    
+    - Revisão do projeto
+    
+- O trabalho da organização pode não terminar aí.
+
+- Como estrutura de projeto, o CRISP-DM não descreve o que faz apóx o projeto.
+
+- 
+  
