@@ -451,3 +451,66 @@ Jogos Simultâneos ou Sequenciais
 - E a líder (fabricante 2) terá após o movimento da nova empresa que decidir se mantém ou reduz seu preço.
 
 <img src=".assets/aviao.jpg">
+
+
+
+Informação Completa e Incompleta
+
+- Jogo com informação completa:
+
+  – Cada jogador conhece o payoff dos outros jogadores e cada jogador sabe o que os outros jogadores sabem
+  
+- Jogo com informação incompleta:
+
+  – Um jogador não conhece o payoff dos outros jogadores
+  
+  – Neste caso podem ser considerados tipos de jogadores para cada qual está associada uma distribuição de probabilidade a priori
+  
+  – Cada jogador sabe o que o outro está escolhendo a partir de um conjunto de possíveis tipos, mas não sabe exatamente qual deles está jogando.
+
+- O jogo de sinalização
+  
+  – A contratação de um novo funcionário e o empregador não conhece sua produtividade e pode usar o nível educacional como sinal de sua produtividade
+  
+  – O jogador pode atualizar suas crenças sobre o tipo de funcionária (atualização bayesiana).
+ 
+Informação Perfeita e Imperfeita
+
+- Jogos com informação perfeita:
+
+  – Representam situações nas quais os jogadores se movem um de cada vez, são jogos sequenciais
+
+  – Quando um jogador se movimenta ele sabe tudo que todos os jogadores observaram e fizeram até o nó de decisão atual
+    
+    -  Ex.: xadrez
+    
+- Jogo com informação imperfeita:
+
+  – Os jogadores não conhecem a escolha da ação dos outros
+
+    - Ex.: cartas
+ 
+ 
+Jogos Repetitivos
+
+- A interação estratégica se repete ao longo do tempo
+
+- O jogador aqui não deve considerar apenas as consequências imediatas de suas escolhas
+
+- Nos jogos repetidos finitos:
+  
+  -  Indução reversa: cada participante antecipa o resultado final e retrocede até a etapa em que se encontra.
+  
+- Nos jogos repetidos infinitos: **há motivação para cooperação**
+
+
+Jogos Cooperativos
+
+- Cooperar é agir em conjunto para que as partes obtenham um payoff mais satisfatório
+
+- Os jogadores concordam em adotar uma estratégia e a cumprir esse acordo
+
+- Para Nash as ações cooperativas são o resultado de alguns processos de barganha que satisfazem os mesmos critérios de maximização de utilidade pessoal como em qualquer outra situação de interação estratégica
+
+- Pode se usar o valor de Shapley...
+
