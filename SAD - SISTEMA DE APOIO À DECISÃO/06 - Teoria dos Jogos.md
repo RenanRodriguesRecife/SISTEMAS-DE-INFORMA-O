@@ -514,3 +514,23 @@ Jogos Cooperativos
 
 - Pode se usar o valor de Shapley...
 
+
+Problema da Barganha
+
+- O problema de barganha tem uma solução de Nash se respeitar as seguintes condições:
+
+  – Otimização de Pareto: a solução deve se encontrar na fronteira de Pareto
+  
+  – Simetria: caso os jogadores tenham a mesma função utilidade o processo de barganha é neutro entre os dois jogadores
+  
+  – Independência das alternativas irrelevantes: se a solução e o ponto de conflito forem mantidos, a eliminação das possíveis barganhas não deverá alterar a solução do problema
+  
+  – A solução se mantém sob transformações lineares da função utilidade de cada jogador
+
+Problema da Barganha
+
+- Existe exatamente uma solução de barganha de Nash que satisfaz estas quatro condições
+
+- Dessa forma, o problema é solucionado maximizando o Produto de Nash:
+
+<img src=".assets/fbarganha.jpg">
