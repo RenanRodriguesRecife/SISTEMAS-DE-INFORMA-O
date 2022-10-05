@@ -258,3 +258,8 @@ sua vida.
   
 <img src=".assets/tabeValorObj.JPG">
 
+- Organize seus valores para entender seus relacionamentos e papéis e facilitar seus usos. 
+
+- **Objetivo Fundamental**: um objetivo que define uma razão básica para se preocupar com uma decisão. 
+
+- **Objetivo Meio**: um objetivo cuja importância decorre de sua influência na consecução de outros objetivos.
