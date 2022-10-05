@@ -40,3 +40,43 @@ uma racionalidade específica
 - Esta racionalidade portanto possui implicações... 
 
   – “Não é que as pessoas estejam contra você. É que elas estão a favor delas próprias” (Gene Fowler, biógrafo e jornalista norte americano)
+
+
+
+#### Escolha racional
+
+- Um decisor escolhe a melhor estratégia entre todas as estratégias disponíveis para ele
+
+- Com isto a teoria dos jogos constrói modelos matemáticos para representar conflitos e cooperação entre decisores racionais
+
+- Principais elementos da abordagem da escolha racional: os indivíduos têm objetivos os quais buscam alcançar
+
+  – O valor moral dos objetivos dos indivíduos não é julgado
+  
+  – Os indivíduos têm algum grau e liberdade de escolha; eles escolhem ações que lhes permitirão alcançar seus objetivos (maximizar o valor esperado dos seus ganhos)
+  
+- Os ganhos dos indivíduos são medidos em escalas de utilidade
+
+### Breve Histórico da Teoria dos Jogos
+
+- Cournot (1938):
+
+  – Apresentou em seu livro o famoso modelo de duopólio que hoje leva seu nome, neste modelo duas empresas que oferecem um bem similar decidem que quantidade produzir e ofertar o mercado
+  
+  – O método empregado por Cournot é um dos precursores para análise de equilíbrio em jogos não-cooperativos, adiante formalizado por Nash
+  
+- Zermelo foi o matemático alemão que trouxe a perspectiva de uma estratégia vencedora para o xadrez com uma abordagem da teoria dos jogos através da técnica de “indução reversa”
+
+- Borel relacionou questões de “sorte” (incerteza) com a habilidade do jogador para definir um “método de jogo”
+
+  – Foi o primeiro a formular o conceito de estratégia em teoria dos jogos
+
+- O matemático John von Neumann formulou a teoria dos jogos e provou a solução
+matemática para “jogos de soma zero”
+
+  – Num jogo de soma zero, os ganhos de um jogador representam necessariamente uma perda para o outro
+  
+  – O livro “The theory of games and economic behavior” (von Neumann & Morgenstern, 1944) apresentou a representação de jogos em forma extensiva (etapas sucessivas)
+
+  - Também discutiu cooperação e formação de coalizões entre jogadores, mas
+limitando-se a jogos de soma zero
