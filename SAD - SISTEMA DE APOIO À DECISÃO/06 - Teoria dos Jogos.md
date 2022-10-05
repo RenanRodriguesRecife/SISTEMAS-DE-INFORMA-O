@@ -80,3 +80,71 @@ matemática para “jogos de soma zero”
 
   - Também discutiu cooperação e formação de coalizões entre jogadores, mas
 limitando-se a jogos de soma zero
+
+
+- O jogo de soma zero não é a descrição adequada para um grande número de
+interações sociais, para algumas situações são inadequadamente restritivos
+
+  – Era necessário encontrar ferramentas teóricas que permitissem analisar uma
+variedade maior de modelos de interação estratégica
+
+- A partir de 1950 novos modelos foram desenvolvidos por John Nash, John Harsanyi
+e Reinhard Selten, premiados com o Nobel de Economia em 1994
+
+  – As contribuições de Nash, Harsanyi e Selten foram essenciais para a difusão da Teoria dos Jogos e para a modelagem matemática de inúmeros problemas da
+sociedade
+
+
+
+
+- John Nash foi um matemático norte-americano, sua biografia rendeu o filme “Uma
+mente brilhante”
+
+- Em 1951, Nash publicou o artigo “Non-cooperative games” onde propôs uma noção
+de equilíbrio para modelos de jogos que não se restringia apenas aos jogos de soma zero
+
+  - Equilíbrio de Nash: permitiu estudar uma classe de jogos muito mais ampla do
+que os jogos de soma zero
+
+- Harsanyi deu grandes contribuições com 3 artigos tratando situações de jogos com informações incompletas, onde alguns jogadores possuem informação privilegiada
+  
+   – Mostrou que o equilíbrio de Nash poderia ser estendido para modelos com
+informação incompleta ou assimetria de informação
+
+
+### Exemplos de Jogos
+
+- Dilema do prisioneiro
+
+- “Chicken Game”
+
+- Batalha dos sexos
+
+- Coexistência
+
+- Barganha
+
+- Ultimato
+
+- Batalha do Mar de Bismark
+
+- Votações
+
+- Formação de preço em concorrências
+
+- Restrições na produção de petróleo da OPEP
+
+- Lançamento de uma nova empresa ou fábrica
+
+- Aquisição hostil de uma empresa
+
+- Leilões de privatizações
+
+- Ações de agências reguladoras
+
+- Muitos outros...
+
+
+### Caracterização de um jogo
+
+- 
