@@ -177,3 +177,13 @@ almejam
   – **Comportamento estratégico**: cada jogador ao tomar sua decisão leva em
 consideração a interação com os outros jogadores e as consequências das múltiplas
 decisões em conjunto
+
+- Existem duas formas de representar um jogo:
+
+  - Forma normal
+  
+  - Forma estendida
+  
+- Elementos básicos
+
+<img src=".assets/jogosElementosB.jpg">
