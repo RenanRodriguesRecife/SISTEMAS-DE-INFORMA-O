@@ -453,3 +453,65 @@ comentários feitos por outros.
   
 E quando precisamos criar alternativas em grupo???
 
+
+
+- O processo tradicional de Brainstorming tem algumas deficiências:
+  
+  – Falta de orientação para focar o pensamento na criação de tipos de alternativas que podem ser melhores que outras. 
+  
+  – O grupo de indivíduos gera coletivamente as alternativas. 
+  
+    - Quando o grupo estiver trabalhando coletivamente na geração de alternativas, uma pessoa falará a qualquer momento e as outras ouvirão. 
+    
+    - Quando os participantes ouvem, eles naturalmente ancoram seu pensamento nas
+ideias que estão sendo apresentadas. 
+
+    - É difícil ouvir e simultaneamente criar alternativas distintas. 
+    
+– Alguns indivíduos podem ir com calma, talvez se concentrar em outros assuntos e deixar que outros no grupo façam o trabalho criativo (freeloader).
+
+
+Passos a serem seguidos quando um grupo está criando alternativas
+
+  1. Indique a decisão a ser resolvida.
+
+  2. Identifique os valores da decisão.
+
+  3. Gere alternativas individualmente.
+
+  4. Gere alternativas coletivamente.
+
+
+- Evite as deficiências do brainstorming tradicional:
+
+  - O uso de objetivos fornece orientação
+  
+  - A fase de criação inicialmente individual impede a ancoragem
+  
+  - As contribuições individuais são visíveis evitando o freeloading
+  
+  
+  
+  
+- Você deve buscar sempre **Identificar Oportunidades de Decisão**
+
+- Tomar decisões em problemas que você têm que enfrentar é um processo **reativo**
+
+- Tomar decisões em problemas que você **escolhe** enfrentar é **proativo**
+
+
+
+- Crie **proativamente** seus próprios problemas de decisão. 
+
+- Esses problemas são realmente **oportunidades de decisão**. 
+
+- Você **controla** a origem das oportunidades de decisão e não precisa reagir. 
+
+- Enfrentar oportunidades de decisão (atraentes) pode melhorar diretamente sua qualidade de vida e indiretamente evitar a necessidade de enfrentar problemas de decisão (desagradáveis). 
+
+- O VFT ajuda você a ser sistemático na **criação de oportunidades de decisão**.
+
+
+- Oportunidade de decisão: Escolha de emprego
+
+<img src=".assets/OpDeciEmprego.JPG">
