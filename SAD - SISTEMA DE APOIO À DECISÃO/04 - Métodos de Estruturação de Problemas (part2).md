@@ -263,3 +263,17 @@ sua vida.
 - **Objetivo Fundamental**: um objetivo que define uma razão básica para se preocupar com uma decisão. 
 
 - **Objetivo Meio**: um objetivo cuja importância decorre de sua influência na consecução de outros objetivos.
+
+
+
+- Exemplo: 
+
+  – levar o novo produto ao mercado mais cedo (objetivo meio)
+  
+  - ganhar vantagem competitiva (objetivo meio)
+  
+  - aumentar as vendas (objetivo meio)
+  
+  - aumentar os lucros (objetivos fundamental)
+  
+ <img src=".assets/objmeio.jpg">
