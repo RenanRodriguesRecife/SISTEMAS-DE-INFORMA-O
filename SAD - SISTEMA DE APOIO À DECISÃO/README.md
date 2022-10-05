@@ -74,11 +74,7 @@ Loteria - algo que vai representar uma distribuição de probabilidade
 A função probabilidade também fala quando você é propenso a risco
 
 ===========================
-# Dilema do prisioneiro
 
-- Se você ver a pessoa na vida (o ideal é não coperar)
-
-- Se você ver a pessoa repetidamente (deve levar em consideração a cooperação)
 
 ```
 Prova de SAD (Vai até teoria dos jogos)
