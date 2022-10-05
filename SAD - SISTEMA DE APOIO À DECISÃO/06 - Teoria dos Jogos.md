@@ -13,8 +13,8 @@ sérias do que aquelas de lazer
 - Parece então haver alguma relação entre “negociações internacionais”, “decisões
 estratégicas de executivos de empresas” e “uma partida de xadrez”
 
-  – Interação estratégica
 
+#### Interação estratégica
 
 - Interação estratégica é aquela em que participantes, sejam indivíduos ou
 organizações, reconhecem a interdependência mútua de suas decisões
