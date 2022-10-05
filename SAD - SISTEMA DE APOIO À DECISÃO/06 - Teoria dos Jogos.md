@@ -304,3 +304,7 @@ simétricos
   – Existem jogos que não possuem Equilíbrios de Nash conforme descrevemos
 através de estratégia pura, a não ser que esta noção seja expandida para
 estratégias mistas
+
+## Estratégias mistas
+
+
