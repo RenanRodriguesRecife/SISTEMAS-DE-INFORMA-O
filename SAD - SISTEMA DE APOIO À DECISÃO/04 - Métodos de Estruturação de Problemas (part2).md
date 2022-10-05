@@ -277,3 +277,40 @@ sua vida.
   - aumentar os lucros (objetivos fundamental)
   
  <img src=".assets/objmeio.jpg">
+ 
+ 
+- Um objetivo é um componente do outro e especifica com mais detalhes parte
+do que se entende por um segundo objetivo. 
+
+  – Por exemplo, o que se entende por objetivo reduzir a probabilidade de
+complicações graves no tratamento de câncer?
+
+  – Parte da resposta é evitar a recorrência do câncer. 
+  
+  – Outra parte é garantir que o câncer não se espalhe. 
+  
+  – Esses dois últimos objetivos especificam com mais detalhes o que se entende pelo primeiro. 
+  
+  – Eles respondem à pergunta 'o que você quer dizer com reduzir a probabilidade de complicações graves'.
+  
+ 
+ 
+- Os objetivos fundamentais podem ser estruturados em uma hierarquia
+
+- O objetivo mais geral está no topo
+
+- Objetivos de nível inferior explicam o significado dos objetivos de nível superior 
+
+- A realização dos objetivos de nível mais baixo pode ser medida usando “métricas” para descrever e avaliar as várias alternativas
+
+
+
+
+- Objetivos de meios e objetivos fundamentais (fins) podem ser
+relacionados em uma rede de meios-fins
+
+- A rede de objetivos de meios mostra como os objetivos
+fundamentais correspondentes podem ser alcançados
+
+<img src=".assets/objestrameio.JPG">
+
