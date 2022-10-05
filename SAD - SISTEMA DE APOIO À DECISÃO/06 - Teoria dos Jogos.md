@@ -321,3 +321,15 @@ estratégias mistas
 
 Observe este jogo:
 
+<img src=".assets/matrizPayOff5.jpg">
+
+- Neste jogo não existe Equilíbio de Nash em estratégias puras
+
+- Suponha que A escolha uma estratégia que consiste em 50% para cada ação, e que
+B escolha os mesmos percentuais:
+  
+  – O payoff médio de A será 0 e B será 1⁄2
+  
+- O Equilíbrio de Nash ocorre com as probabilidades 3⁄4 para “Acima” 1⁄4 para “Abaixo”, 1⁄2 para “Esquerda” e 1⁄2 para “Direita”
+
+<img src=".assets/estrategiaMista.jpg">
