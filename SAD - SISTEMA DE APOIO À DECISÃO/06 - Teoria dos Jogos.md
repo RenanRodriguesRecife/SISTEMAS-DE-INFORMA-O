@@ -428,3 +428,26 @@ Observe que se houvesse cooperação, ambos estariam melhores!!!
   – Jogos repetidos
   
 - Jogos Cooperativos
+
+
+Jogos Simultâneos ou Sequenciais
+
+- Nos jogos simultâneos cada jogador conhece os payoffs dos outros jogadores e as estratégias disponíveis
+
+- Mas não conhecem a vantagem atual dos outros jogadores em relação às estratégias escolhidas porque os jogadores fazem duas escolhas ao mesmo tempo.
+
+  – Ex.: Dilema dos prisioneiros, guerra dos sexos
+  
+- Nos jogos sequenciais, os jogadores se movimentam sequencialmente, são jogos dinâmicos
+
+- Um jogador deve saber a escolha de outros jogadores antes de fazer sua própria escolha
+
+  – Ex.: Jogo dos fabricantes de aviões.
+
+Jogos Simultâneos ou Sequenciais
+
+- Um fabricante de avião tem que decidir se introduz ou não um novo modelo de aeronave para competir com a empresa dominante no mercado
+
+- E a líder (fabricante 2) terá após o movimento da nova empresa que decidir se mantém ou reduz seu preço.
+
+<img src=".assets/aviao.jpg">
