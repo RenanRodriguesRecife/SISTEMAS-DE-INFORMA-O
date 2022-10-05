@@ -314,3 +314,4 @@ fundamentais correspondentes podem ser alcançados
 
 <img src=".assets/objestrameio.JPG">
 
+<img src=".assets/excopa.JPG">
