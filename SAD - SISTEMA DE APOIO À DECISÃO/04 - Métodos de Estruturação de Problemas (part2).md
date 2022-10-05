@@ -237,3 +237,24 @@ sua vida.
 
 <img src=".assets/tecnicPergu.jpg">
 
+- E para identificar valores adicionais, se pergunte para cada um dos valores listados:
+
+  1. Por que este valor é importante?
+
+  2. O que este valor significa?
+
+  3. Qual a categoria deste valor?
+  
+  
+- É útil declarar valores no formato de um objetivo. 
+
+- Um valor é qualquer coisa com que um decisor se preocupa em uma decisão
+
+- Um objetivo é um valor declarado em um formato verbo-objeto, por exemplo
+
+  – 'dinheiro' se torna 'maximizar meu salário' ou 'maximizar lucros' 
+
+  – ‘muito gelo derretido’ pode se tornar ‘preservar o habitat do urso polar’
+  
+<img src=".assets/tabeValorObj.JPG">
+
