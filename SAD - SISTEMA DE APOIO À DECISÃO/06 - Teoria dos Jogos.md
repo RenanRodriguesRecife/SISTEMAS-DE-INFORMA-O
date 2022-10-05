@@ -335,3 +335,15 @@ B escolha os mesmos percentuais:
 <img src=".assets/estrategiaMista.jpg">
 
 <img src=".assets/estrategiasmistas2.JPG">
+
+
+- Um exemplo clássico para um jogo de estratégias mistas é o jogo do “Papel, Pedra e Tesoura”
+
+  – Existe uma sociedade que organiza campeonatos profissionais!
+
+    - Procurem o documentário de 2003 sobre os campeonatos em Toronto
+    
+- Considerando que os humanos não são randomizadores perfeitos, assim como no Pôquer é possível verificar alguns padrões
+
+### O Dilema do Prisioneiro
+
