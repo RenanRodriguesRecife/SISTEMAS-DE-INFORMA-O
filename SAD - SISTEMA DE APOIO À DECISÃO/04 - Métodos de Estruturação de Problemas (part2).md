@@ -383,3 +383,21 @@ alternativas que você considerou
   - Restrições inadequadas
   
   - Concentrar-se em alternativas apresentadas por outros
+
+
+- Conselhos padrão para criar alternativas: Pense fora da caixa!!!!
+
+- Vale a pena seguir o espírito deste conselho
+
+  - é natural pensar que não se deve pensar dentre de uma caixa.
+  
+  - No entanto, fora da caixa está em qualquer outro lugar, que é um espaço muito grande para procurar qualquer coisa...
+  
+- Você não pode olhar em todos os lugares de forma efecaz ou eficiente.
+
+- Então você deve pensar dentro de um espaço amostral limitado...
+
+- ... Mas limitado pelos seus **valores**!
+
+79
+
