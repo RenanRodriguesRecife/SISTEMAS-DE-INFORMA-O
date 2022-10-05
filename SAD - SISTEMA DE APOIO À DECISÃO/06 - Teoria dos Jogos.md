@@ -147,6 +147,33 @@ informação incompleta ou assimetria de informação
 
 ### Caracterização de um jogo
 
-- 
+- A análise de qualquer jogo ou situação de conflito deve se iniciar com a
+especificação de um modelo que descreva o jogo
 
-6
+- Assim, a forma ou estrutura geral dos modelos que utilizarmos para descrever jogos deve ser cuidadosamente considerada
+
+- Uma estrutura de modelo que seja simples demais pode nos forçar a ignorar
+aspectos vitais dos jogos
+
+- Uma estrutura de modelo excessivamente complicada pode impedir nossa análise,
+obscurecendo as questões essenciais
+
+
+
+- Um jogo nada mais é do que uma representação formal que permite a análise das
+situações em que os agentes interagem entre si, agindo racionalmente
+
+- Elementos que caracterizam um jogo:
+
+  – **Modelo do jogo:** descrição e análise
+  
+  – **Interações**: as ações de cada agente (individualmente) afetam os demais
+  
+  – **Agentes / Jogadores**: é qualquer indivíduo ou grupo com capacidade de decisão para afetar os demais
+  
+  – **Racionalidade**: os agentes empregam os meios adequados aos objetivos que
+almejam
+
+  – **Comportamento estratégico**: cada jogador ao tomar sua decisão leva em
+consideração a interação com os outros jogadores e as consequências das múltiplas
+decisões em conjunto
