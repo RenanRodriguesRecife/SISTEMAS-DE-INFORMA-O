@@ -534,3 +534,11 @@ Problema da Barganha
 - Dessa forma, o problema é solucionado maximizando o Produto de Nash:
 
 <img src=".assets/fbarganha.jpg">
+
+Coalizão em Jogos Cooperativos
+
+- A solução da barganha e Nash ignoram a possibilidade de cooperação entre subconjuntos de jogadores (coalizões)
+
+- Na coalizão, se existir uma mudança viável nas estratégias dos membros da coalizão que possa beneficiá-los eles podem mudar a estratégia
+
+  – Mesmo que isso signifique descumprir os acordos feitos com outros jogadores externos à coalizão
