@@ -16,3 +16,4 @@ O que estuda a Teoria da Decisão ou Análise de Decisão?
         - Por que?
         
         
+4
