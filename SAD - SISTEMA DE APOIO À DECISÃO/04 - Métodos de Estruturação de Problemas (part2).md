@@ -315,3 +315,71 @@ fundamentais correspondentes podem ser alcançados
 <img src=".assets/objestrameio.JPG">
 
 <img src=".assets/excopa.JPG">
+
+- Somente objetivos fundamentais devem ser usados para avaliar e
+comparar alternativas. 
+  
+  – A realização dos objetivos de nível mais baixo pode ser medida
+usando “atributos” para descrever e avaliar as várias alternativas. 
+
+- Significa que os objetivos podem ser usados para criar alternativas
+
+- Se um objetivo é um meio ou um objetivo fundamental depende do
+contexto de decisão
+
+- Mas existem dois valores que devem ser considerados para qualquer contexto de decisão: 
+
+  – Aprendizagem: aprender informações úteis para decisões futuras 
+
+  – Flexibilidade: tenha flexibilidade para adaptar sua decisão no futuro
+  
+- As Alternativas: 
+
+  – são as escolhas potenciais para perseguir seus objetivos. 
+  
+  – devem estar completamente sob o controle do decisor 
+  
+  – são definidas de tal forma que apenas uma seja escolhida para uma decisão específica.
+  
+  - Isso não é uma limitação.
+  
+  
+- Dois fatos importantes sobre alternativas: 
+
+  – Você nunca pode escolher uma alternativa que você não considerou
+  
+  – A alternativa escolhida não pode ser pior do que a melhor do conjunto de
+alternativas que você considerou
+
+- Há decisões para as quais não há necessidade de criar alternativas. 
+
+  – Isso ocorre quando você conhece todas as alternativas, o que é uma situação distinta de quando você pensa que conhece todas as alternativas.
+  
+  
+
+- Existem duas situações em que é útil criar alternativas realistas:
+
+  – Quando você conhece um grande número de alternativas potenciais, talvez todas as alternativas possíveis, e muitas não são realistas. 
+  
+    - Você deseja eliminar alternativas inferiores para identificar as alternativas realistas. 
+    
+  – Quando você não tem ideia do que fazer ou não tem alternativas. Tem alternativas, mas não gosta muito de nenhuma. Quando sabe que deve haver alternativas que ainda não foram identificadas. (Mais comum, mais importante, e a situação de maior preocupação)
+  
+    - A criatividade é necessária nessas situações.
+
+
+- Existem algumas armadilhas na geração de alternativas:
+
+  - Nenhum (ou pouco) esforço gasto na criação de alternativas
+  
+  - Pensando muito superficialmente
+  
+    - Por hábito
+    
+    - Incrementando as alternativas existentes
+    
+  - Usando a primeira solução possível
+  
+  - Restrições inadequadas
+  
+  - Concentrar-se em alternativas apresentadas por outros
