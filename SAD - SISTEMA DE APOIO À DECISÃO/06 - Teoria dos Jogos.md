@@ -187,3 +187,76 @@ decisões em conjunto
 - Elementos básicos
 
 <img src=".assets/jogosElementosB.jpg">
+
+### Matriz de Payoff de um Jogo
+
+- Um jogo pode envolver múltiplos jogadores e múltiplas estratégias
+
+- Mas aqui vamos considerar o caso ilustrativo de jogos com dois jogadores e um
+número finito de estratégias
+
+  – Dessa forma podemos ilustrar facilmente a matriz de payoff
+  
+- Suponha que num jogo simplificado simultâneo:
+
+  – O jogador A vai escrever uma de duas palavras num pedaço de papel: “Acima”
+ou “Abaixo”
+
+  – O jogador B vai de forma independente e simultânea escrever no papel:
+“Esquerda” ou “Direita”
+
+  – Em seguida os papeis serão examinados, então teremos a matriz de payoff
+
+- A matriz de payoff pode ser representada assim:
+
+<img src=".assets/matrizPayOff1.jpg">
+
+- Estas escolhas podem representar situações como:
+
+  – “aumentar o preço” ou “diminuir o preço”
+  
+  – “lançar um novo produto” ou “criar uma versão melhorada”
+  
+  – “declarar guerra” ou “retaliar economicamente/diplomaticamente”
+  
+  
+- Este jogo apresentado tem uma solução muito simples:
+
+  – Para o jogador A, sempre será melhor escolher “Abaixo”
+
+  – Para o jogador B, sempre será melhor escolher “Esquerda”
+  
+<img src=".assets/matrizPayOff2.jpg">
+
+- Existe uma relação clara de dominância nessa matriz para cada jogador
+
+- A condição de equilíbrio sempre será “Abaixo” e “Esquerda”
+
+
+
+- Uma **estratégia dominante** é representada pela escolha ótima para cada jogador, independentemente da ação do outro
+
+- Portanto, estas escolhas dominam as outras opções resultando num equilíbrio de
+estratégias dominantes
+
+- Se existe uma estratégia para cada jogador, então podemos prever que este será o resultado de equilíbrio do jogo
+
+- Para este jogo:
+
+  – Jogador A sempre jogará “Abaixo”, recebendo 2
+
+  – Jogador B sempre jogará “Esquerda”, recebendo 1
+  
+### Equilíbrio de Nash
+
+- Equilíbrio de estratégias dominantes são situações confortáveis, mas não acontecem frequentemente
+
+- Observe o jogo abaixo:
+
+<img src=".assets/matrizPayOff3.jpg">
+
+- Neste caso, a escolha ótima para o jogador A depende o que ele pensa que o
+jogador B vai fazer
+
+## Equilíbrio de Nash
+
