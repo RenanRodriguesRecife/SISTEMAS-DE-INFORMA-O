@@ -333,3 +333,5 @@ B escolha os mesmos percentuais:
 - O Equilíbrio de Nash ocorre com as probabilidades 3⁄4 para “Acima” 1⁄4 para “Abaixo”, 1⁄2 para “Esquerda” e 1⁄2 para “Direita”
 
 <img src=".assets/estrategiaMista.jpg">
+
+<img src=".assets/estrategiasmistas2.JPG">
