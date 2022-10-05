@@ -233,4 +233,7 @@ sua vida.
 
 4. Use valores identificados para identificar valores adicionais
 
-30
+- Usando sondagem da mente:
+
+<img src=".assets/tecnicPergu.jpg">
+
