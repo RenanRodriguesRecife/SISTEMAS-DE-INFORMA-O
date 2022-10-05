@@ -148,3 +148,5 @@ informação incompleta ou assimetria de informação
 ### Caracterização de um jogo
 
 - 
+
+6
