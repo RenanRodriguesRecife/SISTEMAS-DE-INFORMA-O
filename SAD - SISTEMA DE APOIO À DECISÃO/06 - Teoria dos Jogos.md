@@ -307,4 +307,17 @@ estratégias mistas
 
 ## Estratégias mistas
 
+- Uma outra perspectiva é permitir que os agentes randomizem suas estratégias
+
+- Ao associar probabilidades para suas escolhas, os jogadores podem construir
+estratégias mistas
+
+- Ao calcular o valor esperado das estratégias de cada jogador, é possível obter um Equilíbrio de Nash no qual cada agente escolhe a frequência ótima para jogar considerando as frequências dos outros agentes
+
+- É possível provar matematicamente que sempre haverá um Equilíbrio de Nash para
+estratégias mistas
+
+– Por isso é tão importante entender o comportamento do jogo
+
+Observe este jogo:
 
