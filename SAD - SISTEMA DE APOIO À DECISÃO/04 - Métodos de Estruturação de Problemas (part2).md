@@ -399,5 +399,57 @@ alternativas que você considerou
 
 - ... Mas limitado pelos seus **valores**!
 
-79
+
+
+
+- Já que as alternativas são os meios para alcançar seus valores...
+
+- Pensar em "como" alcançar melhor cada valor pode sugerir alternativas ou elementos de alternativas
+
+- É mais fácil criar alternativas se você acreditar que elas existem...
+
+- ...Então defina uma meta para cria-las!
+
+
+
+Para criar alternativas: 
+
+- **Etapa 1. Defina sua decisão.**
+
+  – Esclareça a decisão que você quer enfrentar agora. 
+  
+  – Reconheça que boas alternativas provavelmente ainda não foram descobertas
+e que o pensamento focado provavelmente criará algumas dessas alternativas desejáveis. 
+
+- **Etapa 2. Identifique seus valores para esta decisão.**
+  
+  – Declare cada um desses valores como objetivos usando o formato verbo-substantivo para esclarecer os valores e torná-los mais úteis.
+  
+  
+Para criar alternativas: 
+
+- **Etapa 3. Crie alternativas usando os objetivos.**
+
+  – Inicialmente, trabalhe sozinho para criar alternativas sem se ancorar em
+comentários feitos por outros. 
+
+  – Primeiro, identifique alternativas para atingir cada objetivo, depois para atingir pares de objetivos e, finalmente, para atingir conjuntos maiores de objetivos.
+  
+  - Em seguida, melhore as alternativas que você já criou
+  
+  - Então, talvez amigos e outras pessoas experientes sugiram alternativas.
+  
+  
+- Uma vez que as alternativas estejam completamente definidas, mas ainda não implementadas, busque modificações para as alternativas que são potencialmente as melhores.
+
+  - modifique alternativas para eliminar deficiências
+  
+  - quando as alternativas envolvem uma série de elementos mude a ordem (por exemplo, viagens)
+  
+  - remova uma restrição (por exemplo, tempo de um presente)
+  
+  - adicione alternativas
+  
+  
+E quando precisamos criar alternativas em grupo???
 
