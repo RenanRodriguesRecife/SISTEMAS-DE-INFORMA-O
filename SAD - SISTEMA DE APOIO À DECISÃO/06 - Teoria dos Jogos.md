@@ -260,3 +260,47 @@ jogador B vai fazer
 
 ## Equilíbrio de Nash
 
+- Equilíbrio de estratégias dominantes são situações confortáveis, mas não acontecem frequentemente
+
+- Observe o jogo abaixo:
+
+<img src=".assets/matrizPayOff4.jpg">
+
+- Neste caso, a escolha ótima para o jogador A depende o que ele pensa que o
+jogador B vai fazer
+
+
+- O equilíbrio de estratégias dominantes é uma situação muito exigente
+
+- Ao invés de exigir que a escolha do jogador A seja ótima para todas as escolhas do jogador B, podemos considerar as escolhas ótimas do jogador A dado uma escolha do jogador B
+
+  – Podemos assumir que B é racional e “bem informado”
+  
+  – No entanto, o que é ótimo para B também depende da escolha de A
+  
+- O **Equilíbrio de Nash** será representado por um par de estratégias
+
+  – Se a escolha de A é ótima dado a escolha de B, e B é ótimo dado a escolha de A
+  
+  – Lembre que A e B não sabem qual a escolha de seus oponentes!
+
+
+- O Equilíbrio de Nash pode ser interpretado como um par de expectativas sobre a
+escolha de cada jogador
+
+- Quando uma escolha é revelada, nenhum jogador mudará seu comportamento
+
+- O Equilíbrio de Nash é uma generalização do Equilíbrio de Cournot
+
+  – O Equilíbrio de Cournot considera a decisão entre concorrentes sobre o quanto
+produzir, onde cada firma decide o quanto produzir considerando a decisão do
+concorrente
+
+- A lógica do Equilíbrio de Nash é interessante, no entanto tem alguns problemas
+
+  – Um jogo pode ter mais de um Equilíbrio de Nash, o que ocorre em jogos
+simétricos
+
+  – Existem jogos que não possuem Equilíbrios de Nash conforme descrevemos
+através de estratégia pura, a não ser que esta noção seja expandida para
+estratégias mistas
