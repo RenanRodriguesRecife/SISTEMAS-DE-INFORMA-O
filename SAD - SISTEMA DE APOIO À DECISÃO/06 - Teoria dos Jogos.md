@@ -365,3 +365,66 @@ período pequeno (1 ano)
 - O dilema do prisioneiro pode ser ilustrado pelo jogo abaixo:
 
 <img src=".assets/payOffPrisio.jpg">
+
+- Se coloque na situação do jogador A:
+
+  – Se B decidir negar o crime, então é melhor confessar
+  
+  – Se B decidir confessar, então é melhor confessar
+
+  – Qualquer que seja a ação de B, a melhor estratégia para A é confessar
+
+- O mesmo vale para B, então temos um único Equilíbrio de Nash
+
+- Veja que este não é um jogo cooperativo, eles não são amigos, são comparsas...
+
+
+Observe que se houvesse cooperação, ambos estariam melhores!!!
+
+  – “Como não há honra entre ladrões....”
+  
+- A estratégia “Negar, Negar” seria a melhor para ambos, mas não há como ter certeza da ação do outro
+
+  – Esta estratégia seria “Pareto eficiente”, não existe estratégia melhor para os dois simultaneamente
+
+- Como não há como coordenar as ações de ambos, se houvesse cooperação, ambos estariam melhores...
+
+- O dilema do prisioneiro se aplica a uma grande gama de fenômenos econômicos e políticos, exemplo:
+
+  – Controle de armas
+  
+    - Desenvolver/Destruir uma arma nuclear, Não Desenvolver/Destruir uma arma nuclear
+
+  – Cartéis econômicos
+  
+  – Negociações numa cadeia de suprimentos
+  
+  – Campanhas publicitárias
+
+    - Existe um caso interessante das indústria de cigarros!
+
+
+- O dilema do prisioneiro provocou muitas controvérsias sobre a melhor estratégia de jogo
+
+  – Qual seria a forma correta?
+  
+  – A resposta depende se o jogo é repetitivo ou não-repetitivo (one-shot)
+  
+- Se o jogo for jogado apenas uma vez, a melhor estratégia é confessar
+
+- Caso seja um jogo repetitivo, algumas considerações precisam ser feitas...
+
+
+- Jogos Competitivos:
+
+  – Jogos simultâneos ou sequenciais
+  
+  – Jogos com informação incompleta ou completa
+  
+  – Jogos com informação imperfeita ou perfeita
+  
+  – Jogos estritamente competitivos
+  
+  – Jogos repetidos
+  
+- Jogos Cooperativos
