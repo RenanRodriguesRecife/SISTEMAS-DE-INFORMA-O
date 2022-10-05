@@ -347,4 +347,21 @@ B escolha os mesmos percentuais:
 
 ### O Dilema do Prisioneiro
 
-28
+- O Dilema do Prisioneiro é um jogo bastante conhecido
+
+- A situação retratada considera dois comparsas num crime que foram presos sob
+suspeita
+
+- Cada prisioneiro tem a chance de confessar o crime implicando o comparsa e sair
+em liberdade deixando o comparsa preso caso não confesse o crime (6 anos)
+
+  – Tipo uma colaboração premiada
+  
+- Caso os dois prisioneiros não confessem, então os dois ficarão detidos por um
+período pequeno (1 ano)
+
+- Caso os dois confessem ambos dividem a pena e ficam presos por 3 anos
+
+- O dilema do prisioneiro pode ser ilustrado pelo jogo abaixo:
+
+<img src=".assets/payOffPrisio.jpg">
