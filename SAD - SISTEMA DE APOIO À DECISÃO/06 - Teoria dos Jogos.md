@@ -389,6 +389,12 @@ Observe que se houvesse cooperação, ambos estariam melhores!!!
 
 - Como não há como coordenar as ações de ambos, se houvesse cooperação, ambos estariam melhores...
 
+```
+- Se você ver a pessoa uma vez na vida (o ideal é não coperar)
+
+- Se você ver a pessoa repetidamente (deve levar em consideração a cooperação)
+```
+
 - O dilema do prisioneiro se aplica a uma grande gama de fenômenos econômicos e políticos, exemplo:
 
   – Controle de armas
