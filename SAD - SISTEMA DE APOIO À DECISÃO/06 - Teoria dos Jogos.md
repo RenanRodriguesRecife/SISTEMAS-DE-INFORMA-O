@@ -347,3 +347,4 @@ B escolha os mesmos percentuais:
 
 ### O Dilema do Prisioneiro
 
+28
