@@ -116,3 +116,11 @@ Exemplo:
 - Decisão X Consequência
 
 <img src=".assets/decxquali.JPG">
+
+- Claramente, boas decisões não levam à boas consequências
+
+- O que a análise da decisão deseja é estruturar o problema para que o decisor possa tomas suas decisões com clareza! 
+
+- O mais importante é perceber a diferença entre a qualidade de uma decisão e a qualidade de uma consequência
+
+<img src=".assets/eleBoaDeci.JPG">
