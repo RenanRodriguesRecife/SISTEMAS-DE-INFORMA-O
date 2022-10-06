@@ -154,3 +154,64 @@ Exemplo:
 
   – São Tomas de Aquino (1273) tratou das questões de preço justo e da usura, considerando que o preço variava em função da desejabilidade de um item para os dois negociadores e que receber juros sobre venda era errado.
 
+- Breve Hitórico (Parêntese):
+
+  - Daniel Kahneman
+  
+    - Prêmio Nobel 2002: teoria dos prospectos e economia comportamental (thinking fast and slow - Daniel Kahneman)
+
+
+Breve Histórico:
+
+  – Na fase dos marginalistas, os problemas tratavam da determinação do preço unitário dos bens. Neste caso, dizia-se que o preço a ser pago por cada um dos bens era proporcional a satisfação que cada bem poderia lhe trazer.
+
+  – Um elemento útil desta fase foi a **curva de indiferença**, que eles utilizaram para estudar a substituição e complementaridade, o equilíbrio na barganha e o equilíbrio do consumo.
+  
+  – Pareto (1927) mostrou que a teoria do consumidor poderia ser tratada apenas com o emprego de curvas de indiferença, procedimento conhecido como método da utilidade ordinal.
+  
+  
+  – Outro conceito indispensável é o da intensidade de preferência de um bem em relação à outro. Neste modelo o decisor é capaz de escolher entre alternativas que não envolvem riscos, ou seja, sem situações de incerteza.
+
+  – Contribuição fundamental: von Neumann e Morgenstern em 1947. Eles propuseram o conceito de utilidade, que às vezes é chamado de cardinal fraca, e apresentaram axiomas de comportamento e o comportamento do decisor ao risco.
+
+    - Esta é a teoria que atualmente se estudo quando se fala em Teoria da Utilidade.
+
+  – Em 1950, Wald explorou a teoria dos jogos e a teoria estatística, de onde surgiu a Teoria Estatística da Decisão, que é o tema geral desta aula.
+  
+ 
+
+##### A teoria de von Neumann e Morgenstern
+
+- Quando alguém diz que é mais racional preferir um coisa à outra, esse alguém deve ter um problema em mente (que foi estruturado)
+
+  – O indivíduo quer uma resposta à uma questão
+  
+  – p denotará um bem (ou uma perda) qualquer 
+  
+    - Uma quantidade de dinheiro; 
+    
+    - Quilos de uma substância
+
+    - Uma distância
+    
+    - Um estado de saúde (numa escala 0 a 10, por exemplo, ou o valor de glicemia em jejum) 
+    
+    - Uma casa
+    
+    - Um automóvel
+    
+    -...
+    
+    
+- Num problema qualquer de decisão, P(p), denotará o conjunto de probabilidade de todos os bens envolvidos.
+
+  – O conjunto de todas as distribuições de probabilidade sobre P será
+indicado por P∗ = {P} , onde P é a probabilidade do decisor ganhar
+o bem p
+
+- Como determinar se a consequência P é preferível à consequência Q?
+
+- É preciso estabelecer uma estrutura conceitual para lidar com o problema de preferências, pois não existe uma fórmula matemática que seja utilizada para obter uma resposta única no que tange às relações de preferência.
+
+- O que é preciso fazer é impor algumas restrições: **restrições de
+racionalidade**.
