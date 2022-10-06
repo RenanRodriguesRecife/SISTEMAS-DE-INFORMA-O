@@ -124,3 +124,33 @@ Exemplo:
 - O mais importante é perceber a diferença entre a qualidade de uma decisão e a qualidade de uma consequência
 
 <img src=".assets/eleBoaDeci.JPG">
+
+
+- “A utilidade diz respeito àquilo que o se quer”
+
+  – Concentra-se nas preferências que o decisor tem em relação às consequências possíveis de uma ação.
+
+- Objetivo: Desenvolver um modelo matemático que permita representar a desejabilidade do decisor pelos bens que poderá obter.
+
+  – A ideia básica da teoria da utilidade é quantificar essa desejabilidade, associando aos bens um valor que represente um critério de escolha por parte do decisor.
+  
+  
+- Ideia constante na história: elaborar uma escala que representasse a preferência do decisor com respeito a uma lista de bens ou objetos.
+
+- Escala útil para desenvolvimento de teorias econômicas e de comportamento.
+
+- Várias contribuições foram dadas na literatura quanto a este tópico.
+
+- Breve Histórico:
+
+  – Bernoulli, 1738, abordou o problema do uso da utilidade como o valor que um indivíduo atribui a um bem, considerando que o preço de um item é igual para todos, mas a utilidade depende das circunstâncias. Assim, um ganho de R$1.000,00 tem uma representatividade para um homem rico, diferente da que tem para um homem pobre.
+  
+
+- Breve Histórico:
+
+  – Bentham (1789) explicou detalhadamente princípio da Utilidade e elaborou o “Cálculo Felicífico”, onde ele falou de princípios morais e éticos.
+
+  – Ainda relacionados às questões morais, éticas e filosóficos, Platão e Aristóteles trouxeram estes aspectos ao falarem da distinção entre valor de uso e valor de troca, as funções de dinheiro e a divisão de mão de obra.
+
+  – São Tomas de Aquino (1273) tratou das questões de preço justo e da usura, considerando que o preço variava em função da desejabilidade de um item para os dois negociadores e que receber juros sobre venda era errado.
+
