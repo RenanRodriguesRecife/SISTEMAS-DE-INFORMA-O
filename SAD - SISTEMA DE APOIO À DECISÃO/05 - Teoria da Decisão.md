@@ -248,4 +248,12 @@ Definição 2: P ≻ Q se P ≿ Q e falso que P ≾ Q
 
 Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 
-26
+
+
+- Definição de Loterias
+  – Para 0 ≤ λ ≤ 1, P e Q distribuições sobre os bens, λP + (1 − λ)Q denota uma loteria (outra distribuição) onde se ganha a distribuição P com probabilidade λ e a distribuição Q com probabilidade (1 − λ)
+  
+  - O indivíduo ganha apenas uma das duas distribuições
+  - Se se manifestar o evento que tem a probabilidade λ então ele ganha P; se se manifestar o evento que tem a probabilidade complementar (1 − λ), ele ganha a distribuição Q.
+
+<img src=".assets/loteria.jpg">
