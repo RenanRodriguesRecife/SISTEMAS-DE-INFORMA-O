@@ -112,6 +112,7 @@ Exemplo:
   – Prescritiva
   
   
-  - Decisão X Consequência
+
+- Decisão X Consequência
 
 <img src=".assets/decxquali.JPG">
