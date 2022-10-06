@@ -99,4 +99,19 @@ Exemplo:
   - A decisão é conformada pela cultura e estrutura organizacional
   
   
-13
+- A teoria da decisão **não** surge como uma teoria que tenta descrever ou explicar o comportamento das pessoas (ou instituições) ou como elas tomam suas decisões
+
+– Ela busca organizar de forma lógica parâmetros que possam ajudar na <u>**tomada de decisões**</u>, face <u>**as preferências do agente decisor e ao que se deseja obter**</u>. 
+
+- Perspectiva de Análise da Decisão:
+
+  – Descritiva: descreve a realidade das ações como elas são. A física é descritiva porque os modelos da física têm a intensão de descrever a realidade e podem ser comprovados experimentalmente (lei da gravidade)
+
+  – Normativa: identifica como as ações deveriam ser
+
+  – Prescritiva
+  
+  
+  - Decisão X Consequência
+
+<img src=".assets/decxquali.JPG">
