@@ -257,3 +257,20 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
   - Se se manifestar o evento que tem a probabilidade λ então ele ganha P; se se manifestar o evento que tem a probabilidade complementar (1 − λ), ele ganha a distribuição Q.
 
 <img src=".assets/loteria.jpg">
+
+
+##### Conceito de Ordem
+
+– A noção fundamental é a de sequência, ou precedência ou hierarquia
+
+– Um conjunto é ordenado quando os seus elementos obedecem a uma certa ordem ou sequência
+
+  - Então, existe o primeiro elemento da ordem
+
+  - A ordem pode ser total ou parcial
+  
+    – Um conjunto de pacientes pode ser ordenado em função do risco cardiovascular, sendo o mais grave o primeiro da ordem, ou vice-versa, dependendo de como essa ordem vai ser usada em processos decisórios;
+    
+    – Um conjunto de empresas pode ser ordenado por função de ocorrência de acidentes, sendo aquele que tem menos acidentes o primeiro da ordem, por exemplo;
+    
+    - ...
