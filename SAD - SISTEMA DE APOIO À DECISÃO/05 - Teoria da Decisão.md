@@ -274,3 +274,5 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
     – Um conjunto de empresas pode ser ordenado por função de ocorrência de acidentes, sendo aquele que tem menos acidentes o primeiro da ordem, por exemplo;
     
     - ...
+
+27
