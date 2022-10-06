@@ -215,3 +215,17 @@ o bem p
 
 - O que é preciso fazer é impor algumas restrições: **restrições de
 racionalidade**.
+
+
+
+- Uma pessoa pode preferir laranjas a bananas e outra bananas a maçãs, sem que exista qualquer problema nestas afirmações.
+
+- O que é presumivelmente errado é que um indivíduo prefira laranjas a bananas, bananas a maçãs e maçãs a laranjas.
+
+- Este é uma exemplo de preferências irracionais e será apresentado um conjunto de axiomas que impedem a tomada de decisões deste tipo.
+
+- Características de racionalidade:
+
+  1. Os objetivos desejados devem ser consistentes;
+
+  2. Deve-se agir de forma a atingir os objetivos, respeitadas restrições éticas e morais.
