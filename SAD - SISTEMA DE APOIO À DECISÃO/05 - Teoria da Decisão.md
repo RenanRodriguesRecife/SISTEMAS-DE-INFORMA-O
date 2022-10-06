@@ -229,3 +229,23 @@ racionalidade**.
   1. Os objetivos desejados devem ser consistentes;
 
   2. Deve-se agir de forma a atingir os objetivos, respeitadas restrições éticas e morais.
+
+
+
+#### Relações de Preferência
+
+  – Será definida uma relação de preferência ≿ entre os elementos de P∗ 
+  
+Definição 1: Para todo P, Q ∈ P∗, 
+
+– P ≿ Q é para ser lido como: “P é pelo menos tão desejável quanto Q” 
+
+– P ≻ Q é para ser lido como: “P é preferível à Q” 
+
+– P ∼ Q é para ser lido como: “Está-se indiferente entre P e Q” ou “P é equivalente a Q” ou “P e Q são equivalente”
+
+Definição 2: P ≻ Q se P ≿ Q e falso que P ≾ Q
+
+Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
+
+26
