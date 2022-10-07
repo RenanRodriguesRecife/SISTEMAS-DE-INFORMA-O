@@ -38,3 +38,16 @@
   – Relações de Sobreclassificação / Métodos de Sobreclassificação
 
   – Análises de Desagregação de Preferências
+
+
+#### Otimização Multiobjetivo
+
+- A Otimização Multiobjetivo consiste em abordagens de programação matemática envolvendo mais de um único objetivo do decisor
+
+- É considerada uma extensão aos métodos tradicionais de otimização monobjetivo
+
+- O campo de atuação da abordagem de otimização multiobjetivo contempla problemas complexos, podendo envolver a formulação de heurísticas e algoritmos evolucionários
+
+- Nessa abordagem, existe uma busca por alternativas não dominadas em uma análise da fronteira de Pareto
+
+- A otimalidade das soluções é analisada através da relação de dominância devido ao fato de que não existe uma alternativa que possua o melhor desempenho em todos os critérios ao mesmo tempo
