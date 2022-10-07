@@ -51,3 +51,13 @@
 - Nessa abordagem, existe uma busca por alternativas não dominadas em uma análise da fronteira de Pareto
 
 - A otimalidade das soluções é analisada através da relação de dominância devido ao fato de que não existe uma alternativa que possua o melhor desempenho em todos os critérios ao mesmo tempo
+
+#### Critério Único de Síntese
+
+- Envolvem metodologias que agregam/combinam as performances de cada alternativa para os diferentes critérios de avaliação, de forma que se obtenha um valor global de performance para cada alternativa
+
+- Esse valor é utilizado para comparações entre as diferentes alternativas do problema, e assim, para a tomada de decisão.
+
+- Esses métodos são considerados compensatórios, pois um bom desempenho de uma alternativa para um determinado critério pode compensar um desempenho ruim para um outro critério
+
+  – A compensação é definida pelos tradeoffs (pesos, constantes de escala) dos critérios de decisão
