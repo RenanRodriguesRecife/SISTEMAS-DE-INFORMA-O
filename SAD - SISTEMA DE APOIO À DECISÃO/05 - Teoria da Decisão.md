@@ -282,3 +282,28 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 <img src=".assets/axio3.jpg">
 
 <img src=".assets/axio4.jpg">
+
+
+### Função Utilidade
+
+- Trata-se de uma medida cardinal (numérica) da estrutura de valores do decisor.
+
+- A função utilidade permite identificar a relação de preferências do decisor sobre um conjunto de conseqüências (determinísticas ou não).
+
+- A unidade de medida é o **utile**.
+
+- A escala de medida é a intervalar, ou seja, importam as diferenças entre as utilidades, e não o valor absoluto.
+
+- A função utilidade é cotada, o que permite a resolução do paradoxo de São Petersburgo.
+
+  – É um paradoxo de probabilidade e teoria da decisão em economia
+  
+- Os elementos de desejo do decisor são os bens, ou recompensas, ou payoffs, ou consequências (determinísticas).
+
+- O decisor demonstra preferir cada um dos bens em graus diferentes, de acordo com suas necessidades
+
+- Atenção: Não se tem preferências por ações!
+
+<img src=".assets/funUtili.jpg">
+
+36
