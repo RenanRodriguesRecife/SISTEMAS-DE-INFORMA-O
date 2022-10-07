@@ -26,3 +26,15 @@
   – Problemática de Portfólio (caso especial da Problemática de Escolha)
   
   <img src=".assets/Multiclassi.jpg">
+
+#### Métodos Multicritério
+
+- Doumpos & Zopounidis (2014) distinguem entre quatro tipos de abordagens multicritério:
+
+  – Otimização Multiobjetivo / Métodos Interativos
+  
+  – Teoria de Valor / Utilidade Multiatributo / Critério Único de Síntese
+
+  – Relações de Sobreclassificação / Métodos de Sobreclassificação
+
+  – Análises de Desagregação de Preferências
