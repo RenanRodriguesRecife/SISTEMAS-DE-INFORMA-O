@@ -61,3 +61,6 @@
 - Esses métodos são considerados compensatórios, pois um bom desempenho de uma alternativa para um determinado critério pode compensar um desempenho ruim para um outro critério
 
   – A compensação é definida pelos tradeoffs (pesos, constantes de escala) dos critérios de decisão
+
+
+<img src=".assets/apliMetodMulti.jpg">
