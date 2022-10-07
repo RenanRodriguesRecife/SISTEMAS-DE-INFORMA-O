@@ -276,3 +276,9 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
     - ...
 
 <img src=".assets/conceitoOrdem.jpg">
+
+<img src=".assets/axio12.jpg">
+
+<img src=".assets/axio3.jpg">
+
+<img src=".assets/axio4.jpg">
