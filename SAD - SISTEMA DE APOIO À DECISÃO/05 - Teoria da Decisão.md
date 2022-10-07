@@ -158,7 +158,7 @@ Exemplo:
 
   - Daniel Kahneman
   
-    - Prêmio Nobel 2002: teoria dos prospectos e economia comportamental (thinking fast and slow - Daniel Kahneman)
+   - Prêmio Nobel 2002: teoria dos prospectos e economia comportamental (thinking fast and slow - Daniel Kahneman)
 
 
 Breve Histórico:
@@ -259,7 +259,7 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 <img src=".assets/loteria.jpg">
 
 
-##### Conceito de Ordem
+#### Conceito de Ordem
 
 – A noção fundamental é a de sequência, ou precedência ou hierarquia
 
@@ -275,4 +275,4 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
     
     - ...
 
-27
+<img src=".assets/conceitoOrdem.jpg">
