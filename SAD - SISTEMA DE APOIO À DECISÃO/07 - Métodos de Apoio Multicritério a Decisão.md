@@ -63,4 +63,33 @@
   – A compensação é definida pelos tradeoffs (pesos, constantes de escala) dos critérios de decisão
 
 
+- Destacam-se os métodos provenientes da Teoria de Valor/Utilidade Multiatributo:
+
+  – Modelo Aditivo
+
+  – AHP
+
+  – TOPSIS
+
+  – SMARTS
+
+  – MACBETH
+
+  – FITradeoff
+
+
+- MAUT difere de MAVT ao tratar problemas sob a perspectiva da existência de consequências probabilísticas
+
+- Considerando-se assim uma modelagem no contexto de incerteza, enquanto MAVT trata de consequências determinísticas
+
+- Ambas abordagens são bem definidas axiomaticamente
+
+- Para estas duas abordagens existem testes de racionalidade que devem ser realizados para validar a adequação dos métodos ao contexto decisório
+
+#### Métodos de Sobreclassificação
+
+
+
+#### Aplicação de Métodos Multicritério
+
 <img src=".assets/apliMetodMulti.jpg">
