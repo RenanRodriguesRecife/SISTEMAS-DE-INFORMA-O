@@ -88,7 +88,27 @@
 
 #### Métodos de Sobreclassificação
 
+- Os métodos de sobreclassificação possuem racionalidade não-compensatória
 
+  – Um mau desempenho de uma alternativa em um dos critérios não é compensado por um bom desempenho em um outro critério
+  
+- Estes métodos admitem relações de incomparabilidade entre as alternativas
+
+- A relação de sobreclassificação indica que uma alternativa ‘a’ é pelo menos tão boa quanto uma alternativa ‘b’, se a sobreclassifica b
+
+- Os métodos de sobreclassificação são formulados de maneira que as alternativas sejam comparadas par-a-par.
+
+- Em modelos que utilizam métodos de sobreclassificação, a avaliação intercritério é realizada de modo que os pesos dos critérios representam o grau de importância relativa de cada critério
+
+- Os principais métodos de sobreclassificação são:
+
+  – ELECTRE (ELimination Et Choix Traduisant la REalité)
+
+  – PROMETHEE (Preference Ranking Organization METHod for Enrichment of Evaluations)
+
+- Estes métodos representam os métodos da escola francesa (franco-belga)
+
+- Uma vez que existem algorítimos específicos para cada problemática e particularidades do contexto de decisão, é comum mencionar como família de métodos ELECTRE e PROMETHEE
 
 #### Aplicação de Métodos Multicritério
 
