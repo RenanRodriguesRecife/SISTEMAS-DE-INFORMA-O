@@ -306,4 +306,8 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 
 <img src=".assets/funUtili.jpg">
 
-36
+<img src=".assets/funUtili2.jpg">
+
+### Construção da Função Utilidade
+
+
