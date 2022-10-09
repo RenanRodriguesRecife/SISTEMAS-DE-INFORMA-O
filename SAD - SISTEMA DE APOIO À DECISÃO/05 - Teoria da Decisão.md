@@ -359,3 +359,28 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 - Mesmo levando-se em conta a possibilidade de que tal função utilidade incorpore outros aspectos dos prospectos, essa escala de valores não se constitui numa base totalmente adequada a partir da qual se possa analisar os problemas de decisão envolvendo dinheiro.
 
 - Usando a teoria, deve-se construir uma função utilidade para dinheiro.
+
+
+<img src=".assets/ultiliDin1.jpg">
+
+<img src=".assets/ultiliDin2.jpg">
+
+<img src=".assets/ultiliDin3.jpg">
+
+<img src=".assets/ultiliDin4.jpg">
+
+<img src=".assets/ultiliDin5.jpg">
+
+<img src=".assets/ultiliDin6.jpg">
+
+<img src=".assets/ultiliDin7.jpg">
+
+<img src=".assets/ultiliDin8.jpg">
+
+<img src=".assets/ultiliDin9.jpg">
+
+<img src=".assets/ultiliDin10.jpg">
+
+<img src=".assets/ultiliDin11.jpg">
+
+<img src=".assets/ultiliDin12.jpg">
