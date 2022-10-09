@@ -345,3 +345,17 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 <img src=".assets/ex35.jpg">
 
 <img src=".assets/ex36.jpg">
+
+# Utilidade para Dinheiro
+
+- Em diversas situações práticas, os prospectos são expressos em termos de quantidade de dinheiro.
+ 
+- A quantidade de dinheiro pode ter diferentes moedas (reais, dólares, euros,...).
+
+- Intuitivo tratar o número de Reais como utilidade, ou como proporcional à utilidade: u($p) = $p ou u( $p) = K$p. 
+
+- Ou seja, a utilidade de dinheiro seria igual (equivalente, ou proporcional) ao valor numérico do dinheiro.
+
+- Mesmo levando-se em conta a possibilidade de que tal função utilidade incorpore outros aspectos dos prospectos, essa escala de valores não se constitui numa base totalmente adequada a partir da qual se possa analisar os problemas de decisão envolvendo dinheiro.
+
+- Usando a teoria, deve-se construir uma função utilidade para dinheiro.
