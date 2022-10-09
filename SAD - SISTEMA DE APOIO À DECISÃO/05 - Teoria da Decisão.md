@@ -311,3 +311,10 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 ### Construção da Função Utilidade
 
 <img src=".assets/ConstfunUtili.jpg">
+
+<img src=".assets/ConstfunUtili2.jpg">
+
+<img src=".assets/ConstfunUtili3.jpg">
+
+<img src=".assets/ConstfunUtili4.jpg">
+
