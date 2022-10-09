@@ -318,3 +318,16 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 
 <img src=".assets/ConstfunUtili4.jpg">
 
+<img src=".assets/ConstfunUtili5.jpg">
+
+<img src=".assets/ConstfunUtili6.jpg">
+
+<img src=".assets/ConstfunUtili7.jpg">
+
+<img src=".assets/ConstfunUtili8.jpg">
+
+<img src=".assets/ConstfunUtili9.jpg">
+
+<img src=".assets/ConstfunUtili10.jpg">
+
+<img src=".assets/ConstfunUtili11.jpg">
