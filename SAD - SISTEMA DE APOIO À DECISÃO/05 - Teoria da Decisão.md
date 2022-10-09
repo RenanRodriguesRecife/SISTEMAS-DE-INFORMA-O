@@ -332,9 +332,7 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 
 <img src=".assets/ConstfunUtili11.jpg">
 
-## Exemplo
-
-## Exercício 3:
+## Exemplo: Exercício 3:
 
 <img src=".assets/ex31.jpg">
 
