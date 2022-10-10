@@ -103,3 +103,26 @@
     2. Na segunda etapa o medicamento é administrado em 250 voluntários para testar sua eficácia em um período de 2 anos. Essa etapa custa 100 milhões e o medicamento precisa demonstrar impacto estatisticamente significativo para passar para a fase 3. As chances de sucesso para diabetes tipo I são 30%, de sucesso para diabetes tipo I e II de 10% e apenas para diabetes II chance de sucesso de 10%.
     
     3. Na terceira etapa os testes são feitos com 4 mil voluntários para determinar as consequências no longo prazo da droga. Se ela é testada apenas contra diabetes I ou II, essa etapa dura cerca de 4 anos e custa 250 milhões e as chances de sucesso são de 80%. Se for testada contra os dois tipos de diabetes, essa fase dura 4 anos e custa 300 milhões e a chance de sucesso é de 75%.
+
+
+
+- A tabela abaixo mostra os custos do desenvolvimento do medicamento e os fluxos de caixa anuais se ele passar pelas 3 etapas
+
+<img src=".assets/tabeladiabetes.JPG">
+
+- Considerando uma TMA de 10% a.a.
+
+<img src=".assets/arvdia.JPG">
+
+<img src=".assets/arvdia2.JPG">
+
+<img src=".assets/arvdia3.JPG">
+
+
+### Vantagens do uso de árvore de decisão
+
+- Resposta dinâmica ao risco
+
+- Value of Information
+
+- Gestão do Risco e ações preventivas - hedge
