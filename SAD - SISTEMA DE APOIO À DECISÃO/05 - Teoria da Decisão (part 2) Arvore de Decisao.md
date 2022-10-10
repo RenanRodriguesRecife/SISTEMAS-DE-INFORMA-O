@@ -63,6 +63,26 @@
 • As árvores de decisão permitem considerar o risco em diversos estágios e prover respostas para os resultados obtidos em cada um destes
 
 
-74
+### Componentes da análise com árvores de decisão
 
+- **Nó raiz**: representa o início da árvore de decisão, onde o decisor está diante de uma decisão ou de um resultado incerto. A ideia é obter o valor do investimento de risco neste nó
 
+- **Nós de evento**: representam os possíveis resultados de uma aposta ou processo estocástico
+
+- **Nós de decisão**: representam escolhas que o decisor pode tomar, exemplo seguir com um investimento após pesquisa de mercado
+
+- **Nós de fim**: são os desfechos das decisões tomadas em reação aos desfechos prévios
+
+<img src=".assets/arv6.jpg"> 
+
+### Etapas para análise de uma árvore de decisão
+
+1. Dividir a análise em fases de risco (geração de cenários)
+
+2. Estimar as probabilidades dos resultados em cada fase
+
+3. Definir os pontos de decisão
+
+4. Calcular os fluxos de caixa e os valores nos nós de fim
+
+5. Executar o caminho inverso da árvore (Fold Back)
