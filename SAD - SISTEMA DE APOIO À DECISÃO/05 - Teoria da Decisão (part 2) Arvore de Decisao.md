@@ -47,4 +47,6 @@
 • Suponha então que, por acaso, o decisor retire uma bola vermelha da urna não identificada, e portanto se dirija pelo caminho V
   
       
- 
+ <img src=".assets/arv4.jpg"> 
+
+ <img src=".assets/arv5.jpg"> 
