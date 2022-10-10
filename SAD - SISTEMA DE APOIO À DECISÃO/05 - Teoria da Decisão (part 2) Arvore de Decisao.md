@@ -86,3 +86,9 @@
 4. Calcular os fluxos de caixa e os valores nos nós de fim
 
 5. Executar o caminho inverso da árvore (Fold Back)
+
+### A árvore de decisão permite encontrar dois dados chave:
+
+• Valor esperado para hoje obtido ao se percorrer a árvore de decisão, considerando potenciais perdas e oportunidades de risco e as ações a serem tomadas
+
+• A faixa de variação de valores nos nós de fim que contém o risco em potencial de um investimento
