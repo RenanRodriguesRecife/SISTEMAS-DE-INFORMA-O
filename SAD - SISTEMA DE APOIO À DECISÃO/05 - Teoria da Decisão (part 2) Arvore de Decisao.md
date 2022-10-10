@@ -1,5 +1,7 @@
 # Teoria da Decisão: Árvore de Decisão
 
+## Diagrama de Fluxo de Decisões
+
 • Árvore de Decisões
 
   – Análise qualitativa
@@ -50,3 +52,17 @@
  <img src=".assets/arv4.jpg"> 
 
  <img src=".assets/arv5.jpg"> 
+
+
+• Existem situações onde o risco não é apenas discreto, como também assume caráter sequencial
+
+• Nessas situações depende-se de decisões sequenciais e processos estocásticos encadeados
+
+• Para este tipo de situação pode ser utilizada a técnica de Árvores de Decisão
+
+• As árvores de decisão permitem considerar o risco em diversos estágios e prover respostas para os resultados obtidos em cada um destes
+
+
+74
+
+
