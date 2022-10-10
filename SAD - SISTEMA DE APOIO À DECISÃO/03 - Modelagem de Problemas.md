@@ -1,6 +1,8 @@
 
 # Métodos e Modelos
 
+Estruturação de modelos: Existe um modelo de decisão, um algoritmo que pode ser baseado em estatística, otimização ou outro método... Como se traduz um problema em termo de lógica e quantifica as situações que estão associadas a aquele problema (atributos, fatores...). 
+
 Um modelo é uma simplificação da realidade...
 
 - Modelos físicos - protótipos de carros, maquetes (hj c/ visualizaçao 3d?)
