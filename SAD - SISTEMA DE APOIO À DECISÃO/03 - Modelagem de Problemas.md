@@ -7,7 +7,7 @@ Um modelo é uma simplificação da realidade...
 
 (é uma representação daquilo que se encontra no problema real)
 
-A técnica de modelagem é uma tecnica que permite reduzir custos. É muito mais barato fazer um modelo que resolver diretamente um problema real.
+A técnica de modelagem é uma tecnica que permite reduzir custos. É muito mais barato fazer um modelo que resolver diretamente no problema real.
 
 7:07
 
