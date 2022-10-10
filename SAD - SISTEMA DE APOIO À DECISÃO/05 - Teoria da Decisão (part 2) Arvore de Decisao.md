@@ -92,3 +92,14 @@
 • Valor esperado para hoje obtido ao se percorrer a árvore de decisão, considerando potenciais perdas e oportunidades de risco e as ações a serem tomadas
 
 • A faixa de variação de valores nos nós de fim que contém o risco em potencial de um investimento
+
+
+### Considere o problema do investimento no desenvolvimento de uma droga para diabetes
+
+  • Para o desenvolvimento de uma droga que passou pelo teste pré-clínico, o FDA requer 3 etapas para a aprovação da droga:
+
+    1. A primeira etapa requer custos de 50 milhões e envolve 100 voluntários para determinar a segurança e a dosagem do medicamento. A duração prevista para essa etapa é de 1 ano. As chances de que o medicamento tenha sucesso nessa etapa é de 70%
+
+    2. Na segunda etapa o medicamento é administrado em 250 voluntários para testar sua eficácia em um período de 2 anos. Essa etapa custa 100 milhões e o medicamento precisa demonstrar impacto estatisticamente significativo para passar para a fase 3. As chances de sucesso para diabetes tipo I são 30%, de sucesso para diabetes tipo I e II de 10% e apenas para diabetes II chance de sucesso de 10%.
+    
+    3. Na terceira etapa os testes são feitos com 4 mil voluntários para determinar as consequências no longo prazo da droga. Se ela é testada apenas contra diabetes I ou II, essa etapa dura cerca de 4 anos e custa 250 milhões e as chances de sucesso são de 80%. Se for testada contra os dois tipos de diabetes, essa fase dura 4 anos e custa 300 milhões e a chance de sucesso é de 75%.
