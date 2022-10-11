@@ -248,7 +248,7 @@ OBS: Hoje temos o prêmio Edelman (relacioando a questões de Otimização)
 
 <img src=".assets/impPO3.JPG">
 
-# Exemplo prático
+# Exemplo prático 1
 
 ## Modelagem de Problemas
 
@@ -380,9 +380,16 @@ E como resolve isso?
 RESOLUÇÃO:
 
 <img scr="">
+
 # ADICIONAR UM TUTORIAL DE SOLVER MAIS TARDE
 
+OBS: Se o problema tiver mais de uma solução ótima, ele vai entregar a primeira solução que encontrar.
+
+# Exemplo prático 2
+
 **Problema do Transporte**
+
+(Uma empresa tem 3 fábricas de sabão em pó no Brasil e ela tem que abastecer 3 centros de distribuições. Cada fábrica tem uma capacidade de distribuição e cada centro de distribuição tem uma demanda e no grafo cada arco tem um custo de transporte)(A gente quer saber qual é o melhor ramo de distribuição para minimisar o custo de transporte)
 
 <img src=".assets/problemaTransporte.png">
 
@@ -391,6 +398,8 @@ RESOLUÇÃO:
 - Matematicamente, queremos minimizar o custo total de transporte dado por:
 
 <img src=".assets/transporteFormula.png">
+
+(É o somatório do custo para levar uma mercadoria de i para j, considerando todas as origens i e todos os destino j)(tudo que sai de i tem que ser menor que as restrições de capacidade de i)(tem 3 restrições: capacidade, demanda e custo de transporte)
 
 - Um dado produto é produzido em diferentes fábricas no país com capacidades de produção limitadas e deve ser levado a centros de distribuição (depósitos) onde há demandas a serem satisfeitas
 
@@ -402,6 +411,8 @@ RESOLUÇÃO:
 
 <img src=".assets/resolucaoTransporte.png">
 
+# Exemplo prático 3
+
 **Problema de seleção de mídia para propaganda, adaptado de Ravindran et al (1987)**
 
 - Uma companhia de propaganda deseja planejar uma campanha em 03 deferentes meios: tv, radio e revistas. Pretende-se alcançar o maior número de clientes possível.
@@ -409,14 +420,20 @@ RESOLUÇÃO:
 - A companhia não quer gastar mais de $800.000 e adicionalmente deseja:
 
   - No mínimo 2 milhões de mulheres sejam atingidas;
-  - Gastar no máximo $500.000 com TV;
+ 
+ - Gastar no máximo $500.000 com TV;
+  
   - No mínimo 03 veiculações ocorram no horário normal na TV.
+  
   - No mínimo 02 veiculações ocorram no horário nobre na TV.
-  - Numero de veiculações no radio, e nas revistas, devem ficar entre 05 e 10, para cada meio de divulgação
+ 
+ - Numero de veiculações no radio, e nas revistas, devem ficar entre 05 e 10, para cada meio de divulgação
 
-- Um estudo de mercado resultou nos dados da tabela abaixo, sendo os valores válidos para cada veiculação da propaganda.
+Um estudo de mercado resultou nos dados da tabela abaixo, sendo os valores válidos para cada veiculação da propaganda.
 
 <img src=".assets/probProp.png">
+
+<img src=".assets/resoluçãoMidia.JPG">
 
 =======================
 
