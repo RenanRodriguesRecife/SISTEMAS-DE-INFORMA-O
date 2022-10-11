@@ -9,33 +9,37 @@ Um modelo é uma simplificação da realidade...
 
 A técnica de modelagem é uma tecnica que permite reduzir custos. É muito mais barato fazer um modelo que resolver diretamente no problema real.
 
-7:07
-
 ## Tipos de Modelo
 
 - Modelos físicos - protótipos de carros, maquetes (hj c/ visualizaçao 3d?)
 
 <img src=".assets/modelagemCarro.jpg">
+(curiosidade essa argila se chama clay - esse modelo é usado para verificar como a luz bate no carro e como é as suas proporções, inclinações, estilo e aerodinâmica)
 
-
-- modelo analogo (modelo semelhante)
+- modelo analogo (modelo semelhante, aproximado)
 
 <img src=".assets/modeloanalogo.JPG">
+(mesmo o marcodor de combustível não ser preciso ele é capáz de dizer para você qual é a hora de abastecer e isso já é suficiente para o usuário)
 
 - modelo matemático (por uma comparação) (representação matemática de problemas)
 
   - Case Votorantim: https://www.youtube.com/watch?v=N_iegjhtDGU
   
   - Case SEDEX: https://www.youtube.com/watch?v=rw5lVM0aG54
-  
+
 <img src=".assets/caseSedex.jpg">
+
+
+(Moral da história: vale muito mais apena testar usando um modelo que colocar tudo em prática de vez ou usar o bom senso e a intuição)
+  
+### Definir o grau de aproximação do modelo com a realidade
 
 - Qual o limite da simplificação de um modelo?
 
 - Qual o limite da distância para realidade?
 
 
-- Hipóteses
+- Hipóteses (primeiro definir as hipóteses)
 
 - Trade-off entre distância da realidade e custos da modelagem
 
@@ -50,16 +54,24 @@ A técnica de modelagem é uma tecnica que permite reduzir custos. É muito mais
 (George E. P. Box)
 
 “Remember that all models are wrong; the practical question is how
-wrong do they have to be to not be useful”
+wrong do they have to be to not be useful” (apesar do modelo não ser 100% fiel a realidade mas dependendo do grau de fidelidade ele já pode te dar uma resposta necessária).
 
 (George E. P. Box)
 ```
 
 "Não se pode gerenciar o que não pode ser medido"
 
+(uma vez que você tem dados e medidas você pode usar aquilo para tomar decisões)
+
+## Otimização
+
 ### Será que todos que otimizam, de fato “otimizam”?
 
 melhoria não é otimização
+
+Otimizar é você criar um modelo, avaliar todos os possíveis resultados e achar o melhor resultado possível.
+
+(a maioria das pessoas que dizem está otimizando de fato ela não estão otimizando. Elas só estão procurando soluções viáveis que são de fato um pouco melhor que a solução anteior)
 
 #### Modelos de Otimização
 
