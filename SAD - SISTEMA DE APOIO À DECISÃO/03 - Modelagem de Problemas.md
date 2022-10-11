@@ -377,9 +377,10 @@ E como resolve isso?
 
 - Você vai colocar o problema matemático em um software com um SOLVER (ou em uma planilha EXCEL que tem um SOLVER embutido)
 
+RESOLUÇÃO:
+
 <img scr="">
-          
-          55:04
+# ADICIONAR UM TUTORIAL DE SOLVER MAIS TARDE
 
 **Problema do Transporte**
 
