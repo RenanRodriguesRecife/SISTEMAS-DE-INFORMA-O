@@ -171,6 +171,8 @@ O que diferencia entre elas é a hipótese: ex - para a programação linear tod
 
 ### Pesquisa Operacional
 
+(No processo nos temos: os Problemas como insumos e métodos e uso de computadores para gerar uma solução)(para isso precisamos perceber, identificar e estruturar os problemas. Hoje se usa abordagem de Design Thinking para identificar os problemas)
+
 <img src=".assets/pesqOperacional.JPG">
 
 - **Impacto** da PO na **retabilidade** de empresas
@@ -181,10 +183,12 @@ O que diferencia entre elas é a hipótese: ex - para a programação linear tod
 
 - **Teoria x Prática** - Problemas Gerenciais
 
-- O Poder das **planilhas** eletrônicas
+- O Poder das **planilhas** eletrônicas (uso de planilhas para identificar problemas)
 
 <img src=".assets/PO.JPG">
 
+
+#### Pesquisa Operacional (definição)
 
 - Mais atual:
 
@@ -204,13 +208,13 @@ O que diferencia entre elas é a hipótese: ex - para a programação linear tod
 
 - Matemático Huygens
 
-- Johann Bernoulli - condição de máximo e mínimo
+- Johann Bernoulli - condição de máximo e mínimo (DERIVADA IQUAL A ZERO)
 
 - Problemas de decisão - Anos 40
 
 - II Guerra Mundial
 
-- 1947 - Método Simplex - George Dantzig
+- 1947 - Método Simplex - George Dantzig (O algoritmo do método Simplex se usa até hoje)
 
 - O nome foi aplicado porque as equipes de cientistas na II Guerra Mundial estavam fazendo **pesquisa** em como gerenciar **operações** militares.
 
@@ -221,6 +225,8 @@ O que diferencia entre elas é a hipótese: ex - para a programação linear tod
 - Ao final da guerra, em 1947, foi implantado o projeto SCOOP (Scientific Computation of Optimal Programs) no Pentágono
 
 - Estes conceitos de "otimização" resultaram no prêmio Nobel de economia em 1975 para Koopmans e Kantorovich pelas contribuições à teoria de alocação ótima de recursos.
+
+OBS: Hoje temos o prêmio Edelman (relacioando a questões de Otimização)
 
 ## Apoio a Tomada de Decisão
 
