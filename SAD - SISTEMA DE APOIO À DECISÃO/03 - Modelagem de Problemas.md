@@ -75,7 +75,9 @@ Otimizar é você criar um modelo, avaliar todos os possíveis resultados e acha
 
 #### Modelos de Otimização
 
-- Programação Matemática
+- Programação Matemática (criado na segunda guerra mundial, método simplex: algoritmo usado para resolver problemas de otimização linear)(muito da base da logística foi desenvolvido durante o período da segunda guerra)
+
+34:00
 
   - Programação Linear
   
