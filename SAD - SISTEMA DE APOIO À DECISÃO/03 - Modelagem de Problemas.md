@@ -248,12 +248,17 @@ OBS: Hoje temos o prêmio Edelman (relacioando a questões de Otimização)
 
 <img src=".assets/impPO3.JPG">
 
+# Exemplo prático
 
-### Modelagem de Problemas
+## Modelagem de Problemas
+
+(A idéia da modelagem de problema é tentar retratar uma situação real como um problema matemático)
 
 PROBLEMA
 
 Uma fábrica de rádios tem como desafio maximizar o lucro global diário obtido de **2 linhas de produção** que comportam **56 operários**, sendo que a fábrica somente possui **40 funcionários** a serem alocados. As linhas de produção são:
+
+(OBS: A fábrica não consegue produzir tudo porque ela tem essa restrição de recursos que são 40 funcionários)
 
 - rádio tipo padrão
 
@@ -281,14 +286,14 @@ CONSTRUÇÃO DO MODELO
 
 Transformar as características do problema em um modelo matemático constituido de:
 
-- uma função objetivo
+- uma função objetivo (Aquilo que a gente deseja alcançar)(Nesse caso maximizar o lucro)
 
-- um conjunto de restrições
+- um conjunto de restrições (Aquilo que limita a forma de como alcançar o objetivo)(Nesse caso é a quantidade máxima que consegue produzir em cada linha e o número de funcionários que tem para poder alocar na linha de produção)
 
 ```
 - tanto a função objetivo como o conjunto de restrições fazem referência a variáveis do problema
 
-- No problema descrito as variáveis do problema são as quantidades a serem produzidas dos modelos de rádio tipo padrão e tipo luxo.
+- No problema descrito as variáveis do problema (Variáveis de decisão) são as quantidades a serem produzidas dos modelos de rádio tipo padrão e tipo luxo.
 
 - A função objetivo mostra como o lucro se relaciona com as variáveis do problema
 
@@ -314,7 +319,7 @@ LUCRO = 30 * X1 + 40 * X2
 
 - Definição do conjunto de restrições
 
-  - As variáveis X1 e X2 não podem assumir qualquer valor
+  - As variáveis X1 e X2 não podem assumir qualquer valor (não pode ter um número negativo de rádio)
 
   - Elas tem que assumir valores inteiros positivos
 
