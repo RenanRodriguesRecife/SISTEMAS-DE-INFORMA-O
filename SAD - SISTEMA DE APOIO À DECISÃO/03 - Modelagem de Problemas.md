@@ -372,6 +372,14 @@ sujeito a:
       1 * X1 + 2 * X2 <= 40
       X1, X2 >= 0
       
+      
+E como resolve isso?
+
+- Você vai colocar o problema matemático em um software com um SOLVER (ou em uma planilha EXCEL que tem um SOLVER embutido)
+
+<img scr="">
+          
+          55:04
 
 **Problema do Transporte**
 
