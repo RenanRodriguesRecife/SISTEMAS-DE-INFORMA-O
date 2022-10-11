@@ -77,8 +77,6 @@ Otimizar é você criar um modelo, avaliar todos os possíveis resultados e acha
 
 - Programação Matemática (criado na segunda guerra mundial, método simplex: algoritmo usado para resolver problemas de otimização linear)(muito da base da logística foi desenvolvido durante o período da segunda guerra)
 
-34:00
-
   - Programação Linear
   
   - Programação Inteira
@@ -89,7 +87,15 @@ Otimizar é você criar um modelo, avaliar todos os possíveis resultados e acha
   
   - Programação Dinâmica
 
+Para programação linear, Inteira, Inteira-Mista, Não linear são consideradas estáticas (não há alterações de estado, resolve o problema dentro daquele estado).
+
+Para a programaçaõ dinâmica se resolve o problema para mais de um período sabendo que haverá alteração de estado.
+
+O que diferencia entre elas é a hipótese: ex - para a programação linear todas as relação (hispótese) são lineares
+
 #### Pesquisa Operacional
+
+(o nome pesquisa pesquisa operacional era de pesquisa para operação militar, com a transferencia do conchecimento para a sociedade apartir da ciencia da administração)(hoje o instituto operacional se fundiu com o instituto de administração nos EUA dando destaque ao Analitycs)(Analitycs que é um conceito que envolve a modelagem para prescrição e descrição do problema)
 
 - Arte de aplicar técnicas de modelagem a problemas de **tomada de decisão**, e resolver problemas identificados por meio de **métodos matemáticos e estatísticos** visando à obtenção de uma **solução ótima**
 
@@ -107,9 +113,27 @@ Otimizar é você criar um modelo, avaliar todos os possíveis resultados e acha
   
 <img src=".assets/pesquisaOpr.jpg">
 
+(a base é pensar que vai resolver o problema através de etapas, isso vem de inspiração do modelo de Simon)
+
+### Abordagem Científica
+
+- Passos:
+
+  1 - Defina o problema e colete dados
+  
+  2 - Formule um modelo para representar o problema 
+  
+  3 - Desenvolva um procedimento para encontrar soluções para o problema
+  
+  4 - Teste o modelo e refine-o se necessário
+  
+  5 - Aplique o modelo para analisar o problema e desenvolver recomendações para o problema
+  
+  6 - Ajudar a implementar as recomentações que são adotadas
+
 ### Identificação do Problema
 
-#### Exemplos:
+#### Exemplos: (existe muitos exemplos que essa metodologia foi aplicada)
 
   - Investimentos em Publicidade
 
@@ -131,7 +155,7 @@ Otimizar é você criar um modelo, avaliar todos os possíveis resultados e acha
 
 ### O Problema da Implementação
 
-- Ackoff escreveu sobre **implementação** como "o assunto mais **difícil*** confrontado pela ciência, pessoas, e grupos sociais".
+- Ackoff escreveu sobre **implementação** como "o assunto mais **difícil*** confrontado pela ciência pois envolve pessoas, e grupos sociais".
 
 - Churchman definiu implementação como "a maneira na qual os resultados do **esforço científico** podem vir a ser usados por um **gerente**".
 
