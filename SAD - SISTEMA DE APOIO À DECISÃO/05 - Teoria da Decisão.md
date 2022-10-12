@@ -1,8 +1,18 @@
 
 # Teoria da Decisão
 
+(Decisões sobre riscos - situações que vamos ter probabilidade e vamos ter que considerar as probabilidades para resolver esses problemas)
+
+(Qual é a metodologia para considerar que as decisões foram tomadas da melhor forma possível - se coloca número para medir as intensidades e tentar extrair a melhor decisão)
+
+(Precisamos da garantia da racionalidade na tomada de decisão)
+
+(Dominância estocástica - buscar soluções melhores mesmo considerando que você vai ter distribuições de probabilidade)
+
 O que estuda a Teoria da Decisão ou Análise de Decisão?
-  
+
+
+
   – Conceito de Decisão
   
     - “Curso de ação escolhido pela pessoa, como o meio mais efetivo à sua disposição, para alcançar os objetivos pretendidos”
