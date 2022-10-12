@@ -301,6 +301,7 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 
 <img src=".assets/axio4.jpg">
 
+(O Arquimediano representa o elemento intermediário)
 
 ### Função Utilidade
 
