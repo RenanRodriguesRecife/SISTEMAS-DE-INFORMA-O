@@ -154,13 +154,13 @@ A decisão é o que está no seu controle.
   
 - Ideia constante na história: elaborar uma escala que representasse a preferência do decisor com respeito a uma lista de bens ou objetos.
 
-- Escala útil para desenvolvimento de teorias econômicas e de comportamento.
+- Escala útil para desenvolvimento de teorias econômicas e de comportamento. (usada em muitos modelos economicos para mensurar e antecipar muitos comportamentos)
 
 - Várias contribuições foram dadas na literatura quanto a este tópico.
 
 - Breve Histórico:
 
-  – Bernoulli, 1738, abordou o problema do uso da utilidade como o valor que um indivíduo atribui a um bem, considerando que o preço de um item é igual para todos, mas a utilidade depende das circunstâncias. Assim, um ganho de R$1.000,00 tem uma representatividade para um homem rico, diferente da que tem para um homem pobre.
+  – Bernoulli, 1738, abordou o problema do uso da utilidade como o valor que um indivíduo atribui a um bem, considerando que o preço de um item é igual para todos, mas a utilidade depende das circunstâncias. Assim, um ganho de R$1.000,00 tem uma representatividade para um homem rico, diferente da que tem para um homem pobre. (determinados trabalhos alguns pessoas aceitam a fazer por determinado valor outros já não aceitam pois a utilidade para o tempo deles tem um valor específico)
   
 
 - Breve Histórico:
@@ -175,7 +175,7 @@ A decisão é o que está no seu controle.
 
   - Daniel Kahneman
   
-   - Prêmio Nobel 2002: teoria dos prospectos e economia comportamental (thinking fast and slow - Daniel Kahneman)
+   - Prêmio Nobel 2002: teoria dos prospectos e economia comportamental (thinking fast and slow - Daniel Kahneman) (forma de como as pessoas avaliam ganhos e perdas. As pessoas cometem algumas inconsistências tornando irracionais. Dependendo da percepção se da um valor muito grande para perdas)
 
 
 Breve Histórico:
@@ -187,7 +187,7 @@ Breve Histórico:
   – Pareto (1927) mostrou que a teoria do consumidor poderia ser tratada apenas com o emprego de curvas de indiferença, procedimento conhecido como método da utilidade ordinal.
   
   
-  – Outro conceito indispensável é o da intensidade de preferência de um bem em relação à outro. Neste modelo o decisor é capaz de escolher entre alternativas que não envolvem riscos, ou seja, sem situações de incerteza.
+  – Outro conceito indispensável é o da **intensidade de preferência** de um bem em relação à outro. Neste modelo o decisor é capaz de escolher entre alternativas que não envolvem riscos, ou seja, sem situações de incerteza.
 
   – Contribuição fundamental: von Neumann e Morgenstern em 1947. Eles propuseram o conceito de utilidade, que às vezes é chamado de cardinal fraca, e apresentaram axiomas de comportamento e o comportamento do decisor ao risco.
 
@@ -222,18 +222,15 @@ Breve Histórico:
     
 - Num problema qualquer de decisão, P(p), denotará o conjunto de probabilidade de todos os bens envolvidos.
 
-  – O conjunto de todas as distribuições de probabilidade sobre P será
-indicado por P∗ = {P} , onde P é a probabilidade do decisor ganhar
-o bem p
+  – O conjunto de todas as distribuições de probabilidade sobre P será indicado por P∗ = {P} , onde P é a probabilidade do decisor ganhar o bem p
 
 - Como determinar se a consequência P é preferível à consequência Q?
 
 - É preciso estabelecer uma estrutura conceitual para lidar com o problema de preferências, pois não existe uma fórmula matemática que seja utilizada para obter uma resposta única no que tange às relações de preferência.
 
-- O que é preciso fazer é impor algumas restrições: **restrições de
-racionalidade**.
+- O que é preciso fazer é impor algumas restrições: **restrições de racionalidade**.
 
-
+30:00
 
 - Uma pessoa pode preferir laranjas a bananas e outra bananas a maçãs, sem que exista qualquer problema nestas afirmações.
 
