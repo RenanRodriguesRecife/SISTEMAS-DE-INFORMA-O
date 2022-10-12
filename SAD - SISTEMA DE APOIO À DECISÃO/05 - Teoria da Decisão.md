@@ -129,14 +129,19 @@ Exemplo:
 
 <img src=".assets/decxquali.JPG">
 
+(As pessoas tem uma dificuldade em entender o que é uma boa decisão. Uma boa decisão é fruto do uso de boas metodologias e de um bom processo decisório)(você pode ter resultados ruins para uma determinada decisão isso não significa que a decisão não teve qualidade - você deu azar. mas que você fez tudo que esteve em seu alcance para tomar a melhor decisão possível)
+
 - Claramente, boas decisões não levam à boas consequências
 
 - O que a análise da decisão deseja é estruturar o problema para que o decisor possa tomas suas decisões com clareza! 
 
 - O mais importante é perceber a diferença entre a qualidade de uma decisão e a qualidade de uma consequência
 
-<img src=".assets/eleBoaDeci.JPG">
+(Mas se você tiver um processo decisório de qualidade, significa que na maior parte das vezes a gente vai ter uma boa consequencia).
 
+A decisão é o que está no seu controle.
+
+<img src=".assets/eleBoaDeci.JPG">
 
 - “A utilidade diz respeito àquilo que o se quer”
 
