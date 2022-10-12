@@ -228,9 +228,9 @@ Breve Histórico:
 
 - É preciso estabelecer uma estrutura conceitual para lidar com o problema de preferências, pois não existe uma fórmula matemática que seja utilizada para obter uma resposta única no que tange às relações de preferência.
 
-- O que é preciso fazer é impor algumas restrições: **restrições de racionalidade**.
+###### Restrições de Racionalidade
 
-30:00
+- O que é preciso fazer é impor algumas restrições: **restrições de racionalidade**.
 
 - Uma pessoa pode preferir laranjas a bananas e outra bananas a maçãs, sem que exista qualquer problema nestas afirmações.
 
@@ -244,11 +244,13 @@ Breve Histórico:
 
   2. Deve-se agir de forma a atingir os objetivos, respeitadas restrições éticas e morais.
 
-
+(Quando você tem uma distribuição de probabilidade Normal você tem infinitas probabilidades no meio. Quando você tem uma distribuição discreta você tem finitas possibilidades)
 
 #### Relações de Preferência
 
   – Será definida uma relação de preferência ≿ entre os elementos de P∗ 
+  
+  obs: Esse síbolo (≿) não é um simples sinal de maior que - ele é significa "mais preferível ou preferível quanto")
   
 Definição 1: Para todo P, Q ∈ P∗, 
 
@@ -264,10 +266,12 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 
 
 
-- Definição de Loterias
+#### Definição de Loterias
+
   – Para 0 ≤ λ ≤ 1, P e Q distribuições sobre os bens, λP + (1 − λ)Q denota uma loteria (outra distribuição) onde se ganha a distribuição P com probabilidade λ e a distribuição Q com probabilidade (1 − λ)
   
   - O indivíduo ganha apenas uma das duas distribuições
+ 
   - Se se manifestar o evento que tem a probabilidade λ então ele ganha P; se se manifestar o evento que tem a probabilidade complementar (1 − λ), ele ganha a distribuição Q.
 
 <img src=".assets/loteria.jpg">
