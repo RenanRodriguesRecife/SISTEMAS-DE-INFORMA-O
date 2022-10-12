@@ -9,8 +9,7 @@
 
 (Dominância estocástica - buscar soluções melhores mesmo considerando que você vai ter distribuições de probabilidade)
 
-O que estuda a Teoria da Decisão ou Análise de Decisão?
-
+**O que estuda a Teoria da Decisão ou Análise de Decisão?**
 
 
   – Conceito de Decisão
@@ -21,32 +20,35 @@ O que estuda a Teoria da Decisão ou Análise de Decisão?
 
    – Pergunta: O que fazer?
     
-      - Decidir constitui um problema de otimização
+      - Decidir constitui um problema de otimização (tem que maximizar algum resultado)
     
         - Por que?
         
         
 A análise de decisão ou “teoria da decisão” estuda o problema de como decidir sobre o que se deve fazer quando é incerto o que pode acontecer.
 
-“A teoria da decisão é um meio de se agir com lógica em situações incertas.
+“A teoria da decisão é um meio de se agir com lógica em situações incertas."
 
 E, segundo esta teoria, **<u>uma boa decisão deverá ser uma função lógica daquilo que se quer, daquilo que se sabe e daquilo que se pode fazer.</u>**” (Souza, 2007)
 
+#### Deve ser considerar 3 questões:
 
-• **O que se quer** diz respeito às preferências que se tem pelas possíveis consequências das decisões, que podem ser incertas ou distribuídas no tempo
+• **O que se quer** diz respeito às **preferências** que se tem pelas possíveis consequências das decisões, que podem ser incertas ou distribuídas no tempo
 
 • **O que se sabe** é o conhecimento dos elementos do problema e a relação entre eles, a informação referente ao processo de decisão; percepção das circunstâncias e regras que regem o processo
 
 • **O que se pode fazer** são as alternativas de ação disponíveis, as quais geralmente requerem criatividade para serem encontradas 
 
+
+
 O decisor deve escolher uma ação ou conjunto de ações que possuam as consequências mais desejáveis possíveis para o decisor
 
 ```
-Filme (Os agente do destino - com matt damon e Emily Blunt)
+Filme (Os agente do destino - com matt damon e Emily Blunt)(mostra o conceito de arvore de decisão de uma forma ilustrada)
 
-Livro - Thinking fast...Slow - Daniel Kahneman
+Livro - Thinking fast...Slow - Daniel Kahneman - (teoria dos prospectos - onde toma decisões em situações específicas que pode violar axiomas e condições de racionalidade)
 
-Livro - Customers are busy, lazy and often confused, they are surprisingly likely to take whatever option is made the default. - Richard thaler
+Livro - Customers are busy, lazy and often confused, they are surprisingly likely to take whatever option is made the default. - Richard thaler - (verificou algumas condições de racionalidades - o que acontece quando não se age da forma que o modelo previo) 
 
 • O livro “The theory of games and economic behavior” (von Neumann & Morgenstern, 1944):
 
@@ -61,7 +63,7 @@ Livro - Customers are busy, lazy and often confused, they are surprisingly likel
 
   - Precursor da Teoria Estatística da Decisão
 
-  - Incorporou as funções perda na análise estatística clássica
+  - Incorporou as funções perda na análise estatística clássica (uso de função matemáticas para analisar consequencia de uma ação)
 
 – Estatísticos clássicos
 
@@ -96,7 +98,7 @@ Exemplo:
   
   - A decisão é consequência de uma série de fatos anteriores 
 
-– **Complexidade**
+– **Complexidade** 
 
   - A decisão é influenciada pelo grau de detalhamento do modelo
   
@@ -111,7 +113,7 @@ Exemplo:
   
 - A teoria da decisão **não** surge como uma teoria que tenta descrever ou explicar o comportamento das pessoas (ou instituições) ou como elas tomam suas decisões
 
-– Ela busca organizar de forma lógica parâmetros que possam ajudar na <u>**tomada de decisões**</u>, face <u>**as preferências do agente decisor e ao que se deseja obter**</u>. 
+  – Ela busca organizar de forma lógica parâmetros que possam ajudar na <u>**tomada de decisões**</u>, face <u>**as preferências do agente decisor e ao que se deseja obter**</u>. 
 
 - Perspectiva de Análise da Decisão:
 
@@ -119,11 +121,11 @@ Exemplo:
 
   – Normativa: identifica como as ações deveriam ser
 
-  – Prescritiva
+  – Prescritiva: quando está prescrevendo uma recomendação específica
   
   
 
-- Decisão X Consequência
+##### Decisão X Consequência
 
 <img src=".assets/decxquali.JPG">
 
