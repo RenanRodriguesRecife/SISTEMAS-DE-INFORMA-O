@@ -2,6 +2,8 @@
 
 ## Diagrama de Fluxo de Decisões
 
+(É a representação de um fluxo no processo de apoio a decisão)
+
 • Árvore de Decisões
 
   – Análise qualitativa
@@ -112,11 +114,11 @@
 
 - Considerando uma TMA de 10% a.a.
 
-<img src=".assets/arvdia.JPG">
+<img src=".assets/arvdia.jpg">
 
-<img src=".assets/arvdia2.JPG">
+<img src=".assets/arvdia2.jpg">
 
-<img src=".assets/arvdia3.JPG">
+<img src=".assets/arvdia3.jpg">
 
 
 ### Vantagens do uso de árvore de decisão
