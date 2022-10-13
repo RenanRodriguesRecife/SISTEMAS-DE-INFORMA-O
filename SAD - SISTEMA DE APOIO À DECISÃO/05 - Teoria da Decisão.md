@@ -422,6 +422,10 @@ Que o valor esperado da utilidade de um item p, vai ser a probabilidade de ter p
 
 <img src=".assets/ultiliDin10.jpg">
 
+<img src=".assets/averarisco.jpg">
+
+A função probabilidade também fala quando você é propenso a risco
+
 <img src=".assets/ultiliDin11.jpg">
 
 <img src=".assets/ultiliDin12.jpg">
