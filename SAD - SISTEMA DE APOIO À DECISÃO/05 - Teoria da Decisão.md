@@ -400,6 +400,7 @@ Que o valor esperado da utilidade de um item p, vai ser a probabilidade de ter p
 
 - Usando a teoria, deve-se construir uma função utilidade para dinheiro.
 
+(Os e-commerce estão sempre extraindo a função utilidade dos usuários. Eles estão verificando sempre se você aceitou ou não aceitou a fazer determinada compra usando determinado valor, ele vai usar essa informação na hora de te oferecer um produto ou serviço).
 
 <img src=".assets/ultiliDin1.jpg">
 
