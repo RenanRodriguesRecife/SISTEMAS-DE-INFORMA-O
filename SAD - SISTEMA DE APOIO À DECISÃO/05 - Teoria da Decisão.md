@@ -348,6 +348,8 @@ Ex2: Uma empresa vai fabricar lote de um produto e vai preparar uma campanha par
 
 <img src=".assets/ConstfunUtili2.jpg">
 
+Curiosidade: Como escolher da melhor forma possível (baseado na procura e maximisando o lucro) usando essas duas variáveis? Você pode fazer para cada modelo o quanto vai ser a margem de lucro e usar a previsão de demanda. Para saber a probabilidade de vender cada modelo você pode fazer uma regressão linear e com o valor previsto vai ter uma distribuição normal dai você vai encontrar uma faixa (rever isso - 1:05:00)
+
 <img src=".assets/ConstfunUtili3.jpg">
 
 <img src=".assets/ConstfunUtili4.jpg">
