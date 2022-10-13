@@ -515,3 +515,35 @@ Passos a serem seguidos quando um grupo está criando alternativas
 - Oportunidade de decisão: Escolha de emprego
 
 <img src=".assets/OpDeciEmprego.JPG">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==============================
+
+Você já cria várias opções só decidindo os objetivos
+Uma abordagem baseado em alternativa
+
+AFT (é muito reativa)
+
+VFT (proativo) - é uma abordagem melhor pois você escolhe
+
+=========================
+
+Usar VFT - para criar (?)
+
+Usar teoria da decisões para lidar com as insertesas
+
+função utilidade - é uma função matemática para lidar com uma função probabilistica
+
