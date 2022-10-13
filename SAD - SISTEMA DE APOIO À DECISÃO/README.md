@@ -67,13 +67,6 @@ Loteria - algo que vai representar uma distribuição de probabilidade
 
 ~ -> Indiferente 
 
-======================
-
-<img src=".assets/averarisco.jpg">
-
-A função probabilidade também fala quando você é propenso a risco
-
-===========================
 
 
 ```
