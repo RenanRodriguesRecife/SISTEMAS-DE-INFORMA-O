@@ -120,7 +120,7 @@ Benefícios esperados:
 
 As capacidade do sistema de apoio a tomada de decisão vem aumentando cada vez mais.
 
-<img src="">
+<img src=".assets/capacidadeSAD.jpg">
 
 
 Classificação do sistema de apoio à decisão
@@ -147,7 +147,7 @@ Classificação do sistema de apoio à decisão
 
 Componentes de um SAD
 
-<img src="">
+<img src=".assets/componenteSAD.jpg">
 
 
 OBS: Acessibilidade: Verificar se o usuário tem algum problema visual na hora de desenvolver a interface. Ex: Alguns usuários daltônicos não conseguiam diferenciar as cores no gráfico.
