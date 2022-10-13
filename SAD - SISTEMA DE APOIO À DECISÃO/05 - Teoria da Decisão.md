@@ -426,6 +426,8 @@ Que o valor esperado da utilidade de um item p, vai ser a probabilidade de ter p
 
 A função probabilidade também fala quando você é propenso a risco
 
+(A função de programas sociais tipo bolsa família é fazer com que você não aceite fazer certos trabalhos para receber algo abaixo da dignidade humana por que você está passando fome)
+
 <img src=".assets/ultiliDin11.jpg">
 
 <img src=".assets/ultiliDin12.jpg">
