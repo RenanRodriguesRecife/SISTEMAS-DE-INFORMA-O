@@ -354,7 +354,11 @@ Curiosidade: Como escolher da melhor forma possível (baseado na procura e maxim
 
 <img src=".assets/ConstfunUtili4.jpg">
 
+A função valor acontece quanto se tem tudo com probabilidade com valor 1. Chama de função valor (não é utilidade é uma componente que está considerando uma incerteza)
+
 <img src=".assets/ConstfunUtili5.jpg">
+
+Que o valor esperado da utilidade de um item p, vai ser a probabilidade de ter p vezes a função valor
 
 <img src=".assets/ConstfunUtili6.jpg">
 
