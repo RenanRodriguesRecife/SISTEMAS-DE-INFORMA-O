@@ -29,23 +29,7 @@ exercício
 
 quando você está apagando algum dado da base você tem que realmente identificar o que está fazendo (na maioria das situações você tem que verificar a referencia desses eventos)
 
-==============================
 
-- Você já cria várias opções só decidindo os objetivos
-
-Uma abordagem baseado em alternativa
-
-AFT (é muito reativa)
-
-VFT (proativo) - é uma abordagem melhor pois você escolhe
-
-=========================
-
-Usar UFT - para criar (?)
-
-Usar teoria da decisões para lidar com as insertesas 
-
-função utilidade - é uma função matemática para lidar com uma função probabilistica
 
 =====================
 Teoria da decisão não responde tudo
