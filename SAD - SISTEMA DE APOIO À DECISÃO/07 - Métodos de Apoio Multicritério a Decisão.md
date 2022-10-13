@@ -113,3 +113,28 @@
 #### Aplicação de Métodos Multicritério
 
 <img src=".assets/apliMetodMulti.jpg">
+
+
+#Part 2
+
+Problema multicritério
+
+Tem mais de uma alternativa e você vai racionalisar em escolher (função utilidade é pra 1 critério)
+
+=====================================
+
+Critério único -> pode fazer análise ponderado
+
+a probabilidade demanda utilidade
+
+=====================================
+
+Critério único de Sintese (escola americana)
+
+Relaçãod e sobreclassificação (escola européia) <- compensatório
+
+Multiobjectivo (abordagem mais matemática) <- não compensatório
+
+Processi decisório compensatório e não compensatório
+
+(vai usar multitec no trabalho final)
