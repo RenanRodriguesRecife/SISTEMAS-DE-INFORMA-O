@@ -321,7 +321,7 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 
 - O decisor demonstra preferir cada um dos bens em graus diferentes, de acordo com suas necessidades
 
-- Atenção: Não se tem preferências por ações!
+- Atenção: Não se tem preferências por ações! (O que tem é o resultado da ação)
 
 <img src=".assets/funUtili.jpg">
 
