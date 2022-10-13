@@ -11,7 +11,7 @@ sérias do que aquelas de lazer
   – Ex: “O jogo da política internacional” (ou nacional), “O jogo da livre concorrência”, etc...
 
 - Parece então haver alguma relação entre “negociações internacionais”, “decisões
-estratégicas de executivos de empresas” e “uma partida de xadrez”
+estratégicas de executivos de empresas” e “uma partida de xadrez” (ao depender do comportamento de um dos atores você vai ter uma implicação nas ações dos outros atores)
 
 
 #### Interação estratégica
@@ -71,40 +71,31 @@ uma racionalidade específica
 
   – Foi o primeiro a formular o conceito de estratégia em teoria dos jogos
 
-- O matemático John von Neumann formulou a teoria dos jogos e provou a solução
-matemática para “jogos de soma zero”
+- O matemático John von Neumann formulou a teoria dos jogos e provou a solução matemática para “jogos de soma zero” 
 
   – Num jogo de soma zero, os ganhos de um jogador representam necessariamente uma perda para o outro
   
   – O livro “The theory of games and economic behavior” (von Neumann & Morgenstern, 1944) apresentou a representação de jogos em forma extensiva (etapas sucessivas)
 
-  - Também discutiu cooperação e formação de coalizões entre jogadores, mas
-limitando-se a jogos de soma zero
+  - Também discutiu cooperação e formação de coalizões entre jogadores, mas limitando-se a jogos de soma zero
 
 
-- O jogo de soma zero não é a descrição adequada para um grande número de
-interações sociais, para algumas situações são inadequadamente restritivos
+- O jogo de soma zero não é a descrição adequada para um grande número de interações sociais, para algumas situações são inadequadamente restritivos (ele não está prevendo a cooperação)
 
-  – Era necessário encontrar ferramentas teóricas que permitissem analisar uma
-variedade maior de modelos de interação estratégica
+  – Era necessário encontrar ferramentas teóricas que permitissem analisar uma variedade maior de modelos de interação estratégica
 
-- A partir de 1950 novos modelos foram desenvolvidos por John Nash, John Harsanyi
-e Reinhard Selten, premiados com o Nobel de Economia em 1994
+- A partir de 1950 novos modelos foram desenvolvidos por John Nash, John Harsanyi e Reinhard Selten, premiados com o Nobel de Economia em 1994
 
-  – As contribuições de Nash, Harsanyi e Selten foram essenciais para a difusão da Teoria dos Jogos e para a modelagem matemática de inúmeros problemas da
-sociedade
+  – As contribuições de Nash, Harsanyi e Selten foram essenciais para a difusão da Teoria dos Jogos e para a modelagem matemática de inúmeros problemas da sociedade
 
 
 
 
-- John Nash foi um matemático norte-americano, sua biografia rendeu o filme “Uma
-mente brilhante”
+- John Nash foi um matemático norte-americano, sua biografia rendeu o filme “Uma mente brilhante”
 
-- Em 1951, Nash publicou o artigo “Non-cooperative games” onde propôs uma noção
-de equilíbrio para modelos de jogos que não se restringia apenas aos jogos de soma zero
+- Em 1951, Nash publicou o artigo “Non-cooperative games” onde propôs uma noção de equilíbrio para modelos de jogos que não se restringia apenas aos jogos de soma zero
 
-  - Equilíbrio de Nash: permitiu estudar uma classe de jogos muito mais ampla do
-que os jogos de soma zero
+  - Equilíbrio de Nash: permitiu estudar uma classe de jogos muito mais ampla do que os jogos de soma zero
 
 - Harsanyi deu grandes contribuições com 3 artigos tratando situações de jogos com informações incompletas, onde alguns jogadores possuem informação privilegiada
   
@@ -128,7 +119,7 @@ informação incompleta ou assimetria de informação
 
 - Batalha do Mar de Bismark
 
-- Votações
+- Votações (eleições, coalisões que podem ser formadas...)
 
 - Formação de preço em concorrências
 
@@ -147,21 +138,17 @@ informação incompleta ou assimetria de informação
 
 ### Caracterização de um jogo
 
-- A análise de qualquer jogo ou situação de conflito deve se iniciar com a
-especificação de um modelo que descreva o jogo
+- A análise de qualquer jogo ou situação de conflito deve se iniciar com a especificação de um modelo que descreva o jogo
 
 - Assim, a forma ou estrutura geral dos modelos que utilizarmos para descrever jogos deve ser cuidadosamente considerada
 
-- Uma estrutura de modelo que seja simples demais pode nos forçar a ignorar
-aspectos vitais dos jogos
+- Uma estrutura de modelo que seja simples demais pode nos forçar a ignorar aspectos vitais dos jogos
 
-- Uma estrutura de modelo excessivamente complicada pode impedir nossa análise,
-obscurecendo as questões essenciais
+- Uma estrutura de modelo excessivamente complicada pode impedir nossa análise, obscurecendo as questões essenciais
 
 
 
-- Um jogo nada mais é do que uma representação formal que permite a análise das
-situações em que os agentes interagem entre si, agindo racionalmente
+- Um jogo nada mais é do que uma representação formal que permite a análise das situações em que os agentes interagem entre si, agindo racionalmente
 
 - Elementos que caracterizam um jogo:
 
@@ -270,7 +257,7 @@ jogador B vai fazer
 jogador B vai fazer
 
 
-- O equilíbrio de estratégias dominantes é uma situação muito exigente
+- O equilíbrio de estratégias dominantes é uma situação muito exigente (que normalmente não acontece)
 
 - Ao invés de exigir que a escolha do jogador A seja ótima para todas as escolhas do jogador B, podemos considerar as escolhas ótimas do jogador A dado uma escolha do jogador B
 
@@ -285,37 +272,29 @@ jogador B vai fazer
   – Lembre que A e B não sabem qual a escolha de seus oponentes!
 
 
-- O Equilíbrio de Nash pode ser interpretado como um par de expectativas sobre a
-escolha de cada jogador
+- O Equilíbrio de Nash pode ser interpretado como um par de expectativas sobre a escolha de cada jogador
 
 - Quando uma escolha é revelada, nenhum jogador mudará seu comportamento
 
 - O Equilíbrio de Nash é uma generalização do Equilíbrio de Cournot
 
-  – O Equilíbrio de Cournot considera a decisão entre concorrentes sobre o quanto
-produzir, onde cada firma decide o quanto produzir considerando a decisão do
-concorrente
+  – O Equilíbrio de Cournot considera a decisão entre concorrentes sobre o quanto produzir, onde cada firma decide o quanto produzir considerando a decisão do concorrente
 
 - A lógica do Equilíbrio de Nash é interessante, no entanto tem alguns problemas
 
-  – Um jogo pode ter mais de um Equilíbrio de Nash, o que ocorre em jogos
-simétricos
+  – Um jogo pode ter mais de um Equilíbrio de Nash, o que ocorre em jogos simétricos
 
-  – Existem jogos que não possuem Equilíbrios de Nash conforme descrevemos
-através de estratégia pura, a não ser que esta noção seja expandida para
-estratégias mistas
+  – Existem jogos que não possuem Equilíbrios de Nash conforme descrevemos através de estratégia pura, a não ser que esta noção seja expandida para estratégias mistas
 
 ## Estratégias mistas
 
 - Uma outra perspectiva é permitir que os agentes randomizem suas estratégias
 
-- Ao associar probabilidades para suas escolhas, os jogadores podem construir
-estratégias mistas
+- Ao associar probabilidades para suas escolhas, os jogadores podem construir estratégias mistas
 
 - Ao calcular o valor esperado das estratégias de cada jogador, é possível obter um Equilíbrio de Nash no qual cada agente escolhe a frequência ótima para jogar considerando as frequências dos outros agentes
 
-- É possível provar matematicamente que sempre haverá um Equilíbrio de Nash para
-estratégias mistas
+- É possível provar matematicamente que sempre haverá um Equilíbrio de Nash para estratégias mistas
 
 – Por isso é tão importante entender o comportamento do jogo
 
@@ -325,8 +304,7 @@ Observe este jogo:
 
 - Neste jogo não existe Equilíbio de Nash em estratégias puras
 
-- Suponha que A escolha uma estratégia que consiste em 50% para cada ação, e que
-B escolha os mesmos percentuais:
+- Suponha que A escolha uma estratégia que consiste em 50% para cada ação, e que B escolha os mesmos percentuais:
   
   – O payoff médio de A será 0 e B será 1⁄2
   
@@ -339,7 +317,7 @@ B escolha os mesmos percentuais:
 
 - Um exemplo clássico para um jogo de estratégias mistas é o jogo do “Papel, Pedra e Tesoura”
 
-  – Existe uma sociedade que organiza campeonatos profissionais!
+  – Existe uma sociedade que organiza campeonatos profissionais! (de pedra, pela e tesoura)
 
     - Procurem o documentário de 2003 sobre os campeonatos em Toronto
     
@@ -349,16 +327,13 @@ B escolha os mesmos percentuais:
 
 - O Dilema do Prisioneiro é um jogo bastante conhecido
 
-- A situação retratada considera dois comparsas num crime que foram presos sob
-suspeita
+- A situação retratada considera dois comparsas num crime que foram presos sob suspeita
 
-- Cada prisioneiro tem a chance de confessar o crime implicando o comparsa e sair
-em liberdade deixando o comparsa preso caso não confesse o crime (6 anos)
+- Cada prisioneiro tem a chance de confessar o crime implicando o comparsa e sair em liberdade deixando o comparsa preso caso não confesse o crime (6 anos)
 
   – Tipo uma colaboração premiada
   
-- Caso os dois prisioneiros não confessem, então os dois ficarão detidos por um
-período pequeno (1 ano)
+- Caso os dois prisioneiros não confessem, então os dois ficarão detidos por um período pequeno (1 ano)
 
 - Caso os dois confessem ambos dividem a pena e ficam presos por 3 anos
 
@@ -407,7 +382,7 @@ Observe que se houvesse cooperação, ambos estariam melhores!!!
   
   – Campanhas publicitárias
 
-    - Existe um caso interessante das indústria de cigarros!
+    - Existe um caso interessante das indústria de cigarros! (Não dava para confiar que o concorrente não iria fazer publicidade, dai veio a legislação que proibia a publicidade, logo a industria do cigarro cooperou e a propaganda passou a ser nos cinemas e nos filmes. Como eles passaram a gastar menos com publicidade então eles passaram a lucrar mais).
 
 
 - O dilema do prisioneiro provocou muitas controvérsias sobre a melhor estratégia de jogo
@@ -418,7 +393,7 @@ Observe que se houvesse cooperação, ambos estariam melhores!!!
   
 - Se o jogo for jogado apenas uma vez, a melhor estratégia é confessar
 
-- Caso seja um jogo repetitivo, algumas considerações precisam ser feitas...
+- Caso seja um jogo repetitivo, algumas considerações precisam ser feitas... depende de quantas vezes ele vai se repetir. (você pode cooperar e cooperar e na ultima não cooperar)
 
 
 - Jogos Competitivos:
@@ -448,7 +423,7 @@ Jogos Simultâneos ou Sequenciais
 
 - Um jogador deve saber a escolha de outros jogadores antes de fazer sua própria escolha
 
-  – Ex.: Jogo dos fabricantes de aviões.
+  – Ex.: Jogo dos fabricantes de aviões. (se ele vai desenvolver um avião maior, ou se vai continuar com o que tem ou vai abandonar o mercado... eles vão acompanhar o que o outro fabricante está fazendo)
 
 Jogos Simultâneos ou Sequenciais
 
@@ -460,7 +435,7 @@ Jogos Simultâneos ou Sequenciais
 
 
 
-Informação Completa e Incompleta
+#### Informação Completa e Incompleta
 
 - Jogo com informação completa:
 
@@ -480,7 +455,7 @@ Informação Completa e Incompleta
   
   – O jogador pode atualizar suas crenças sobre o tipo de funcionária (atualização bayesiana).
  
-Informação Perfeita e Imperfeita
+#### Informação Perfeita e Imperfeita
 
 - Jogos com informação perfeita:
 
@@ -497,7 +472,7 @@ Informação Perfeita e Imperfeita
     - Ex.: cartas
  
  
-Jogos Repetitivos
+#### Jogos Repetitivos
 
 - A interação estratégica se repete ao longo do tempo
 
@@ -510,7 +485,7 @@ Jogos Repetitivos
 - Nos jogos repetidos infinitos: **há motivação para cooperação**
 
 
-Jogos Cooperativos
+#### Jogos Cooperativos
 
 - Cooperar é agir em conjunto para que as partes obtenham um payoff mais satisfatório
 
@@ -518,7 +493,7 @@ Jogos Cooperativos
 
 - Para Nash as ações cooperativas são o resultado de alguns processos de barganha que satisfazem os mesmos critérios de maximização de utilidade pessoal como em qualquer outra situação de interação estratégica
 
-- Pode se usar o valor de Shapley...
+- Pode se usar o valor de Shapley... (O valor de Shapley representa o que cada um acrescenta em uma cooperação).
 
 
 Problema da Barganha
