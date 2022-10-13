@@ -331,6 +331,21 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 
 <img src=".assets/ConstfunUtili.jpg">
 
+o valor que algo muito desejavel é 1 e de algo não desejável é 0. As distribuições ficarão entre 0 e 1
+
+O supremo é o menor valor que você aceita na aposta que considera ela ainda viável
+
+EX: Suponha que você ganha 1000 reais de salário e 100.000 é muito dinheiro para você
+Você faz uma ancoragem 100.000 tem utilidade 1 e 0 tem utilidade 0.
+Você vai comprar um bilhete de loteria e esse bilhete custa 50 reais. Qual a probabilidade que você entraria nessa loteria para ganhar 100.000 rais considerando que o custo do bilhete é 50 rais.
+Qual é probabilidade mínima de ganho da loteria que você aceitaria para aceitar gastar 50 rais em um bilhete?
+
+Se você tivesse 10% de chance de ganhar você compraria o bilhete?
+
+As pessoas gastam 2 reais no bilhete da megasena porque a utilidade que ela dá para os 2 rais é tão pequena que ela gasta por valor zero
+
+Ex2: Uma empresa vai fabricar lote de um produto e vai preparar uma campanha para o natal. Ela tem uma distribuição de probabilidade sobre as vendas dela, ela precisa decidir o quanto vai fabricar do produto. Pode ser que ela não consiga vender tudo no natal e a demanda seja negativa ou pode acontecer do produto ser muito procurado e tiver pouco estoque e os consumidores acabem precisando comprar no concorrente. 
+
 <img src=".assets/ConstfunUtili2.jpg">
 
 <img src=".assets/ConstfunUtili3.jpg">
