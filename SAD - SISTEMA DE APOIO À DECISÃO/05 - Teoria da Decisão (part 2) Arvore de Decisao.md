@@ -95,8 +95,9 @@
 
 • A faixa de variação de valores nos nós de fim que contém o risco em potencial de um investimento
 
+### Exemplo 
 
-### Considere o problema do investimento no desenvolvimento de uma droga para diabetes
+Considere o problema do investimento no desenvolvimento de uma droga para diabetes
 
   • Para o desenvolvimento de uma droga que passou pelo teste pré-clínico, o FDA requer 3 etapas para a aprovação da droga:
 
