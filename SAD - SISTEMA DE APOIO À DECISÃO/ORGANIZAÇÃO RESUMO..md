@@ -55,6 +55,18 @@ Cabe a você compatibilizar os aspectos humanos, decisórios, modelos, base de d
   
   Geralmente a otimização é alcançadas através de programação matemática, sendo que às vezes, devido à complexidade do sistema, são adotados modelos heurísticos que usam métodos de inteligência artificial. Os métodos de inteligência arificial muitas vezes não encontram a solução ótima, mas encontram uma solução próxima da ótima
 
+### Conhecimentos para construir um SAD Bem sucedido
+
+A construção de um SAD bem-sucedido requer um conhecimento profundo destes conceitos:
+
+- Support: métodos de apoio a decisão
+
+- Decision Making: aspectos cognitivos que estão envolvidos no aspecto decisório
+
+- System: O que o sistema pode contribuir
+
+- Models and data: Como elaborar modelos e enriquecer através de dados.
+
 ### Etapas para um SAD
 
 Processo de 4 etapas conforme proposto por Simon:
@@ -68,7 +80,7 @@ Processo de 4 etapas conforme proposto por Simon:
 - Comparação, escolha e recomendação de uma solução potencial para o problema
 
 
-
+### 
 
 
 
