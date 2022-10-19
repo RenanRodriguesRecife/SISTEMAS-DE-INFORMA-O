@@ -11,6 +11,24 @@ O SAD serve para decisões não estruturadas. QUE não é simplesmente programar
  
 Cabe a você compatibilizar os aspectos humanos, decisórios, modelos, base de dados… tudo que vai ser necessário para esse problema de decisão.
 ```
+
+## (Introdução) Características da tomada de decisão
+
+- Pensamento de grupo: Membros do grupo aceitam soluções sem refletir, o que pode levar a decisões ruins
+
+- Avaliação de cenários what-if 
+
+- Experimentação de um sistema real é muito custoso (deveria testar num modelo antes?!?)
+
+- Mudanças no ambiente de tomada de decisão podem ocorrer constantemente: - Isso altera as premissas do modelo! (deve verificar o que é dinâmico e o que não é dinâmico)(por exemplo,(em um sistema tipo ifood) as entregas em dias de feriado podem aumentar, exigindo uma visão diferente do problema).
+
+- Impondo pressão de tempo sobre o decisor.(influencia na qualidade da tomada de decisão)
+
+- A análise de um problema custa tempo/dinheiro: - É difícil fazer o trade-off e decidir o escopo para tomar uma decisão (É difícil determinar quando parar e tomar uma decisão - dependendo do problema você não vai perder tempo com o problema)
+
+- Informação insuficiente ou em abundância isso atrapalha. Informação demais atrapalha porque você não consegue enchergar o que é relevante.
+
+
 ### O SAD envolve quatro tipos básicos de modelagem analítica.
 
 - Análise tipo what if "o que-se".
@@ -49,7 +67,7 @@ Processo de 4 etapas conforme proposto por Simon:
 
 - Comparação, escolha e recomendação de uma solução potencial para o problema
 
-### Características da tomada de decisão
+
 
 
 
