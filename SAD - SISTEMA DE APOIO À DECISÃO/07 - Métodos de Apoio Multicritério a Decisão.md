@@ -33,6 +33,8 @@
 
 #### Métodos Multicritério
 
+(OBS: A função do método é facilitar a nossa vida na hora de decidir, o método nunca vai decidir por você)
+
 - Doumpos & Zopounidis (2014) distinguem entre quatro tipos de abordagens multicritério:
 
   – Otimização Multiobjetivo / Métodos Interativos
