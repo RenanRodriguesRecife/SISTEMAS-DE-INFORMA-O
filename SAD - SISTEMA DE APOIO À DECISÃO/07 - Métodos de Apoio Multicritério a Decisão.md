@@ -9,6 +9,8 @@
 
   – É necessário racionalizar sob valores em diferentes escalas ou atributos que requerem um tratamento especial para serem comparados em conjunto
   
+  Ex: Você vai comprar uma casa: existe vários critérios - se é bem localizada, se é espaçosa, o preço, se a rua é violenta...
+  
 - Em problemas que envolvem grande quantidade de critérios, normalmente não existe a possibilidade de se chegar a uma solução unânime e ótima, pois diferentes objetivos e preferências resultam em diferentes resultados
 
 ##### Classificação
