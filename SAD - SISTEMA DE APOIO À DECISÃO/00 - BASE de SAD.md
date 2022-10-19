@@ -94,8 +94,7 @@ O Fator crítico para obter a eficácia do sistema é uma combinação das carac
 
 - idéia é melhorar a qualidade de tomar uma decisão não estruturada para minimisar a insatisfação que pode ter ou as perdas que pode ter no futuro por que não usou uma metodologia não adequada. 
 
-```
-Implementação de um SAD
+## Implementação de um SAD
 
 - O projetista, o sistema e o usuário devem está integrados a fim de alcançar um desenvolvimento unificado.
 
@@ -104,9 +103,9 @@ Devem conhecer
 - Tarefas particulares ou decisões a serem apoiadas
 - Os objetivos do sistema
 - O processo de decisão atual do tomador de decisão.
-```
 
-Benefícios esperados de um SAD
+
+## Benefícios esperados de um SAD
 
 Benefícios esperados:
 
@@ -123,7 +122,7 @@ As capacidade do sistema de apoio a tomada de decisão vem aumentando cada vez m
 <img src=".assets/capacidadeSAD.jpg">
 
 
-Classificação do sistema de apoio à decisão
+## Classificação do sistema de apoio à decisão
 
 -- Classificação fornecida pela Association for Information Systems Special Interest Group on Decision Support Systems (AIS SIGDSS).
 
@@ -145,7 +144,7 @@ Classificação do sistema de apoio à decisão
 
 -- Sistema de suporte individual versus sistema de suporte em grupo (GSS)...
 
-Componentes de um SAD
+## Componentes de um SAD
 
 <img src=".assets/componenteSAD.jpg">
 
