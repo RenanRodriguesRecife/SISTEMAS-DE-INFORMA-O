@@ -18,18 +18,10 @@
 ##### Classificação
 
 - Problemas de decisão multicritério podem ser classificados em diferentes tipos (Roy, 1996):
-
-  – Problemática de Escolha
-  
-  – Problemática de Classificação
-  
-  – Problemática de Ordenação
-  
-  – Problemática de Descrição
-  
-  – Problemática de Portfólio (caso especial da Problemática de Escolha)
   
   <img src=".assets/Multiclassi.jpg">
+    
+  Obs: Problemática de Portfólio (caso especial da Problemática de Escolha)
 
 #### Métodos Multicritério
 
