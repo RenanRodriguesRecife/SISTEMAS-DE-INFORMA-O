@@ -10,14 +10,19 @@
 
     - Operação: Função Produção (a forma de como a empresa agrega valor, presta ou produz algum serviço)
 
-## Greiner: Crescimento organizacional
+    - Teoricamente motiva as organizações a serem melhores	
+
+11:00
+
+## Greiner: Crescimento organizacional (um dos primeiros modelo de maturidade - 70's)
 
 <img src= "../.assets/como empresas crescem.JPG">
+
 Existe uma relação entre a maturidade de uma empresa e o tamanho dela. 
 
 Esses períodos de ranhuras no gráfico são processos de revolução dentro de uma empresa. Ela tem uma crise e dentro da crise ela amadurece e cresce e tem um processo de aprendisagem organisacional. Tem empresas que tem uma taxa de crescimento mais rápida e outras mais baixa.
 
-## Adizes: Crescimento organizacional
+## Adizes: Crescimento organizacional 
 
 <img src= "../.assets/crescimentoOrg.JPG">
 
