@@ -24,7 +24,7 @@ Avaliar o quanto mais pode produzir avaliando outras unidades
 
 criar um Dashboard - verificar métricas de comparação
 
-obs: Focar nos pontos para almentar a nota e não nos pontos de corte
+obs: Focar nos pontos para aumentar a nota e não nos pontos de corte
 obs: a nota é uma saída. Um resultado na avaliação
 obs: indicador importante - a renovação do programa
 
