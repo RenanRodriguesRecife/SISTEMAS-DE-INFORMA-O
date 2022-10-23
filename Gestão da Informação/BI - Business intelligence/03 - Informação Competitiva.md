@@ -32,7 +32,7 @@ Ele diz que as empresas tem suas crises. E se não morrer antes ela pode até ch
 
 dependendo da faze que a empresa está ela vai ter uma abordagem gerencial, de controle, de remuneração... diferente.
 
-Fase 1: 
+#### Fase 1: 
     
     - No início a organização é bem informal,
     
@@ -44,7 +44,7 @@ Fase 1:
     
     -a remuneração está associada com o sentimento de posse, de sentir dono do negócio
 
-Fase 2: 
+#### Fase 2: 
 
     - Busca maior pela eficiencia,
     
@@ -54,7 +54,7 @@ Fase 2:
     
     - motivação está associada a recompensas financeiras
 
-Fase 3: 
+#### Fase 3: 
 
     - Expanção do mercado
     
@@ -65,7 +65,7 @@ Fase 3:
     - Bonus, ganhos atravez da participação nos lucros.
 
 
- Fase 4: 
+#### Fase 4: 
 
     - Consolidação da organização do ponto de vista gerencial
     
@@ -78,7 +78,7 @@ Fase 3:
     - Opções de Ações, Repartição de Lucros
     
 
-  Fase 5: 
+ #### Fase 5: 
 
     - Volta a inovar para resolver problema organizacionais
     
@@ -134,9 +134,9 @@ De uma forma de outra tudo isso está voltado a competividade e a vantagem compe
 
 Usado por empresas para que não sobre mercadorias e obtenha o melhor lucro.
 
-Oferta x Demanda: Concorrência
+### Oferta x Demanda: Concorrência
 
-### <img src="../.assets/concorrencia.JPG">
+<img src="../.assets/concorrencia.JPG">
 
 Curiosidade: A apple usa muito o monopólio da inovação. Ela trata o produdo dela como se fosse único por causa disso ela combra um presso que ela considera como se fosse justo e quem quiser comprar compre...
 
@@ -154,7 +154,12 @@ Curiosidade: A apple usa muito o monopólio da inovação. Ela trata o produdo d
 	
 	- Neoschumpeteriana
 
-Teoria Econômica Neoclássica
+As teorias Clássicas e Neoclássica estão mais próximas do modelo Científico (usar uma forma hipotética dedutiva criar uma função matemática que represente um fenomeno, tentar explicar com um modelo analítico)
+
+As teorias Schumpeteriana e Neoschumpeteriana, ponto de vista da inovação. Procura buscar explicar de forma "biológica" (meio darviw)(como é que uma empresa sobreviveu e outra não)
+
+
+### Teoria Econômica Neoclássica
 
 - A teoria neoclássica busca provar teorias explicativas sobre o funcionamento da economia de mercado
 
@@ -170,11 +175,11 @@ Teoria Econômica Neoclássica
 
 - As imperfeições do mercado levam a implicações no "pleno e ótimo uso dos recursos"
 
-- A configuração da estrutura de mercado pode ser perfeita ou imperfeita.
+- A configuração da estrutura de mercado pode ser perfeita ou imperfeita (alguém pode ter informações a mais, pode ter um mercado com poucos compradores e vendedores...)
 
 - Assim, tem-se estruturas de mercado de monopólio, oligopólio e outras formas de concorrência que influenciam na formação dos preços.
 
-Teoria Econômica neoclássica: Oferta e Demanda.
+#### Teoria Econômica neoclássica: Oferta e Demanda.
 
 - A formação gráfica dessa teoria foi formalizada ao final do século XIX
 
@@ -186,7 +191,6 @@ Teoria Econômica neoclássica: Oferta e Demanda.
 
 	- Equilíbrio de mercado (Oferta x Demanda)
 
-Teoria Econômica Neoclássica: Oferta e Demanda
 
 - Do gráfico da relação Oferta x Demanda pode-se observar que:
 
@@ -194,8 +198,9 @@ Teoria Econômica Neoclássica: Oferta e Demanda
 
     - Se o preço for menor que o de mercado, (P2< P*), ocorre falta de mercadoria (Qtd2 -Q*)
 
-    - Isso que dizer que o sistema entra em equilibrio somente no ponto em que a oferta é igual à demanda (P*, Q*), ou seja, um ponto virtual de equilibrío
-
+    - Isso que dizer que o sistema entra em equilibrio somente no ponto em que a oferta é igual à demanda (P*, Q*), ou seja, um ponto virtual de equilibrío 
+     
+(não adianta querer vender o seu produto a um preço mais caro, a medida que você aumenta o preço você tá motivando alguém vim concorrer com você) 
 
 <img src="../.assets/PensaEco.JPG">
 
@@ -203,15 +208,16 @@ Teoria Econômica Neoclássica: Oferta e Demanda
 ## Modelo de Estratégia de Porter
 
 - De acordo com Porter, as regras de concorrência são influenciadas por 5 forças
+	
+    - Rivalidade entre os concorrentes existentes
 
     - Entrada de novos concorrentes
 
-    - Ameaça de substitutos
+    - Ameaça de produtos substitutos
 
     - Poder de negociação dos compradores
 
-
-    - Rivalidade entre os concorrentes existentes
+    - Poder de negociação dos fornecedores
 
 <img src="../.assets/poter.JPG">
 
