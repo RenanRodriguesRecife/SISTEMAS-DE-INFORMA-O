@@ -12,8 +12,6 @@
 
     - Teoricamente motiva as organizações a serem melhores	
 
-11:00
-
 ## Greiner: Crescimento organizacional (um dos primeiros modelo de maturidade - 70's)
 
 <img src= "../.assets/como empresas crescem.JPG">
@@ -26,7 +24,7 @@ Esses períodos de ranhuras no gráfico são processos de revolução dentro de 
 
 <img src= "../.assets/crescimentoOrg.JPG">
 
-Ele diz que as empresas tem suas crises. E se não morrer antes ela pode até chegar ao momento de Prime (melhor performace). Até chegar no pico e depois cair.
+Ele diz que as empresas tem suas crises. E se não morrer antes ela pode até chegar ao momento de Prime (melhor performace). Até chegar no pico e depois cair. (do prime você pode cair quando fica mais confiante)
 
 ## Greiner: Características das fases de crescimento
 
@@ -57,7 +55,8 @@ Fase 2:
     - motivação está associada a recompensas financeiras
 
 Fase 3: 
-    - Expanção do mercado,
+
+    - Expanção do mercado
     
     - questões geográficas que são incorporadas,
     
@@ -65,6 +64,31 @@ Fase 3:
     
     - Bonus, ganhos atravez da participação nos lucros.
 
+
+ Fase 4: 
+
+    - Consolidação da organização do ponto de vista gerencial
+    
+    - A empresa tem famílias de produtos
+    
+    - Sistema de maior controle no ponto de vista de gestão e fiscalisação
+    
+    - Mais burocracia
+    
+    - Opções de Ações, Repartição de Lucros
+    
+
+  Fase 5: 
+
+    - Volta a inovar para resolver problema organizacionais
+    
+    - Estrutura matricial baseada nas competencias da organização
+	
+    - Estilo mais participativo de gestão 
+    
+    - Metas definidas para todos
+    
+    - Bonificação por áreas
 
 Uma empresa jovem para concorrer com uma empresa maior ela precisa se destacar pela inovação (realidade das startup)
 
@@ -75,8 +99,6 @@ De uma forma de outra tudo isso está voltado a competividade e a vantagem compe
 
 ## Modelo de Estratégia de Porter
 
-12:13
-
 - A estratégia competitiva é a busca de uma posição competitiva favorável em um segmento econômico (arena fundamental da concorrência)
 
 	- Visa estabelecer uma posição lucrativa e sustentável contra as forças que determinam a concorrência.
@@ -86,9 +108,10 @@ De uma forma de outra tudo isso está voltado a competividade e a vantagem compe
 	- Rentabilidade do segmento econômico a longo prazo (atratividade)
 	
 	- Posição competitiva
+	
 		- Não importa o segmento econômico, sempre existem empresas que possuem uma rentabilidade acima da média!!!
 		
-- Não há regra absoluta para escolha de uma estratégia, a estratégia é dinâmica em função da rentabilidade do segmento e da posição competitiva
+- Não há regra absoluta para escolha de uma estratégia, a estratégia é dinâmica em função da rentabilidade do segmento e da posição competitiva (tem empresas que escolhem ter uma retabilidade mais baixar para aumentar o a quantidade de clientes ou buscar menor concorrencia)
 
 
 - O modelo de estratégia de Porter considera fatores preponderantes que explicam a relação de concorrência na dimensão atratividade para um segmento econômico.
