@@ -142,8 +142,6 @@ Usado por empresas para que não sobre mercadorias e obtenha o melhor lucro.
 
 Curiosidade: A apple usa muito o monopólio da inovação. Ela trata o produdo dela como se fosse único por causa disso ela combra um presso que ela considera como se fosse justo e quem quiser comprar compre...
 
-39:02
-
 # Pensamento econômico
 
 - Existem várias correntes de pensamento econômico
@@ -212,7 +210,7 @@ Se tem falta de profissinal a mão de obra fica mais cara, se tem excesso a mão
 
 ## Modelo de Estratégia de Porter
 
-- De acordo com Porter, as regras de concorrência são influenciadas por **5 forças competitivas**
+- De acordo com Porter, as regras de concorrência são influenciadas por **5 forças competitivas** (não são só influenciadas apenas pelo preço)
 	
     - Rivalidade entre os concorrentes existentes
 
