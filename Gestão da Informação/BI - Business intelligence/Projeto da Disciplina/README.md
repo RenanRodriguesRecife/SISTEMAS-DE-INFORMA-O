@@ -7,7 +7,7 @@ Late é um tipo de facebook dos pesquisadores
 
 lucylattes - github
 
-<img src="./.assets/projeto.jpg">
+<img src=".../.assets/projeto.jpg">
 
 (Tem uma plataforma chamda sucupira)(busca avançada)(A melhor forma de imprimir é no sucupira)
 
