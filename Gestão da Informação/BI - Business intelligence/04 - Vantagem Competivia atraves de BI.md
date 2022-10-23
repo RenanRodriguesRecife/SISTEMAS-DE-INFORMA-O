@@ -15,6 +15,10 @@
 
     - Velocidade
 
+(Ex: O uso de um CRM que melhore demais a relação da empresa com o cliente e traga vantagem a empresa em relação aos seus concorrentes)
+
+(Ex2: (Velocidade) Um sistema da informação que melhora a logistica de uma empresa. Assim como na Amazon)
+
 - Portanto, um SIS ajuda a empresa a ganhar vantagem competitiva contribuindo para os objetivos estratégicos ou pela sua habilidade de aumentar significativamente a performance e produtividade.
 
 - Na economia digital a vantagem competitiva tornou-se mais importante que antes.
@@ -33,9 +37,14 @@
 
 <img src="../.assets/vantcomp.JPG">
 
+(Os SIS influenciam nos aspectos: Custos, serviços, qualidade e velocidade)
+
+==============
+
 - Contribuições da Gestão da Informação para vantagem competitiva:
 
     - Aplicações inovadoras
+    
     - Armas competitivas
 
         - SIs podem atuar como armas competitivas para a organização ou seus concorrentes
