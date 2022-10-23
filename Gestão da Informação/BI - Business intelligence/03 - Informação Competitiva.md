@@ -107,40 +107,54 @@ De uma forma de outra tudo isso está voltado a competividade e a vantagem compe
 	
 - Dois fatores são essenciais para escolha de uma estratégia competitiva:
 
-	- Rentabilidade do segmento econômico a longo prazo (atratividade)
+	- Rentabilidade do segmento econômico a longo prazo (atratividade)(onde existe lucro vai atrair a competidores)
 	
-	- Posição competitiva
+	Posição competitiva
 	
 		- Não importa o segmento econômico, sempre existem empresas que possuem uma rentabilidade acima da média!!!
 		
-- Não há regra absoluta para escolha de uma estratégia, a estratégia é dinâmica em função da rentabilidade do segmento e da posição competitiva (tem empresas que escolhem ter uma retabilidade mais baixar para aumentar o a quantidade de clientes ou buscar menor concorrencia)
+- Não há regra absoluta para escolha de uma estratégia, a estratégia é dinâmica em função da rentabilidade do segmento e da posição competitiva (tem empresas que escolhem ter uma retabilidade mais baixor para aumentar o a quantidade de clientes ou buscar menor concorrencia)
 
 
-- O modelo de estratégia de Porter considera fatores preponderantes que explicam a relação de concorrência na dimensão atratividade para um segmento econômico.
+- O modelo de estratégia de Porter considera fatores preponderantes que explicam a relação de concorrência na dimensão **atratividade** para um segmento econômico.
 
-- Portanto, a **estratégia competitiva** surge após a compreensão das regras da concorrência que determinam a competitividade da indústria
+- Portanto, a **estratégia competitiva** surge após a compreensão das regras da concorrência que determinam os pontos chaves do sucesso daquele seguimento econômico.
 
 - A meta final da estratégia competitiva é lidar com as regras de concorrência e (em termos ideais) modificar as regras em favor da empresa.
 
-- O modelo de Porter considera que existem **5 forças competitivas**.
+- O modelo de Porter considera que existem **5 forças competitivas**. E tenta responder essas perguntas:
 
-- O que motiva a demanda por um determinado produto ou serviço? (procura)
+```
 
-- O que motiva a oferta de um produto ou serviço? (O preço é um fator importate que definirá se haverar demanda e oferta)
+	- O que motiva a demanda por um determinado produto ou serviço? (procura)
 
-- Qual o resultado da interação entre a Oferta e Demanda por um determinado produto ou serviço?
+	- O que motiva a oferta de um produto ou serviço? (O preço é um fator importate que definirá se haverar demanda e oferta)
+
+	- Qual o resultado da interação entre a Oferta e Demanda por um determinado produto ou serviço?
+
+```
 
 ### Oferta x Demanda
 
 <img src="../.assets/ofertademanda.JPG">
 
-Usado por empresas para que não sobre mercadorias e obtenha o melhor lucro.
+Para o consumidor quanto mais caro for o produto menos produto ele vai consumir
+
+Esse esquema é usado por empresas para que não sobre mercadorias e obtenha o melhor lucro.
 
 ### Oferta x Demanda: Concorrência
 
 <img src="../.assets/concorrencia.JPG">
 
+Quem consegue descobrir mais rápido o valor de ponto de Equilibrio. Consegue se preparar melhor em termos organizacionais para obter um pouco mais de retabilidade e de lucro. (seja no sentido de aumentar a qualidade para converser você a pagar o preço ou seja no sentido de reduzir a qualidade no sentido de garantir o lucro)
+
+Existe um Sistema que faz o controle: Quando o produto estava no preço X ninguém comprou, quanto o produto estava no preço Y as pessoas entram no site e fizeram a compra. (Encontrar o preço máximo que as pessoas estão dispostas a pagar)
+
+Esse gráfico só existe porque existe concorrencia
+
 Curiosidade: A apple usa muito o monopólio da inovação. Ela trata o produdo dela como se fosse único por causa disso ela combra um presso que ela considera como se fosse justo e quem quiser comprar compre...
+
+(Duvida pessoal: Como fica essa relação sobre podutos infinitos (artigos digitais) e produtos que acabam copetindo contra eles mesmos. Ex: Um veículo que nunca quebra)
 
 # Pensamento econômico
 
@@ -156,7 +170,7 @@ Curiosidade: A apple usa muito o monopólio da inovação. Ela trata o produdo d
 
 As teorias Clássicas e Neoclássica estão mais próximas do modelo Científico (usar uma forma hipotética dedutiva criar uma função matemática que represente um fenomeno, tentar explicar com um modelo analítico)
 
-As teorias Schumpeteriana e Neoschumpeteriana, ponto de vista da inovação. Procura buscar explicar de forma "biológica" (meio darviw)(como é que uma empresa sobreviveu e outra não)
+As teorias Schumpeteriana e Neoschumpeteriana, ponto de vista da inovação (diferencial, valor agregado...). Procura buscar explicar de forma "biológica" (meio darviw)(como é que uma empresa sobreviveu e outra não). Em algum momento as empresa se tornam um monopólio de inovação (apesar de está no mesmo setor cada empresa tem algo específico que vai entregar para cada cliente).
 
 
 ### Teoria Econômica Neoclássica
@@ -164,6 +178,8 @@ As teorias Schumpeteriana e Neoschumpeteriana, ponto de vista da inovação. Pro
 - A teoria neoclássica busca provar teorias explicativas sobre o funcionamento da economia de mercado
 
 - Assim busca explicar o funcionamento da economia através da alocação mais eficiente possível dos recursos
+
+- Tem uma abordagem mais matemática, mais hipotética redutiva...
 
 - Portanto em seu paradigma a economia é um universo de pequenos produtores e consumidores, livre para maximizar suas preferências em condições de certeza
 
@@ -179,7 +195,7 @@ As teorias Schumpeteriana e Neoschumpeteriana, ponto de vista da inovação. Pro
 
 - Assim, tem-se estruturas de mercado de monopólio, oligopólio e outras formas de concorrência que influenciam na formação dos preços.
 
-#### Teoria Econômica neoclássica: Oferta e Demanda.
+#### Teoria Econômica Neoclássica: Oferta e Demanda.
 
 - A formação gráfica dessa teoria foi formalizada ao final do século XIX
 
@@ -206,6 +222,8 @@ As teorias Schumpeteriana e Neoschumpeteriana, ponto de vista da inovação. Pro
 
 <img src="../.assets/PensaEco.JPG">
 
+Ao mesmo tempo que os individuos compram produtos no mercado de produtos eles oferecem a sua mão de obra no mercado de produção.
+
 Se tem falta de profissinal a mão de obra fica mais cara, se tem excesso a mão de obra fica mais barata
 
 ## Modelo de Estratégia de Porter
@@ -222,7 +240,11 @@ Se tem falta de profissinal a mão de obra fica mais cara, se tem excesso a mão
 
     - Poder de negociação dos fornecedores
 
+OBS: Em alguns casos o grau de rivalidade pode está tão grande que o intuito de competir por lucro tenha se perdido e o objetivo da empresa se torne destruir a outra. Nesse caso a empresa que tiver mais recursos para sobreviver no estado negativo geralmente vai vencer.
+
 <img src="../.assets/poter.JPG">
+
+(Para Potter a melhor coisas que você pode fazer é manter a sua margem de lucro em um patamar rasoavel mas que também não é tão alto, se você tiver uma margem de lucro muito boa você vai atrair concorrente para o seu ambiente competitivo). (Ex: Você é uma empresa que começa a cobrar muito caro pelo seu produto. Então vai aparecer outra que sabe que pode vender o mesmo produto a um preço menor).
 
 Exemplo:
 
@@ -233,3 +255,6 @@ Enforque em Custo - Custo mais Baixo + Alvo estreito
 Diferenciação - Diferenciação + Alvo amplo
 
 Enforque em Diferenciação - Diferenciação + Alvo estreito
+
+
+A gente precisa de SI que fassam o acompanhamento e controle da organização, que te possibilite mensurar (antecipar) o que os concorrentes vão fazer e o que os clientes desejam e quantidade do que os clientes querem comprar para que possa preparar uma forma adequada de atender as necessidade, organizar os fatores produtivos, compra de matéria prima, contratação de funcionários, escala de funcionários... Organizar tudo na empresa para atender a demanda e ao mesmo tempo ter a capacidade analítica de fazer projeções. Isso garate você ter lucro não porque você tem uma margem de lucro excessiva (problema de entrada de novos concorrente) mas porque você se torna mais eficiente. Se sua margem de lucro é resultado da sua eficiencia seu concorrente não vai conseguir imitar sua margem de lucro e ter a mesma margem que você.
