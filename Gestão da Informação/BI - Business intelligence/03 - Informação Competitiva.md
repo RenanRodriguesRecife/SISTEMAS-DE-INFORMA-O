@@ -116,25 +116,31 @@ De uma forma de outra tudo isso está voltado a competividade e a vantagem compe
 
 - O modelo de estratégia de Porter considera fatores preponderantes que explicam a relação de concorrência na dimensão atratividade para um segmento econômico.
 
-- Portanto, a estratégia competitiva surge após a compreensão das regras da concorrência que determinam a competitividade da indústria
+- Portanto, a **estratégia competitiva** surge após a compreensão das regras da concorrência que determinam a competitividade da indústria
 
 - A meta final da estratégia competitiva é lidar com as regras de concorrência e (em termos ideais) modificar as regras em favor da empresa.
 
-- O modelo de Porter considera que existem 5 forças competitivas.
+- O modelo de Porter considera que existem **5 forças competitivas**.
 
-- O que motiva a demanda por um determinado produto ou serviço?
+- O que motiva a demanda por um determinado produto ou serviço? (procura)
 
-- O que motiva a oferta de um produto ou serviço?
+- O que motiva a oferta de um produto ou serviço? (O preço é um fator importate que definirá se haverar demanda e oferta)
 
 - Qual o resultado da interação entre a Oferta e Demanda por um determinado produto ou serviço?
 
-Oferta x Demanda
+### Oferta x Demanda
 
 <img src="../.assets/ofertademanda.JPG">
 
+Usado por empresas para que não sobre mercadorias e obtenha o melhor lucro.
+
 Oferta x Demanda: Concorrência
 
-<img src="../.assets/concorrencia.JPG">
+### <img src="../.assets/concorrencia.JPG">
+
+Curiosidade: A apple usa muito o monopólio da inovação. Ela trata o produdo dela como se fosse único por causa disso ela combra um presso que ela considera como se fosse justo e quem quiser comprar compre...
+
+39:02
 
 # Pensamento econômico
 
