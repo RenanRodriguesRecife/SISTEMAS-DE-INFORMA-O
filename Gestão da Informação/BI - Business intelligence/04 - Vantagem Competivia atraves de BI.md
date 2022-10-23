@@ -1,9 +1,9 @@
 
 ## Vantagem competitiva através de GI
 
-- Alguns autores definem um Sistema de Informação Estratégicos (SIS) com aquele que permite suportar ou influenciar a estratégia competitiva de uma unidade de negócio
+- Alguns autores classificam um **Sistema de Informação Estratégicos (SIS)** como aquele que permite suportar ou influenciar a estratégia competitiva de uma unidade de negócio
 
-- O que caracteriza um SIS é a sua habilidade de modificar significativamente o negócio da empresa trazendo vantagem estratégica
+- O que caracteriza um SIS é a sua habilidade de modificar significativamente o negócio da empresa trazendo vantagem estratégica (gerelmente dando suporte a uma área do negócio)
 
 - Um SIS não pode ser classificado por estrutura organizacional ou área funcional, qualquer SI que altere objetivos, processos, produtos ou relações da empresa com o macroambiente para trazer vantagem competitiva é um SIS
 
@@ -21,7 +21,7 @@
 
 - Portanto, um SIS ajuda a empresa a ganhar vantagem competitiva contribuindo para os objetivos estratégicos ou pela sua habilidade de aumentar significativamente a performance e produtividade.
 
-- Na economia digital a vantagem competitiva tornou-se mais importante que antes.
+- Na economia digital a vantagem competitiva tornou-se mais importante que antes. (A transformação digital contribuiu para controlar melhor os processos)
 
 - Embora a integração com plataformas digitais não tenha alterado o cerne da maior parte dos negócios, para a grande maioria, as plataformas digitais oferecem ferramentas podem alavancar competitividade:
 
@@ -38,6 +38,14 @@
 <img src="../.assets/vantcomp.JPG">
 
 (Os SIS influenciam nos aspectos: Custos, serviços, qualidade e velocidade)
+
+ter informação disponibilizada em tempo real faz com que você tenha aplicações inovadoras e mais eficientes.
+
+Usar um sistema de informação como diferencial, comparando com os concorrentes. 
+
+Atuar no processo de mudança de processos, estruturação, rotina, integração de processos dentro e fora da empresa
+
+A empresa passa a atuar de uma forma mais inteligente. Passa a atuar acompanhando indicadores trazendo informação para dentro da empresa. Permite acompanhar indicadores e criar gatilhos que permita você antecipe uma situação antes que as coisas derem errado...
 
 ==============
 
