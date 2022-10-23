@@ -219,6 +219,8 @@ As teorias Schumpeteriana e Neoschumpeteriana, ponto de vista da inovação. Pro
 
     - Poder de negociação dos fornecedores
 
+#### Pensamento econômico
+
 <img src="../.assets/poter.JPG">
 
 ## Vantagem competitiva através de GI
