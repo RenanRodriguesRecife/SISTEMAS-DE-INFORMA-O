@@ -202,12 +202,15 @@ As teorias Schumpeteriana e Neoschumpeteriana, ponto de vista da inovação. Pro
      
 (não adianta querer vender o seu produto a um preço mais caro, a medida que você aumenta o preço você tá motivando alguém vim concorrer com você) 
 
+#### Fluxo circular da Economia
+
 <img src="../.assets/PensaEco.JPG">
 
+Se tem falta de profissinal a mão de obra fica mais cara, se tem excesso a mão de obra fica mais barata
 
 ## Modelo de Estratégia de Porter
 
-- De acordo com Porter, as regras de concorrência são influenciadas por 5 forças
+- De acordo com Porter, as regras de concorrência são influenciadas por **5 forças competitivas**
 	
     - Rivalidade entre os concorrentes existentes
 
@@ -219,9 +222,19 @@ As teorias Schumpeteriana e Neoschumpeteriana, ponto de vista da inovação. Pro
 
     - Poder de negociação dos fornecedores
 
-#### Pensamento econômico
-
 <img src="../.assets/poter.JPG">
+
+Exemplo:
+
+Liderança em Custo - Custo mais baixo + Alvo Amplo
+
+Enforque em Custo - Custo mais Baixo + Alvo estreito
+
+Diferenciação - Diferenciação + Alvo amplo
+
+Enforque em Diferenciação - Diferenciação + Alvo estreito
+
+=======================
 
 ## Vantagem competitiva através de GI
 
