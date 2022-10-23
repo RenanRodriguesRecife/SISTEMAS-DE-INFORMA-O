@@ -10,7 +10,9 @@
 
     - Operação: Função Produção (a forma de como a empresa agrega valor, presta ou produz algum serviço)
 
-    - Teoricamente motiva as organizações a serem melhores	
+    - Teoricamente motiva as organizações a serem melhores
+
+(Dependendo da concorrencia você vai ter um nível maior de dinâmica no ponto de vista competitivo).
 
 ## Greiner: Crescimento organizacional (um dos primeiros modelo de maturidade - 70's)
 
