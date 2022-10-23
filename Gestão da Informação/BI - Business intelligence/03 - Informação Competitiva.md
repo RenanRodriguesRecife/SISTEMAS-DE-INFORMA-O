@@ -246,6 +246,10 @@ OBS: Em alguns casos o grau de rivalidade pode está tão grande que o intuito d
 
 (Para Potter a melhor coisas que você pode fazer é manter a sua margem de lucro em um patamar rasoavel mas que também não é tão alto, se você tiver uma margem de lucro muito boa você vai atrair concorrente para o seu ambiente competitivo). (Ex: Você é uma empresa que começa a cobrar muito caro pelo seu produto. Então vai aparecer outra que sabe que pode vender o mesmo produto a um preço menor).
 
+A gente precisa de SI que fassam o acompanhamento e controle da organização, que te possibilite mensurar (antecipar) o que os concorrentes vão fazer e o que os clientes desejam e quantidade do que os clientes querem comprar para que possa preparar uma forma adequada de atender as necessidade, organizar os fatores produtivos, compra de matéria prima, contratação de funcionários, escala de funcionários... Organizar tudo na empresa para atender a demanda e ao mesmo tempo ter a capacidade analítica de fazer projeções. Isso garate você ter lucro não porque você tem uma margem de lucro excessiva (problema de entrada de novos concorrente) mas porque você se torna mais eficiente. Se sua margem de lucro é resultado da sua eficiencia seu concorrente não vai conseguir imitar sua margem de lucro e ter a mesma margem que você.
+
+## Tipos deferentes de Estratégias
+
 Exemplo:
 
 Liderança em Custo - Custo mais baixo + Alvo Amplo
@@ -256,5 +260,3 @@ Diferenciação - Diferenciação + Alvo amplo
 
 Enforque em Diferenciação - Diferenciação + Alvo estreito
 
-
-A gente precisa de SI que fassam o acompanhamento e controle da organização, que te possibilite mensurar (antecipar) o que os concorrentes vão fazer e o que os clientes desejam e quantidade do que os clientes querem comprar para que possa preparar uma forma adequada de atender as necessidade, organizar os fatores produtivos, compra de matéria prima, contratação de funcionários, escala de funcionários... Organizar tudo na empresa para atender a demanda e ao mesmo tempo ter a capacidade analítica de fazer projeções. Isso garate você ter lucro não porque você tem uma margem de lucro excessiva (problema de entrada de novos concorrente) mas porque você se torna mais eficiente. Se sua margem de lucro é resultado da sua eficiencia seu concorrente não vai conseguir imitar sua margem de lucro e ter a mesma margem que você.
