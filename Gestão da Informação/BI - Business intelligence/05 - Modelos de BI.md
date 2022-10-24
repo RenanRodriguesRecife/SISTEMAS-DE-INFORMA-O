@@ -15,7 +15,7 @@
 
 Tem aspectos do ambiente de negócio que tráz pressões e oportunidades para a organização e a organização deve responder essas pressões através das decisões que ela toma. Essas pressões também traz oportunidades para se destacar e desenvolver.
 
-As Decisões vem com suporte com apoio a análises, decisões mais acertivas (10:00)
+As Decisões vem com suporte de apoio a decisão com análises, capacidade preditiva, decisões mais acertivas obitidas através do uso da informática (uso de sistema computadorisado de apoio a decisão - geralmente associados a BI)
 
 ### Modelo Business Pressures-Responses-Support
 
@@ -26,7 +26,6 @@ As Decisões vem com suporte com apoio a análises, decisões mais acertivas (10
     -  Respostas, ações e contra-medidas da organização
 
     -  Suporte a decisões
-
 
 - O **ambiente competitivo** torna-se cada vez mais complexo, no entanto esta complexidade também traz oportunidades
 
@@ -42,7 +41,11 @@ As Decisões vem com suporte com apoio a análises, decisões mais acertivas (10
 
     - Regulamentações da sociedade
 
+Alguns exemplos: 
+
 <img src="../.assets/pressure responses support2.JPG">
+
+(Cada vez mais os clientes se tornam mais exigentes e menos leais)
 
 - **Respostas, ações e contra-medidas da organização** podem ser reativas, antecipativas, adaptativas ou proativas
 
@@ -70,7 +73,9 @@ As Decisões vem com suporte com apoio a análises, decisões mais acertivas (10
 
     - Alcançar Missão, Objetivos e Metas
 
-- Mintzbert (2008) classificou a atuação dos gestores em três categorias: interpessoal, informacional e de decisão
+A forma de organizar informações para decisões tá associada a forma dos gestores:
+
+- Mintzbert (2008) classificou a atuação dos gestores em três categorias: **interpessoal**, **informacional** e de **decisão**
 
 - Para executar as atividades de gestão é necessário o suprimento eficiente de informação em tempo hábil
 
