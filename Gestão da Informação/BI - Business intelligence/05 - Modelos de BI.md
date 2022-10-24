@@ -83,7 +83,9 @@ A forma de organizar informações para decisões tá associada a forma dos gest
 
 <img src="../.assets/pressure responses support.JPG">
 
-- Decisões gerenciais representam um processo no qual os objetivos da organização são atingidos através do uso de recursos
+(O modelo de Sharda mostra como Decisões e o Suporte a decisão tem destaque)
+
+- Decisões gerenciais representam um processo no qual os objetivos da organização são atingidos através do uso de recursos 
 
     - Input: recursos
 
@@ -91,12 +93,13 @@ A forma de organizar informações para decisões tá associada a forma dos gest
 
     - Sucesso: output/input
 
+(A organização está sempre buscando eficiencia, o que se quer é aumentar a eficiencia através da minimisação de recursos para alcançar algum tipo de output ou meta)(quanto mais output gera com menos input mais efeciente a gente se torna)(relação: Benefício/Custo -> retabilidade)
+
 - Então, GERENCIAR é TOMAR DECISÕES!
 
 - Decidir é escolher a melhor alternativa quando se tem no mínimo 2!
 
-- De uma forma geral os gestores tomam decisões seguindo um
-processo de 4 etapas:
+- De uma forma geral os gestores tomam decisões seguindo um processo de 4 etapas:
 
     - Definição / Estruturação do problema de decisão (oportunidade de decisão)
 
@@ -116,13 +119,15 @@ processo de 4 etapas:
 
 - Estes pressupostos são difíceis de validar totalmente (ambiente competitivo):
 
-    - Tecnologia (SIs, Search Engines, etc) e as consequências da globalização geram cada vez possibilidades
+    - Tecnologia (SIs, Search Engines, etc) e as consequências da globalização geram cada vez possibilidades (nem sempre se tem tecnologia para isso)
 
     - Incertezas (governamental, regulatória, política, comportamento dos consumidores)
 
     - Necessidade de decisões rápidas versus Custos de decisões equivocadas
 
     - Sistemas Complexos
+
+(21:59)
 
 <img src="../.assets/map.JPG">
 
