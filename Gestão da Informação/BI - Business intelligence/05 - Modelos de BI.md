@@ -1,16 +1,21 @@
 
-- Os fenômenos atuais que requerem decisões rápidas e um tempo de resposta cada vez menor
+# Business Intelligence
 
-- Portanto, os grandes investimentos em TI realizados ao longo dos anos requerem uma gestão da informação de forma eficaz, para que problemas e oportunidades de decisão possam ser supridos
-com as informações necessárias
+- Os fenômenos atuais requerem decisões rápidas e um tempo de resposta cada vez menor (projetos tem data de início e data de termino, não tem tempo para ficar compilando)
 
-- Sharda et al. (2014) propuseram um modelo que busca equalizar
-questões estratégicas, pressões competitivas e os processos de
-apoio a decisão
+- Portanto, os grandes investimentos em TI realizados ao longo dos anos requerem uma gestão da informação de forma eficaz, para que problemas e oportunidades de decisão possam ser supridos com as informações necessárias 
 
-## Modelo Business Pressures-Responses-Support
+- Sharda et al. (2014) propuseram um modelo que busca equalizar questões estratégicas, pressões competitivas e os processos de apoio a decisão
+
+(os investimentos em TI são difíceis de justificar, o proficional de ti deve sempre mostrar o que é relevante para tal processo)
+
+## Modelo Business Pressures-Responses-Support (Sharda)
 
 <img src="../.assets/pressure responses support.JPG">
+
+Tem aspectos do ambiente de negócio que tráz pressões e oportunidades para a organização e a organização deve responder essas pressões através das decisões que ela toma. Essas pressões também traz oportunidades para se destacar e desenvolver.
+
+As Decisões vem com suporte com apoio a análises, decisões mais acertivas (10:00)
 
 ### Modelo Business Pressures-Responses-Support
 
