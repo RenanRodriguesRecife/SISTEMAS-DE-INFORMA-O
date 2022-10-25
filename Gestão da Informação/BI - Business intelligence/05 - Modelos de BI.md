@@ -127,9 +127,9 @@ A forma de organizar informações para decisões tá associada a forma dos gest
 
     - Sistemas Complexos
 
-(21:59)
-
 <img src="../.assets/map.JPG">
+
+(22:03)
 
 <img src="../.assets/circlebi.JPG">
 
