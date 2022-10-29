@@ -29,7 +29,7 @@ As Decisões vem com suporte de apoio a decisão com análises, capacidade predi
 
 - O **ambiente competitivo** torna-se cada vez mais complexo, no entanto esta complexidade também traz oportunidades
 
-    - Se por um lado a globalização permite aumentar o escopo de fornecedores e a aquisição itens a um custo mais baixo, também gera fortes competidores o ambiente de concorrência
+    - Ex: Se por um lado a globalização permite aumentar o escopo de fornecedores e a aquisição itens a um custo mais baixo, também gera fortes competidores o ambiente de concorrência
 
 - Os fatores que promovem a competitividade (pressão) na indústria são:
 
