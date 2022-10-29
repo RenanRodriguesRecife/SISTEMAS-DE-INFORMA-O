@@ -7,7 +7,7 @@
 
 - Sharda et al. (2014) propuseram um modelo que busca equalizar questões estratégicas, pressões competitivas e os processos de apoio a decisão
 
-(os investimentos em TI são difíceis de justificar, o profissional de TI deve sempre mostrar o que é relevante para tal processo)
+(os investimentos em TI são difíceis de justificar, o profissional de TI deve sempre mostrar o que é relevante para tal processo, simplesmente você dizer que tá conseguindo armazenar dados e transações não é suficiente para mapear o que seria esse retorno adequando para o investimento. É necessário gerenciar a informação de maneira eficás e antecipar problemas e oportunidades de decisão, verificando o que é relevante para aquele processo e para aquela decisão e transendo em tempo o que é requerido)
 
 ## Modelo Business Pressures-Responses-Support (Sharda)
 
