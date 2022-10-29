@@ -1,7 +1,7 @@
 
 # Business Intelligence
 
-- Os fenômenos atuais requerem decisões rápidas e um tempo de resposta cada vez menor (projetos tem data de início e data de termino, não tem tempo para ficar compilando)
+- Os fenômenos atuais requerem decisões rápidas e um tempo de resposta cada vez menor (projetos tem data de início e data de termino, Se a decisão é rotineira não tem porque perder tempo para ficar compilando dados e gerando informações de relatório para tormar uma decisão)
 
 - Portanto, os grandes investimentos em TI realizados ao longo dos anos requerem uma gestão da informação de forma eficaz, para que problemas e oportunidades de decisão possam ser supridos com as informações necessárias 
 
