@@ -177,7 +177,9 @@ Ex: Exemplo do uso de BI (Case Overbooking Frankfurt-London):
 - https://www.youtube.com/watch?v=NXEL5F4_aKA
 
 Exemplo problema de BI: Realocar passageiros 
+
     - Você precisa realocar 4 passageiros que tiveram o voo cancelado mas você só tem 2 assento para o próximo voo, de forma a garantir a satisfação. 
+    
     - Os dados e análises integrados em tempo real permite uma tomada de decisão mais inteligente. Nesse caso o sistema cria um painel e um sistema de regras subjacentes usando valor de vida útil, lucratividade, preferências de passageiros e dados PNR.
 
 ## BI vs DSS(SAD)
