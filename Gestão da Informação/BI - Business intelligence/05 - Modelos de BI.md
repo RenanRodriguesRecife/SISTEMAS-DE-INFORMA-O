@@ -182,6 +182,22 @@ Exemplo problema de BI: Realocar passageiros
     
     - Os dados e análises integrados em tempo real permite uma tomada de decisão mais inteligente. Nesse caso o sistema cria um painel e um sistema de regras subjacentes usando valor de vida útil, lucratividade, preferências de passageiros e dados PNR.
 
+(É muito importante que BI esteja disponível para todos os níveis hierárquicos da empresa - ele deve ser para todo mundo)
+
+## BI
+
+- O maior objetivo do BI é fornecer fácil acesso aos dados e modelos para oferecer à gestão condições de conduzir diferentes análises
+
+- Portanto, o paradigma que envolve o BI vai além de:
+
+    - Transformar dados em informações
+    
+    - Transformar informações em conhecimento
+    
+    - Suportar decisões com informações e conhecimento
+    
+- O paradigma do BI é integrar e suportar todo o processo de tranformação de dados, gestão da informação e conhecimento, e decisões visando a esfera da **AÇÃO**
+
 ## BI vs DSS(SAD)
 
 - Similaridades e diferenças?
