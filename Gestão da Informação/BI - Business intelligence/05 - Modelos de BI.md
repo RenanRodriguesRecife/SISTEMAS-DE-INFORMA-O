@@ -97,7 +97,7 @@ A forma de organizar informações para decisões tá associada a forma dos gest
 
 - Então, GERENCIAR é TOMAR DECISÕES!
 
-- Decidir é escolher a melhor alternativa quando se tem no mínimo 2!
+- Decidir é escolher a melhor alternativa quando se tem no mínimo 2! (gerenciar é tomar decisões)
 
 - De uma forma geral os gestores tomam decisões seguindo um processo de 4 etapas:
 
@@ -129,11 +129,17 @@ A forma de organizar informações para decisões tá associada a forma dos gest
 
 <img src="../.assets/map.JPG">
 
-(22:03)
+O que se tem é cada vez mais organizações integradas pelos mais diversos sistemas de Informação. Tem um ambiente muito fértil para sistemas que integrem a Demanda com o Suprimento
 
 <img src="../.assets/circlebi.JPG">
 
+Cada vez mais a concorrencia se dá diante da conconrrencia em alguma etapa da cadeia. A organização que conseguir ter uma gestão integrada melhor conseguirar ter uma melhor performace.
+
+A medida que vão sendo explorados os dados (que estão dentro dos ERP e dos SI) você vai ter novas oportunidades de melhoria, fazer controle e trazer maior capacidade analitica para empresa
+
 <img src="../.assets/1970computerdesicionsurport.JPG">
+
+Quando estamos falando de BI estamos falando de decisões estruturadas
 
 ### 1970: Computerized Decision Support: Gorry & Scott-Morton Framework
 
@@ -151,14 +157,14 @@ A forma de organizar informações para decisões tá associada a forma dos gest
 
 
 
-
 - Business Intelligence (BI) é a evolução de conceitos utilizados para DSSs (SAD) ao longo do tempo
-
 
     - Antes: Sistemas de Informação Executivo
     - Agora: Sistemas de Informação para Todos (BI)
 
-- Sistemas de Business Intelligence possuem avanços em termos de visualização, alertas, e acompanhamento de indicadores de performance 
+(muita gente confunde e acha que BI e SAD é a mesma coisa. Mas não é. SAD -> para decisões não extruturadas, BI -> para decisões extruturas)
+
+- Sistemas de Business Intelligence possuem avanços em termos de visualização, alertas, e acompanhamento de indicadores de performance (Baixou muito o custo de BI, você não depende mais de TI)(existe ferramentas prontas, de baixo custo e acessíveis: PowerBi, Tableau...)
 
 - O termo BI foi cunhado a partir da evolução de SIs em empresas privadas
 
@@ -170,7 +176,11 @@ Ex: Exemplo do uso de BI (Case Overbooking Frankfurt-London):
 
 - https://www.youtube.com/watch?v=NXEL5F4_aKA
 
-BI vs DSS(SAD)
+Exemplo problema de BI: Realocar passageiros 
+    - Você precisa realocar 4 passageiros que tiveram o voo cancelado mas você só tem 2 assento para o próximo voo, de forma a garantir a satisfação. 
+    - Os dados e análises integrados em tempo real permite uma tomada de decisão mais inteligente. Nesse caso o sistema cria um painel e um sistema de regras subjacentes usando valor de vida útil, lucratividade, preferências de passageiros e dados PNR.
+
+## BI vs DSS(SAD)
 
 - Similaridades e diferenças?
 
