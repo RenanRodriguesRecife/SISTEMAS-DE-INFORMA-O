@@ -215,7 +215,7 @@ Exemplo problema de BI: Realocar passageiros
 
     – 2010s – Inclusão de Inteligência Artificial, Data Mining, Text Mining, portais web, Dashboards, Big Data, Social Media, Analytics
 
-<img src=".assets/evBI.jpg">
+<img src="../.assets/evBI.jpg">
 
 ### Arquitetura de BI
 
@@ -231,7 +231,7 @@ Exemplo problema de BI: Realocar passageiros
 
     – Interface (ex: dashboard)
 
-<img src=".assets/arqBI.jpg">
+<img src="../.assets/arqBI.jpg">
 
 ### Vantagens obtidas com aplicações de BI
 
@@ -247,7 +247,7 @@ Exemplo problema de BI: Realocar passageiros
 
     – Otimização do canal de distribuição
     
-<img src=".assets/BIvalue.jpg">
+<img src="../.assets/BIvalue.jpg">
 
 ## BI vs DSS(SAD)
 
