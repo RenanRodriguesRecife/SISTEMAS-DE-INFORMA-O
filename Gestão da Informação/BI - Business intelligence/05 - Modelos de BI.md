@@ -312,11 +312,11 @@ Exemplo problema de BI: Realocar passageiros
 
     - A idéia de observar todos os dados para entender o que está acontecendo, o que pode acontecer e fazer o melhor foi encapsulada em 3 níveis de Analytics pelo INFORMS:
 
-        - Descriptive Analytics
+        - Descriptive Analytics (relatórios periódicos)
 
-        - Predictive Analytics
+        - Predictive Analytics (determinar o que pode acontecer no futuro)
 
-        - Prescriptive Analytics
+        - Prescriptive Analytics (estruturação de modelos que visa a construção de uma solução)
 
 <img src="../.assets/analytics.JPG">
 
@@ -329,7 +329,7 @@ Exemplo problema de BI: Realocar passageiros
 - O desenvolvimento dessa estrutura de dados parte do data warehouse
 
 - Um ponto essencial aqui são as tecnologias de visualização de dados 
-    **- Quem tiver maior interesse, tentar cursar disciplina de Prof.Nivan Ferreira!!!"** (2022)
+    **- Quem tiver maior interesse, tentar cursar disciplina de Prof.Nivan Ferreira!!!" - visualização de dados** (2022)
 
 ### Predictive Analytics
 
