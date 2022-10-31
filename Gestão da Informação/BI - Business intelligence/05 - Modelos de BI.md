@@ -200,6 +200,54 @@ Exemplo problema de BI: Realocar passageiros
 
 (BI ficou muito em evidencia por conta do baixo custo)
 
+
+### Histórico
+
+- O termo BI foi cunhado pela Gartner na década de 1990
+
+- No entanto, o conceito é bem mais antigo:
+
+    – 1970s – relatórios em MIS/SIG (estáticos/periódicos)
+
+    – 1980s – EIS/SIE
+
+    – 1990s – OLAP, dinâmicos, multidimensionais, relatórios adhoc levaram ao termo “BI”
+
+    – 2010s – Inclusão de Inteligência Artificial, Data Mining, Text Mining, portais web, Dashboards, Big Data, Social Media, Analytics
+
+<img src=".assets/evBI.jpg">
+
+### Arquitetura de BI
+
+• Um sistema de BI tem 4 componentes básicos:
+
+    – Data warehouse (com sua fonte de dados)
+    
+    – Business analytics
+    
+        • Uma coleção de ferramentas para manipular, minerar, e canalisar dados na data warehouse
+
+    – Business performance management (monitoramento e análise de performance)
+
+    – Interface (ex: dashboard)
+
+
+<img src=".assets/arqBI.jpg">
+
+### Vantagens obtidas com aplicações de BI
+
+    – Segmentação de Clientes
+
+    – Propensão para compras
+
+    – Lucratividade de clientes (CLV, etc)
+
+    – Detecção de fraudes
+
+    – Manutenção de clientes
+
+    – Otimização do canal de distribuição
+
 ## BI vs DSS(SAD)
 
 - Similaridades e diferenças?
