@@ -231,7 +231,6 @@ Exemplo problema de BI: Realocar passageiros
 
     – Interface (ex: dashboard)
 
-
 <img src=".assets/arqBI.jpg">
 
 ### Vantagens obtidas com aplicações de BI
@@ -247,6 +246,8 @@ Exemplo problema de BI: Realocar passageiros
     – Manutenção de clientes
 
     – Otimização do canal de distribuição
+    
+<img src=".assets/BIvalue.jpg">
 
 ## BI vs DSS(SAD)
 
@@ -286,11 +287,11 @@ Exemplo problema de BI: Realocar passageiros
 
     - Embora autores e consultores tenham definido com pequenas diferenças o termo Analytics, pode-se definir como:
 
-        **- O processo de desenvolver decisões focadas em ações ou recomendações para ações baseadas em insights provenientes de dados históricos**
+        **- O processo de desenvolver decisões focadas em ações ou recomendações para ações baseadas em insights provenientes de dados históricos** (sair da intuição e ir para modelos mais presquitivos baseados em dados)
 
     - O INFORMS foi responável pela maior iniciativa de organizar e promover Analytics
 
-    - De acordo com o INFORMS:
+    - De acordo com o INFORMS (orgão responsável pela certificação de Analytics - fusão de ciencia de gestão e a sociedade de pesquisa operacional):
 
     **"Analytics representa a combinação de tecnologias computacionais, técnicas de gestão (Management Science) e estatística para resolver problemas reais"**
 
