@@ -196,7 +196,9 @@ Exemplo problema de BI: Realocar passageiros
     
     - Suportar decisões com informações e conhecimento
     
-- O paradigma do BI é integrar e suportar todo o processo de tranformação de dados, gestão da informação e conhecimento, e decisões visando a esfera da **AÇÃO**
+- O paradigma do BI é integrar e suportar todo o processo de tranformação de dados, gestão da informação e conhecimento, e decisões visando a esfera da **AÇÃO** (trazer a informação onde as coisas estão acontecendo)
+
+(BI ficou muito em evidencia por conta do baixo custo)
 
 ## BI vs DSS(SAD)
 
