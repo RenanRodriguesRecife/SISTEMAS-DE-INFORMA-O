@@ -360,6 +360,7 @@ Exemplo problema de BI: Realocar passageiros
 - O objetivo é a uma recomendação (decisão) para uma ação específica
     - Em alguns casos é denominada de Analytics para Decisão ou Analytics Normativa
 
+### Ciclo de Analitics
 
 <img src="../.assets/analitics.JPG">
 
@@ -380,7 +381,7 @@ Overcoming the Challenges of Aircraft Engine Maintenance and Repair (American Ai
 – https://www.youtube.com/watch?v=_Gq4lga5ER4
 
 
-Edelman Award
+Prêmio Edelman Award
 
 - A competição Franz Edelman iniciou em 1972
 
@@ -392,6 +393,8 @@ Edelman Award
 - A empresa que usou o trabalho vencedor recebe um prêmio de citação e os autores do trabalho um prêmio em dinheiro
 
 - Os trabalhos finalistas são publicados na Interfaces / Journal of Applied Analytics
+
+->> (1:06:00)
 
 Os projetos finalistas desta competição já alcançaram retorno financeiro de mais de 250 bilhões de dólares! 
 – https://www.informs.org/Resource-Center/Video-Library/Edelman-Competition-Videos
