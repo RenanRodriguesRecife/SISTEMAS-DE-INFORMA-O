@@ -184,6 +184,8 @@ Exemplo problema de BI: Realocar passageiros
 
 (É muito importante que BI esteja disponível para todos os níveis hierárquicos da empresa - ele deve ser para todo mundo)
 
+(Mostra o quanto o fato de ter informação influencia diretamente na decisão que vai tomar)
+
 ## BI
 
 - O maior objetivo do BI é fornecer fácil acesso aos dados e modelos para oferecer à gestão condições de conduzir diferentes análises
@@ -243,7 +245,7 @@ Exemplo problema de BI: Realocar passageiros
 
     – Detecção de fraudes
 
-    – Manutenção de clientes
+    – Manutenção de clientes (Uso de BI para apoio a estratégias de fidelização)
 
     – Otimização do canal de distribuição
     
@@ -257,6 +259,8 @@ Exemplo problema de BI: Realocar passageiros
 
     - BI implica o uso de data warehouse, enquanto DSS(SAD) pode ou não requerer
 
+    - No SAD se tem um modelo analitico criado para aquele problema específico. No BI você não necessariamente vai ter esse modelo. No BI você tem uma estrutura mais flexivel para consulta e sintetisação dos dados.
+
     - Tendo em vista o custo associado ao desenvolvimento e manutenção de data warehouse. BI é mais apropriado para organizações maiores, enquanto DSS (SAD)pode ser apropriado para qualquer tipo de organização
 
     - Enquanto um DSS (SAD) é construído para suportar diretamente uma decisão específica, sistemas de BI são voltados para fornecer informação assertiva em tempo real, muitas vezes suportando decisões indiretamente.
@@ -265,7 +269,9 @@ Exemplo problema de BI: Realocar passageiros
 
     - No desenvolvimento de DSSs (SAD) o interesse está voltado para a construção de soluções para problemas não estruturados, portanto é requerido um uso maior de programação para customizar a solução.
 
-    - Devido ao nível de especialização, as metodologias e algumas ferramentas DSS são desenvolvidas no âmbito acadêmico, enquanto que no contexto de BI em sua grande maioria por empresas de software.
+    - No BI você vai ter o suprimento de informação acertiva mais ágil que vai te possibilitar resolver diversos problemas que você não vai precisar de um modelo analítico para resolver. Só precisa de uma resposta de um indicativo para basear sua decisão.
+
+    - Devido ao nível de especialização, as metodologias e algumas ferramentas DSS(SAD) são desenvolvidas no âmbito acadêmico, enquanto que no contexto de BI em sua grande maioria por empresas de software.
 
     - Embora algumas pessoas pensam que DSS (SAD) e sistemas BI são equivalentes, estes sistemas não são
         
@@ -277,7 +283,7 @@ Exemplo problema de BI: Realocar passageiros
     
     - A convenção adotada neste curso é a visão de BI separada de DSS(SAD), embora sejam consideradas as conexões entre BI-DSS.
 
-    ## Analytics
+## Analytics
 
     - Seria algo novo o apenas um novo nome para...
         
@@ -312,11 +318,11 @@ Exemplo problema de BI: Realocar passageiros
 
     - A idéia de observar todos os dados para entender o que está acontecendo, o que pode acontecer e fazer o melhor foi encapsulada em 3 níveis de Analytics pelo INFORMS:
 
-        - Descriptive Analytics (relatórios periódicos)
+        - Descriptive Analytics (relatórios periódicos)(O que está acontecendo)
 
         - Predictive Analytics (determinar o que pode acontecer no futuro)
 
-        - Prescriptive Analytics (estruturação de modelos que visa a construção de uma solução)
+        - Prescriptive Analytics (estruturação de modelos que visa a construção de uma solução)(qual caminho que vai seguir)
 
 <img src="../.assets/analytics.JPG">
 
@@ -372,15 +378,14 @@ Analytics
 - https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/
 
 - How analytics enhance the guest experience at Walt Disney World
-    - https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/Industry-
-Profiles/Disney
+    - https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/Industry-Profiles/Disney
 
 - Simplifying Vehicle Choice: Ford’s Fleet Purchase Planner
     - https://www.youtube.com/watch?v=HErOv30WLqQ
 
 Overcoming the Challenges of Aircraft Engine Maintenance and Repair (American Airlines) 
-- https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/Overcoming-the-Challenges-of-Aircraft-Engine-Maintenance-and-Repair 
-– https://www.youtube.com/watch?v=_Gq4lga5ER4
+    - https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/Overcoming-the-Challenges-of-Aircraft-Engine-Maintenance-and-Repair 
+    – https://www.youtube.com/watch?v=_Gq4lga5ER4
 
 
 Prêmio Edelman Award
@@ -418,7 +423,7 @@ Os projetos finalistas desta competição já alcançaram retorno financeiro de 
 
 – https://www.youtube.com/watch?v=gdIESpRi00k
 
-• Analytics Makes Inventory Planning A Lights-Out Activity at Intel Corporation Intel, which employs more than 100,000 people in over 70 countries around the world and has an annual revenue of $60 billion, implemented a fully automated Multi-Echelon Inventory Optimization (MEIO) based inventory target-setting system managing $1 billion daily in finished goods inventory representing over $40B a year in sales. Algorithm-derived inventory targets at Intel are accepted by planners +99.5 percent of the time and have simultaneously driven higher customer service and lower inventory levels resulting in over $1.3B in gross profit since 2014.
+• Analytics Makes Inventory Planning A Lights-Out Activity at Intel Corporation Intel, which employs more than 100,000 people in over 70 countries around the world and has an annual revenue of $60 billion, implemented a fully automated Multi Echelon Inventory Optimization (MEIO) based inventory target-setting system managing $1 billion daily in finished goods inventory representing over $40B a year in sales. Algorithm-derived inventory targets at Intel are accepted by planners +99.5 percent of the time and have simultaneously driven higher customer service and lower inventory levels resulting in over $1.3B in gross profit since 2014.
 In addition, customers are delighted: since MEIO was implemented at all of Intel’s vendor managed inventory hubs in 2012, customer satisfaction has never been higher and Intel has landed in the top-10 of Gartner’s Supply Chain Top-25 every year. Faculty in the department of Business Analytics and Statistics at the University of Tennessee, Knoxville and the supply chain software company Logility also contributed to this project.
 
 (como a Intel se manteve lider até 2019 no mercado de notebook prontos - associado a dinamica de fornecimento de mercado)
@@ -427,45 +432,17 @@ In addition, customers are delighted: since MEIO was implemented at all of Intel
 
 – https://www.youtube.com/watch?v=3ikQmmyNSQg
 
-• Europcar Integrates Forecast, Simulation and Optimization Techniques in a Capacity and Revenue
-Management System Europcar, the leading European car rental company, partnered with ACT Operations
-Research to create Opticar, a complex decision support system. Opticar features forecasts, discrete event
-simulations and optimization techniques providing an integrated approach to revenue and capacity
-management. Opticar anticipates future demand for Europcar’s vehicles fleet, up to six months in advance,
-improving capacity management. In addition, Opticar enables Europcar to optimize its approach to revenue
-management and rental pricing, taking into account competitors information, the currently available fleet and
-expected demand for vehicles. Opticar provides a shared mathematical approach used as a starting point for all
-daily operations to nine Europcar’s corporate countries.
+• Europcar Integrates Forecast, Simulation and Optimization Techniques in a Capacity and Revenue Management System Europcar, the leading European car rental company, partnered with ACT Operations Research to create Opticar, a complex decision support system. Opticar features forecasts, discrete event simulations and optimization techniques providing an integrated approach to revenue and capacity management. Opticar anticipates future demand for Europcar’s vehicles fleet, up to six months in advance, improving capacity management. In addition, Opticar enables Europcar to optimize its approach to revenue management and rental pricing, taking into account competitors information, the currently available fleet and expected demand for vehicles. Opticar provides a shared mathematical approach used as a starting point for all daily operations to nine Europcar’s corporate countries.
 
 • 2018 Edelman Finalist Pediatric Heart Network 
 – https://www.youtube.com/watch?v=8U_T_m8rStg
 
-• Collaborative Systems Analytics: Establishing Effective Clinical Practice Guidelines for Advancing Congenital
-Cardiac Care The Pediatric Heart Network enlisted researchers with the Georgia Institute of Technology to
-create clinical practice guidelines (CPG) for pre-, intra-, and post-surgical care of patients with congenital heart
-defects (CHDs), the most common birth defect, impacting nearly 1 million children and 1.4 million adults in the
-U.S. Substantial variances in surgical practices to treat patients with CHDs among different healthcare centers
-were reflected in inconsistent surgical outcomes, some of which resulted in negative consequences for patients.
-By studying the nine leading U.S. pediatric centers, the researchers identified seven significant factors for
-influencing surgical outcome, and implemented a CPG that enables patients to be removed from breathing
-apparatuses earlier, lowered the rate of reintubation, and decreased the time patients need to remain in the
-intensive care unit. These guidelines also realized a cost savings of 27 percent, which translates to $13,500 per
-patient.
+• Collaborative Systems Analytics: Establishing Effective Clinical Practice Guidelines for Advancing Congenital Cardiac Care The Pediatric Heart Network enlisted researchers with the Georgia Institute of Technology to create clinical practice guidelines (CPG) for pre-, intra-, and post-surgical care of patients with congenital heart defects (CHDs), the most common birth defect, impacting nearly 1 million children and 1.4 million adults in the U.S. Substantial variances in surgical practices to treat patients with CHDs among different healthcare centers were reflected in inconsistent surgical outcomes, some of which resulted in negative consequences for patients. By studying the nine leading U.S. pediatric centers, the researchers identified seven significant factors for influencing surgical outcome, and implemented a CPG that enables patients to be removed from breathing apparatuses earlier, lowered the rate of reintubation, and decreased the time patients need to remain in the intensive care unit. These guidelines also realized a cost savings of 27 percent, which translates to $13,500 per patient.
 
 2018 Edelman Winner Federal Communications Comission
 
 – https://www.youtube.com/watch?v=cSG5D7BOzWQ
 
-• 2018 Edelman Winner: Unlocking the Beachfront: Using
-Operations Research to Repurpose Wireless Spectrum. The
-Federal Communications Commission (FCC) recently
-completed the world’s first two-sided spectrum auction,
-reclaiming spectrum from TV broadcasters to meet exploding
-demand for wireless services. Operations research tools–
-including optimization, simulation, and SAT-solvers – were
-essential to both the design and implementation of the auction.
-The auction was one of the most successful in the FCC’s
-history, repurposing 84 MHz of spectrum and generating revenue of nearly $20 billion, including more than $10 billion in new capital for the broadcast TV industry and over $7 billion to
-pay down the U.S. deficit.
+• 2018 Edelman Winner: Unlocking the Beachfront: Using Operations Research to Repurpose Wireless Spectrum. The Federal Communications Commission (FCC) recently completed the world’s first two-sided spectrum auction, reclaiming spectrum from TV broadcasters to meet exploding demand for wireless services. Operations research tools– including optimization, simulation, and SAT-solvers – were essential to both the design and implementation of the auction. The auction was one of the most successful in the FCC’s history, repurposing 84 MHz of spectrum and generating revenue of nearly $20 billion, including more than $10 billion in new capital for the broadcast TV industry and over $7 billion to pay down the U.S. deficit.
 
 
