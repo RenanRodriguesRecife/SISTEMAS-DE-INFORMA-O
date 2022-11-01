@@ -208,6 +208,60 @@ Dados numéricos (ou quantitativos):
 
 <img src="../.assets/ibge.JPG">
 
+
+## Parâmetro e estatística (População e Amostra)
+
+A partir de uma amostra de n itens escolhidos de uma população, calcula-se
+  **estatísticas que podem ser utilizadas como estimativa de parâmetros encontrados na população.**
+  
+**parâmetros** (vide figura) – média populacional e proporção populacional;
+
+**estatística** (vide figura) – média amostral e proporção amostral;
+
+<img src="../.assets/paraStat.JPG">
+
+
+parâmetro:
+
+• Qualquer medida que descreve uma população inteira; 
+
+• Em geral, o valor assumido pelo parâmetro é desconhecido, uma vez que raramente se pode observar a população inteira.
+
+estatística: 
+
+• Qualquer medida calculada a partir de uma amostra;
+
+• Geralmente, é considerada um estimador de um parâmetro populacional.
+
+## População Alvo
+
+• É a população na qual se está interessado.
+
+Ex: Estimar a proporção de consumidores potenciais que comprariam um celular de R$1.550,00.
+
+A população alvo corresponde a todos os consumidores potenciais?
+
+Ou somente a consumidores do sexo feminino com mais de 23 anos?
+
+Ou apenas consumidores com renda mensal superior a R$5.500,00?
+
+Ao se responder estas questões, identifica-se a população alvo.
+
+## População Finita ou Infinita
+
+**População Finita** – quando apresenta um tamanho definido “N” ainda que desconhecido.
+
+Ex: o número de carros no estacionamento de um shopping center.
+
+**População Infinita – Uma população é tratada como infinita quando possui
+um tamanho arbitrariamente grande.
+Ex: Linhas de produção de comprimidos.
+Assim, amostras de processos de controle de qualidade com “n” itens
+geralmente são de populações efetivamente infinitas.
+Mas se a amostra é de um lote especificado e se deseja fazer inferências a
+respeito daquele lote, pode-se considerar o lote como uma população
+finita.
+
 ===============================
 
 Gráfico de barra - as variáveis nominais na vertical são colocados em relação ao tamanho do rótulo (quando você quer uma visão melhor delas)
