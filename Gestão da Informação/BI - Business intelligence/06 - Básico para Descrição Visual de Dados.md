@@ -52,7 +52,32 @@ De uma forma geral, são considerados duas categorias:
 
 <img src="../.assets/tipos de dados.JPG">
 
+### Dados por atributos:
 
+- Também conhecidos como categóricos, nominais ou qualitativos; 
+
+- Têm valores que são descritos por palavras em vez de números; 
+
+- Exemplo: 
+  – Estilo de automóvel (X=grande, médio, compacto, subcompacto)
+
+• Codificação dos dados:
+
+– Faz uso de números para representar categorias a fim de facilitar a análise estatística; 
+
+– Ex: banco de dados para classificação de filmes
+
+1=Ação; 2=Clássico; 3=Comédia; 4=Terror; 5=Outros
+
+- Codificar um atributo com um número não o torna um dado numérico
+
+• Dados binários:
+
+  – Uma variável binária assume apenas 2 valores, indicando **presença (1) ou ausência (0)** de uma característica de interesse;
+  
+  – Emprego: 1=Empregado; 0=Desempregado. 
+  
+  – Nesse caso, também a codificação não tem significado numérico de modo que variáveis binárias são dados por atributos.
 
 
 
