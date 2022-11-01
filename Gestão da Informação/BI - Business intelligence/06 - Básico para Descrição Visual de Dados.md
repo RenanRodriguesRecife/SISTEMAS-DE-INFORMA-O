@@ -204,9 +204,9 @@ Dados numéricos (ou quantitativos):
 • **Censo** – Envolve o exame de todos os itens de uma população definida.
 
 
-<img src=".assets/amosen.JPG">
+<img src="../.assets/amosen.JPG">
 
-<img src=".assets/ibge.JPG">
+<img src="../.assets/ibge.JPG">
 
 ===============================
 
