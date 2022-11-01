@@ -320,6 +320,8 @@ Exemplo problema de BI: Realocar passageiros
 
 <img src="../.assets/analytics.JPG">
 
+(BI é só uma parte do processo de analitics)
+
 ### Descriptive Analytics
 
 - Relatórios de (Descriptive) Analytics se referem ao conhecimento daquilo que está acontecendo na organização e entendimento de algumas tendências
