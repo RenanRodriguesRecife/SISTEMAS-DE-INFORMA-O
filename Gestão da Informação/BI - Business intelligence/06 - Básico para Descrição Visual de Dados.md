@@ -220,14 +220,13 @@ A partir de uma amostra de n itens escolhidos de uma população, calcula-se
 
 <img src="../.assets/paraStat.JPG">
 
-
-parâmetro:
+**parâmetro**:
 
 • Qualquer medida que descreve uma população inteira; 
 
 • Em geral, o valor assumido pelo parâmetro é desconhecido, uma vez que raramente se pode observar a população inteira.
 
-estatística: 
+**estatística**: 
 
 • Qualquer medida calculada a partir de uma amostra;
 
@@ -253,14 +252,156 @@ Ao se responder estas questões, identifica-se a população alvo.
 
 Ex: o número de carros no estacionamento de um shopping center.
 
-**População Infinita – Uma população é tratada como infinita quando possui
-um tamanho arbitrariamente grande.
-Ex: Linhas de produção de comprimidos.
-Assim, amostras de processos de controle de qualidade com “n” itens
-geralmente são de populações efetivamente infinitas.
-Mas se a amostra é de um lote especificado e se deseja fazer inferências a
-respeito daquele lote, pode-se considerar o lote como uma população
-finita.
+**População Infinita – Uma população é tratada como infinita quando possui um tamanho arbitrariamente grande.
+  Ex: Linhas de produção de comprimidos.
+
+Assim, amostras de processos de controle de qualidade com “n” itens geralmente são de populações efetivamente infinitas.
+
+Mas se a amostra é de um lote especificado e se deseja fazer inferências a respeito daquele lote, pode-se considerar o lote como uma população finita.
+
+**Regra Prática**
+
+Uma população pode ser tratada como infinita quando “N” é pelo menos 20 vezes o valor de “n”, ou seja, quando (N/n) >20.
+
+N – tamanho da População
+
+n – tamanho da amostra
+
+## Métodos de Amostragem
+
+- Verifica-se duas categorias principais de amostragem:
+
+- **Amostragem Probabalística - os itens são escolhidos aleatoriamente ou por um procedimento que envolve chance;
+  • Amostra aleatória simples; Amostra Sistemática; Amostra Estratificada; Amostra por Conglomerado.
+
+– Amostragem não-probabilística – Menos científica, no entanto, algumas vezes, é utilizada por conveniência. 
+  • Amostragem Intencional; Amostragem por Conveniência.
+
+
+### Amostra Aleatória Simples ( itens equiprováveis) 
+
+• Denota-se o tamanho da população por “N” e o tamanho da amostra por “n”; 
+
+• Todos os itens da população de “N” itens são equiprováveis, ou seja, têm a mesma possibilidade de serem escolhidos na amostra de “n” itens; 
+
+• Amostragem com reposição;
+
+• Amostragem sem reposição;
+
+### Amostra Aleatória Simples
+
+• Amostragem com reposição 
+  – Analogia a uma urna: Se devolvermos à urna cada ficha e misturarmos as fichas antes da próxima retirada, um mesmo item poderá ser retirado novamente. 
+  
+• Amostragem sem reposição
+
+### Amostra Sistemática
+
+• Aqui escolhe-se os itens de “k” em “k”, isto é, escolher o todo k-ésimo item da lista, iniciando-se de um ponto escolhido aleatoriamente entre os primeiros k itens da lista; 
+
+• Exemplo: como amostrar todo quarto item, iniciando-se do segundo item , resultando em uma amostra de n=20 itens de uma lista de N=78.
+
+<img src="../.assets/amostSist">
+
+• Exemplos:
+
+– processos de produção (ex: testando toda a milésima lâmpada produzida) ou; 
+– pesquisa eleitoral (ex: entrevistando de 8 em 8 votantes que saem do local de votação).
+
+A Amostragem Sistemática pode ser aplicada para populações infinitas. É também adequada para populações que são organizadas fisicamente de forma linear.
+
+(ex: verificando 1 de cada 10 pastas de clientes em gavetas de arquivos ordenados alfabeticamente)
+
+## Amostra Estratificada
+
+• Algumas vezes se pode melhorar a eficiência da amostra utilizando **informações disponíveis a priori** sobre a população. 
+
+• Este método se aplica quando é possível dividir a população em **subgrupos relativamente homogêneos de tamanhos conhecidos** (denominados estratos) 
+
+  - Ex: ocupação, raça e sexo
+
+## Amostra por Conglomerados
+
+• São essencialmente estratos consistindo em regiões geográficas;
+
+• Ex: Divide-se uma região (uma cidade) em sub-regiões (quarteirões, distritos escolares); 
+
+• Numa amostragem por conglomerados **em um estágio**, a amostra consiste em **todos os elementos** em cada uma das “k” sub-regiões (ou conglomerados) escolhidas de modo aleatório; 
+
+• Numa amostragem por conglomerados **em dois estágios**, inicialmente faz-se a seleção de “k” sub-regiões (conglomerados) aleatoriamente e então **escolhe-se uma amostra aleatória de elementos dentro de cada conglomerado**.
+
+Ilustração de como 4 elementos podem ser amostrados de cada um dos 3 conglomerados escolhidos aleatoriamente usando-se uma amostragem por conglomerados em dois estágios
+
+<img scr="../.assets/conglo.JPG">
+
+- Redução de custos - Uma vez que os elementos dentro de um conglomerado estão próximos, o tempo de deslocamento e os gastos com entrevistadores são mantidos em um mínimo.
+
+## Amostra Intencional
+
+• Método de amostragem não-probabilístico. 
+
+• Depende da experiência do “amostrador” para definir que itens são representativos da população. 
+
+• Ex: estimativa de gasto de uma empresa com P&D: pode-se solicitar a um especialista da área que selecione diversas empresas "típicas".
+
+• Vicios associados aos especialistas
+
+• Não se pode ter certez que a amostra é aleatória
+
+## Amostra por Conveniência
+
+• Única vantagem é a rapidez; 
+
+• A ideia é **considerar qualquer amostra que estiver à mão**; 
+
+• Disponibiliza uma resposta imediata, apesar de imperfeita. 
+
+• Ex: 
+
+– Um jornalista, preparando matéria sobre a segurança em aeroportos, pode entrevistar colegas que viajam com frequência. 
+
+– Uma empresa que precisa gerenciar uma crise (Suprimento, Qualidade, Serviço) 
+
+– Desenvolvimento de Novos Produtos
+
+### Tamanho da Amostra
+
+• Depende da variabilidade inerente à quantidade que é medida e da precisão desejada da estimativa;
+
+• São levados em conta para a definição do tamanho da amostra:
+
+  - Os objetivos da investigação
+
+  - Os custos de amostragem,
+
+  - A verba disponível e;
+
+  - As restrições de tempo.
+
+
+# Descrição Visual de dados
+
+## Descrição Visual
+
+- Organizar, explorar e resumir dados de forma sucinta;
+
+- Método Visual - Diagramas e Gráficos;
+
+- Método Numérico - Medidas estatísticas ou tabelas;
+
+- Como um recurso visual pode fornecer meios de discernir características dos dados sem usar a matemática?
+
+### Índices de preço/rentabilidade (P/R)
+
+- preço atual no mercado dividido pela rentabilidade da ação nos últimos 12 meses;
+
+- Mostram quanto um investidos está disposto a pegar por uma ação baseado na sua rentabilidade
+
+- Indice P/R para uma amostra aleatória de 30 empresas dentre 500
+
+<img src="../.assets/indicPreRen">
+
+(24/52)
 
 ===============================
 
