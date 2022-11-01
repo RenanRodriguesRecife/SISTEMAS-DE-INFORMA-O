@@ -394,7 +394,6 @@ Prêmio Edelman Award
 
 - Os trabalhos finalistas são publicados na Interfaces / Journal of Applied Analytics
 
-->> (1:06:00)
 
 Os projetos finalistas desta competição já alcançaram retorno financeiro de mais de 250 bilhões de dólares! 
 – https://www.informs.org/Resource-Center/Video-Library/Edelman-Competition-Videos
@@ -411,6 +410,8 @@ Os projetos finalistas desta competição já alcançaram retorno financeiro de 
 
 • Turner has designed and implemented innovative and integrated forecasting and optimization models that power audience targeting solutions disrupting decades-old paradigms and business processes in the media industry, and producing significant sales and advertisement efficiencies for Turner and its clients. Turner is on track to sell 50 percent of its inventory through audience targeting by 2020, representing billions in ad revenue.
 
+(uma empresa de TV a cabo repensando tudo que tem sobre propaganda para competir com as redes sociais)
+
 • 2018 Edelman Finalist Intel 
 
 – https://www.youtube.com/watch?v=gdIESpRi00k
@@ -418,6 +419,7 @@ Os projetos finalistas desta competição já alcançaram retorno financeiro de 
 • Analytics Makes Inventory Planning A Lights-Out Activity at Intel Corporation Intel, which employs more than 100,000 people in over 70 countries around the world and has an annual revenue of $60 billion, implemented a fully automated Multi-Echelon Inventory Optimization (MEIO) based inventory target-setting system managing $1 billion daily in finished goods inventory representing over $40B a year in sales. Algorithm-derived inventory targets at Intel are accepted by planners +99.5 percent of the time and have simultaneously driven higher customer service and lower inventory levels resulting in over $1.3B in gross profit since 2014.
 In addition, customers are delighted: since MEIO was implemented at all of Intel’s vendor managed inventory hubs in 2012, customer satisfaction has never been higher and Intel has landed in the top-10 of Gartner’s Supply Chain Top-25 every year. Faculty in the department of Business Analytics and Statistics at the University of Tennessee, Knoxville and the supply chain software company Logility also contributed to this project.
 
+(como a Intel se manteve lider até 2019 no mercado de notebook prontos - associado a dinamica de fornecimento de mercado)
 
 2018 Edelman Finalist Europcar 
 
