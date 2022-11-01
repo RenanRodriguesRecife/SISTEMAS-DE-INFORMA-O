@@ -172,8 +172,41 @@ Dados numéricos (ou quantitativos):
 
 ### Escala de Razão
 
-(11/52)
+• Definida como a escala mais forte de mensuração; 
 
+• Dados de razão – Apresentam todas as propriedades dos outros 3 tipos de dados; 
+
+• O valor zero representa a ausência de quantidade que está sendo medida (ou seja, é a origem significativa); 
+
+• Desta forma R$40,00 é o dobro de R$20,00. • Neste tipo de escala, o zero é um ponto de referência absoluto.
+
+## Séries de Tempo x Dados Transversais
+
+### Dados de séries temporais
+
+• Ocorre quando **cada observação** na amostra representa **um ponto no tempo igualmente espaçado** (anos, meses, dias). A periodicidade é o tempo entre as observações. 
+
+• **Em séries temporais o interesse está associado a tendências e padrões ao longo do tempo.**
+
+• Ex: crescimento anual do uso de cartões de débito de 2014 a 2016.
+
+### Dados transversais
+
+• Ocorre quando cada observação representa uma **unidade individual diferente** (ex: uma pessoa, uma empresa, uma área geográfica), em um mesmo instante de tempo. 
+
+• **Número de fatalidades** em acidentes de trânsito nos **50 estados** dos EUA para **dado ano**;
+
+
+## Amostra ou Censo?
+
+• **Amostra** - Envolve analisar apenas alguns itens selecionados da população. 
+
+• **Censo** – Envolve o exame de todos os itens de uma população definida.
+
+
+<img src=".assets/amosen.JPG">
+
+<img src=".assets/ibge.JPG">
 
 ===============================
 
