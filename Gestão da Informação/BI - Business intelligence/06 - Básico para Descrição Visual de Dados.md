@@ -79,6 +79,100 @@ De uma forma geral, são considerados duas categorias:
   
   – Nesse caso, também a codificação não tem significado numérico de modo que variáveis binárias são dados por atributos.
 
+Dados numéricos (ou quantitativos):
+
+• Provêm de contagem, mensuração de algo ou algum tipo de operação matemática; 
+
+• Dados discretos:
+  
+  – Variável discreta - assume um número contável de possíveis valores e cujos valores podem ser representados por um número inteiro. 
+
+  – Ex: Número de decolagens no aeroporto de Recife, em dada hora (X=20)
+
+• Dados contínuos: 
+
+– Uma variável numérica é denominada contínua quando assume qualquer valor em um intervalo. 
+
+– Ex: medidas físicas (tempo, velocidade,...) e variáveis financeiras (preço, rentabilidade, juros,...) 
+
+– Peso de um pacote de maças = X = 430,7g
+
+### 4 escalas de medida para os dados: 
+
+• Escala Nominal 
+
+• Escala Ordinal 
+
+• Escala Intervalar 
+
+• Escala de Razão
+
+### Escala Nominal
+
+• Escala mais simples e mais fácil de ser reconhecida; 
+
+• Dados nominais – também conhecidos como qualitativo, por atributo, categóricos ou dados de classificação; 
+
+• Estes tipos de dados **simplesmente identificam uma categoria;** 
+
+• Exemplo: Cor de olho – azul, verde, castanho, preto.
+
+• Dados nominais podem ser **codificados** para a forma numérica; 
+
+• Que marca de notebook vc possui?
+
+  1. ACER
+
+  2. Apple
+
+  3. Positivo
+
+  4. Dell
+
+  5. Gateway
+
+  6. HP
+
+  7. Lenovo
+
+  8. CCE
+
+  9. Toshiba
+
+• Estes códigos são arbitrários e sem **nenhum significado numérico**; 
+
+• Não se deve realizar análises matemáticas para esses dados; 
+
+• Únicas **operações matemáticas permitidas** são contagens (ex:freqüências) e algumas poucas estatísticas simples como a moda.
+
+### Escala Ordinal
+
+• Dados ordinais pressupõem a **possibilidade de ordenação** de valores; 
+
+• Ex: Com que frequência vc usa o Microsoft Excel?
+  1. Frequentemente 2.Algumas vezes 3.Raramente 4.Nunca
+  
+• Especificamente,  **não existe significado claro para a distância** 1 e 2, ou 3 e 4. Qual a distância entre Raramente e nunca?; 
+
+•  **Dados ordinais podem ser tratados como nominais, mas o inverso não é correto.**
+
+### Escala Intervalar
+
+• Dados intervalares – Não apenas são ordenáveis mas também os intervalos entre pontos da escala têm significado;
+
+• Ex: escala de temperatura Celsius ou Fahrenheit. O intervalo entre 60o F e 70o Fé o mesmo intervalo entre 20o F e 30o F. 
+
+• Uma vez que os intervalos entre os números significam distâncias, pode-se realizar operações matemáticas como o cálculo da média.
+
+• Entretanto, uma vez que o **valor zero ( a origem da escala)** dessas **escalas é arbitrário**, não se pode afirmar que 60o F é duas vezes mais quente que 30o F.
+
+• **Ou seja, razões não fazem sentido para dados intervalares.**
+
+• **A ausência de um zero significativo é uma característica-chave de dados intervalares.**
+
+### Escala de Razão
+
+(11/52)
 
 
 ===============================
