@@ -50,7 +50,7 @@ De uma forma geral, são considerados duas categorias:
 
 – Dados numéricos (quantitativos).
 
-<img src="../.assets/tipos de dados.JPG">
+<img src="../.assets/tipo de dados.JPG">
 
 ### Dados por atributos:
 
