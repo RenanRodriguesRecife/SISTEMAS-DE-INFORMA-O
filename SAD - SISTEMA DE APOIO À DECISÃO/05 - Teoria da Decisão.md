@@ -9,8 +9,9 @@
 
 (Dominância estocástica - buscar soluções melhores mesmo considerando que você vai ter distribuições de probabilidade)
 
-**O que estuda a Teoria da Decisão ou Análise de Decisão?**
+- Garantia da racionalidade na tomada de decisão
 
+**Por que estuda a Teoria da Decisão ou Análise de Decisão?**
 
   – Conceito de Decisão
   
@@ -18,11 +19,11 @@
     
     - “Escolha entre duas ou mais alternativas que envolve obrigatoriamente a alocação de recursos” (Howard e Abbas, 2015)
 
-   – Pergunta: O que fazer?
+  – Pergunta: O que fazer?
     
-      - Decidir constitui um problema de otimização (tem que maximizar algum resultado)
+    - Decidir constitui um problema de otimização (tem que maximizar algum resultado)
     
-        - Por que?
+       - Por que?
         
         
 A análise de decisão ou “teoria da decisão” estuda o problema de como decidir sobre o que se deve fazer quando é incerto o que pode acontecer.
@@ -35,7 +36,7 @@ E, segundo esta teoria, **<u>uma boa decisão deverá ser uma função lógica d
 
 • **O que se quer** diz respeito às **preferências** que se tem pelas possíveis consequências das decisões, que podem ser incertas ou distribuídas no tempo
 
-• **O que se sabe** é o conhecimento dos elementos do problema e a relação entre eles, a informação referente ao processo de decisão; percepção das circunstâncias e regras que regem o processo
+• **O que se sabe** é o conhecimento dos elementos do problema e a relação entre eles, a informação referente ao processo de decisão; percepção das circunstâncias e regras que regem o processo (As informações que estão disponíveis)
 
 • **O que se pode fazer** são as alternativas de ação disponíveis, as quais geralmente requerem criatividade para serem encontradas 
 
@@ -44,9 +45,9 @@ E, segundo esta teoria, **<u>uma boa decisão deverá ser uma função lógica d
 O decisor deve escolher uma ação ou conjunto de ações que possuam as consequências mais desejáveis possíveis para o decisor
 
 ```
-Filme (Os agente do destino - com matt damon e Emily Blunt)(mostra o conceito de arvore de decisão de uma forma ilustrada)
+Filme (Os agente do destino - com matt damon e Emily Blunt)(mostra o conceito de arvore de decisão de uma forma ilustrada)(mostra as conseguencias que se pode ter e as chances de tal coisa acontecer)
 
-Livro - Thinking fast...Slow - Daniel Kahneman - (teoria dos prospectos - onde toma decisões em situações específicas que pode violar axiomas e condições de racionalidade)
+Livro - Thinking fast...Slow - Daniel Kahneman - (teoria dos prospectos - onde toma decisões em situações específicas que pode violar axiomas e condições de racionalidade)(o que acontece quando não age como o medelo previu)
 
 Livro - Customers are busy, lazy and often confused, they are surprisingly likely to take whatever option is made the default. - Richard thaler - (verificou algumas condições de racionalidades - o que acontece quando não se age da forma que o modelo previo) 
 
@@ -56,6 +57,8 @@ Livro - Customers are busy, lazy and often confused, they are surprisingly likel
 
 – As bases da teoria da utilidade
 ```
+
+## Evolução do Conceito de Teoria da Decisão
 
 - 1950: Primeiros estudos da Teoria Estatística da Decisão
 
@@ -73,9 +76,9 @@ Livro - Customers are busy, lazy and often confused, they are surprisingly likel
 
   - Raciocinam em termos de ganhos ou utilidades
 
-– Não há diferença em termos práticos entre as duas abordagens, dado que um conceito é simplesmente o negativo do outro
+– Não há diferença em termos práticos entre as duas abordagens, dado que um conceito é simplesmente o negativo do outro (uma abordagem é sobre perda e a outra sobre ganhos)
 
-##### Decisão sob Incerteza
+### Decisão sob Incerteza
 
 - Quando o decisor não consegue estimar a probabilidade de ocorrência dos cenários, por conseguinte, não pode avaliar o risco da decisão adotada
 
@@ -83,7 +86,7 @@ Exemplo:
 
   – O engenheiro encarregado pela construção de uma planta industrial na região norte do Brasil, não consegue estimar a probabilidade que a estação chuvosa interrompa o fornecimento de suprimentos para o canteiro de obras
 
-##### Decisão sob Risco
+### Decisão sob Risco
 
 - Quando o decisor conhece a probabilidade de ocorrência dos cenários, por conseguinte, pode avaliar o risco associado a decisão adotada
 
@@ -92,7 +95,7 @@ Exemplo:
   – O engenheiro encarregado pela construção de uma planta industrial na região norte do Brasil, não tem plena convicção de que a estação chuvosa vai interromper o fornecimento de suprimentos para o canteiro de obras da planta sob a sua supervisão. No entanto, ele consegue associar uma estimativa de probabilidade a este cenário
   
   
-##### Principais características das decisões 
+### Principais características das decisões 
 
 – **Sequencialidade**
   
@@ -108,7 +111,7 @@ Exemplo:
 
 – **Institucionalidade**
 
-  - A decisão é conformada pela cultura e estrutura organizacional
+  - A decisão é conformada pela cultura e estrutura organizacional (decisão adaptada para a cultura organizacional)
   
   
 - A teoria da decisão **não** surge como uma teoria que tenta descrever ou explicar o comportamento das pessoas (ou instituições) ou como elas tomam suas decisões
@@ -125,7 +128,9 @@ Exemplo:
   
   
 
-##### Decisão X Consequência
+### Decisão X Consequência
+
+Qualidade do Processo Decisório e a Qualidade de uma Consequência
 
 <img src=".assets/decxquali.JPG">
 
@@ -137,24 +142,24 @@ Exemplo:
 
 - O mais importante é perceber a diferença entre a qualidade de uma decisão e a qualidade de uma consequência
 
-(Mas se você tiver um processo decisório de qualidade, significa que na maior parte das vezes a gente vai ter uma boa consequencia).
+(Mas se você tiver um processo decisório de qualidade, significa que na maior parte das vezes a gente vai ter uma boa consequencia - você está eliminando as decisões que tem mais chances de levar a uma consequencia ruim).
 
 A decisão é o que está no seu controle.
 
 <img src=".assets/eleBoaDeci.JPG">
 
-- “A utilidade diz respeito àquilo que o se quer”
+- “A **utilidade** diz respeito àquilo que o se quer” (O nível de desajabilidade que aquela consequencia tem)
 
   – Concentra-se nas preferências que o decisor tem em relação às consequências possíveis de uma ação.
 
-- Objetivo: Desenvolver um modelo matemático que permita representar a desejabilidade do decisor pelos bens que poderá obter.
+- **Objetivo**: Desenvolver um modelo matemático que permita representar a desejabilidade do decisor pelos bens que poderá obter.
 
   – A ideia básica da teoria da utilidade é quantificar essa desejabilidade, associando aos bens um valor que represente um critério de escolha por parte do decisor.
   
   
 - Ideia constante na história: elaborar uma escala que representasse a preferência do decisor com respeito a uma lista de bens ou objetos.
 
-- Escala útil para desenvolvimento de teorias econômicas e de comportamento. (usada em muitos modelos economicos para mensurar e antecipar muitos comportamentos)
+- **Escala útil** para desenvolvimento de teorias econômicas e de comportamento. (usada em muitos modelos economicos para mensurar e antecipar muitos comportamentos)
 
 - Várias contribuições foram dadas na literatura quanto a este tópico.
 
@@ -162,7 +167,6 @@ A decisão é o que está no seu controle.
 
   – Bernoulli, 1738, abordou o problema do uso da utilidade como o valor que um indivíduo atribui a um bem, considerando que o preço de um item é igual para todos, mas a utilidade depende das circunstâncias. Assim, um ganho de R$1.000,00 tem uma representatividade para um homem rico, diferente da que tem para um homem pobre. (determinados trabalhos alguns pessoas aceitam a fazer por determinado valor outros já não aceitam pois a utilidade para o tempo deles tem um valor específico)
   
-
 - Breve Histórico:
 
   – Bentham (1789) explicou detalhadamente princípio da Utilidade e elaborou o “Cálculo Felicífico”, onde ele falou de princípios morais e éticos.
@@ -197,9 +201,9 @@ Breve Histórico:
   
  
 
-##### A teoria de von Neumann e Morgenstern
+### A teoria de von Neumann e Morgenstern
 
-- Quando alguém diz que é mais racional preferir um coisa à outra, esse alguém deve ter um problema em mente (que foi estruturado)
+- Quando alguém diz que é mais racional preferir um coisa à outra, esse alguém deve ter um problema em mente (o problema já foi estruturado)
 
   – O indivíduo quer uma resposta à uma questão
   
@@ -228,7 +232,9 @@ Breve Histórico:
 
 - É preciso estabelecer uma estrutura conceitual para lidar com o problema de preferências, pois não existe uma fórmula matemática que seja utilizada para obter uma resposta única no que tange às relações de preferência.
 
-###### Restrições de Racionalidade
+(30:00)
+
+#### Restrições de Racionalidade
 
 - O que é preciso fazer é impor algumas restrições: **restrições de racionalidade**.
 
