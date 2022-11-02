@@ -377,3 +377,31 @@ forma clara e sem distrações, de uma maneira que possa ser assimilada rapidame
 
 ## Sistemas de Medição de Desempenho
 
+• Balanced Scorecard (BSC) 
+
+• Uma metodologia de medição e gerenciamento de desempenho que ajuda a traduzir os objetivos e metas financeiros, de clientes, de processos internos e de aprendizado e crescimento de uma organização em um conjunto de iniciativas acionáveis
+
+• “The Balanced Scorecard: Measures that drive performance“ (HBR, 1992)
+
+## Balanced Scorecard
+
+<img src="../.assets/balanceamento.JPG">
+
+## Six Sigma como um sistema de medição de desempenho
+
+**Six Sigma**
+
+• Uma metodologia de gerenciamento de desempenho que visa reduzir o número de defeitos em um processo de negócios para o mais próximo possível de zero defeitos por milhão de oportunidades (DPMO)
+
+• O modelo de desempenho DMAIC 
+
+– Um modelo de melhoria de negócios em circuito fechado que abrange as etapas de **definição, medição, análise, melhoria (improving) e controle** de um processo
+
+• Lean Six Sigma
+
+– Fabricação enxuta / produção enxuta
+- Produção enxuta versus seis sigma?
+
+## Comparação entre Balanced Scorecard e Six Sigma
+
+<img src="../.assets/BalancedSixSigma.JPG">
