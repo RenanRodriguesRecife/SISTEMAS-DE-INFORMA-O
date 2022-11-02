@@ -315,7 +315,7 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P (logo são identicos)
 
 - A unidade de medida é o **utile**.
 
-- A escala de medida é a intervalar, ou seja, importam as diferenças entre as utilidades, e não o valor absoluto.
+- A escala de medida é a intervalar, ou seja, importam as diferenças entre as utilidades, e não o valor absoluto. (Ex: Apesar de você medir em Celsius, Kelvin e Fahrenheit o significado da temperatura em uma escala é a mesma na outra)
 
 - A função utilidade é cotada, o que permite a resolução do paradoxo de São Petersburgo.
 
