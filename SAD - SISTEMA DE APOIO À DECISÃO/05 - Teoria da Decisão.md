@@ -234,8 +234,6 @@ Breve Histórico:
 
 - O que é preciso fazer é impor algumas restrições: **restrições de racionalidade**.
 
-(30:00)
-
 #### Restrições de Racionalidade
 
 - Uma pessoa pode preferir laranjas a bananas e outra bananas a maçãs, sem que exista qualquer problema nestas afirmações.
@@ -254,7 +252,7 @@ Breve Histórico:
 
 #### Relações de Preferência
 
-  – Será definida uma relação de preferência ≿ entre os elementos de P∗ 
+  – Será definida uma relação de preferência ≿ entre os elementos de P∗ (≿ Esse símbolo não é um simbolo de maior que, ele é um símbolo de mais preferível ou preferível quanto)
   
   obs: Esse síbolo (≿) não é um simples sinal de maior que - ele é significa "mais preferível ou preferível quanto")
   
@@ -268,7 +266,7 @@ Definição 1: Para todo P, Q ∈ P∗,
 
 Definição 2: P ≻ Q se P ≿ Q e falso que P ≾ Q
 
-Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
+Definição 3: P ∼ Q se P ≿ Q e Q ≿ P (logo são identicos)
 
 
 
@@ -291,7 +289,7 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P
 
   - Então, existe o primeiro elemento da ordem
 
-  - A ordem pode ser total ou parcial
+  - A ordem pode ser total ou parcial (total - o mais grave vem primeiro e depois o menos grave)
   
     – Um conjunto de pacientes pode ser ordenado em função do risco cardiovascular, sendo o mais grave o primeiro da ordem, ou vice-versa, dependendo de como essa ordem vai ser usada em processos decisórios;
     
