@@ -160,5 +160,50 @@ Imdiscutivelmente o gráfico multidimensional mais popular
 
 • Qual usar? Quando e onde?
 
-(8/23)
+- Gráfico e Diagramas Básicos
+  - Gráfico de linha
+  - Gráfico de barras
+  - Gráfico de pizza
+  - Gráfico de Dispersão
+  - Gráfico de bolhas
+  
+- Gráficos e Diagramas Especializados
+  - Histograma
+  - Gráfico de Gantt
+  - Gráfico PERT
+  - Mapa geográfico
+  - Bullet Graph
+  - Mapa de Calor / Mapa de Árvore
+  - Tabela de destaque
+  
+<img src="../.assets/Tiposgraficos.JPG">
+
+Ex: Um mapa da riqueza e saúde das nações
+
+<img src="../.assets/requeza.JPG">
+
+## O surgimento da visualização de dados e da análise visual
+
+- Quadrante Mágico para Business Intelligence e Plataformas de Análise (Fonte:Gartner.com)
+
+  - Muitas empresas de visualização de dados estão no 4 quadrante
+  
+  - Há um movimento em direção à visualização 
+  
+<img src="../.assets/quad2013.JPG">
+
+<img src="../.assets/quad2016.JPG">
+  
+- Surgimento de novas empresas  
+  - Tableau, Spotfire, QlikView,...
+  
+• Maior foco pelos grandes jogadores 
+  – MicroStrategy melhorou o Visual Insight 
+  – SAP lançou o Visual Intelligence 
+  – SAS lançou o Visual Analytics 
+  – A Microsoft reforçou o PowerPivot com o Power View
+  – A IBM lançou o Cognos Insight
+  - Oracle adquiriu o Endeca
+  
+## Visual Anaytics
 
