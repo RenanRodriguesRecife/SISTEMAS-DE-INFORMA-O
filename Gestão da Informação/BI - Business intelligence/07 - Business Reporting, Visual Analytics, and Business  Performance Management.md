@@ -57,3 +57,21 @@
 ## Business Reporting
 
 <img src="../.assets/BusinessReport.JPG">
+
+## Chave para qualquer relatório bem sucessivo
+
+- Clareza...
+
+- Brevidade...
+
+- Completude...
+
+- Correção...
+
+• Tipos de relatório (em termos de conteúdo e formato)
+
+  - Informal - uma única carta ou memorando
+
+  - Formal - 10 a 100 páginas; capa + resumo + texto
+
+  - Relatório breve - periódico, informativo, investigativo
