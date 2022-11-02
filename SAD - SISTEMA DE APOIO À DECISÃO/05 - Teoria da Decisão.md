@@ -297,6 +297,8 @@ Definição 3: P ∼ Q se P ≿ Q e Q ≿ P (logo são identicos)
     
     - ...
 
+(48:00)
+
 <img src=".assets/conceitoOrdem.jpg">
 
 <img src=".assets/axio12.jpg">
