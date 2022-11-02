@@ -239,4 +239,141 @@ ferramenta
 
 <img src="../.assets/painelDesempenho.JPG">
 
-(13/23)
+• Design do Painel
+  – O desafio fundamental do design do painel é exibir todas as informações necessárias em uma única tela, de
+forma clara e sem distrações, de uma maneira que possa ser assimilada rapidamente
+
+• Três camadas de informação
+  - Monitoramento
+  - Análise
+  - Gestão
+
+<img src="../.assets/aplicationCase.JPG">
+
+• O que procurar em um painel 
+
+– Uso de componentes visuais para destacar dados e exceções que requerem ação 
+– Que seja transparente para o usuário, o que significa que ele requer treinamento mínimo e é extremamente fácil de usar 
+– Que combine dados de uma variedade de sistemas em uma visão única, resumida e unificada dos negócios
+- Que habilite drill down ou drill through para fontes ou relatórios de dados subjacentes
+- Que apresente uma visão dinâmica e do mundo real com dados oportunos
+- Que exija pouca codificação para implementar/implantar/manter
+
+## Melhores práticas em Design de Painéis
+
+• Utilizar Benchmark KPIs com padrões do setor 
+• Agrupar métricas com metadados contextuais
+• Validar o design com um especialista em usabilidade
+• Priorizar e classificar alertas e exceções
+• Enriquecer o painel com comentários de usuários comerciais
+• Apresentar informações em três níveis diferentes
+• Escolher as construções visuais certas
+• Fornecer análises guiadas
+
+## Business Performance Management (BPM)
+
+• O Business Performance Management (BPM) é...
+
+– Um sistema em tempo real que alerta os gerentes sobre oportunidades em potencial, problemas e ameaças iminentes e os capacita a reagir por meio de modelos e colaboração. 
+
+• Também chamado de Corporate Performance Management (CPM da Gartner Group), Enterprise Performance Management (EPM da Oracle), Strategic Enterprise Management (SEM da SAP)
+
+• BPM refere-se aos processos, metodologias, métricas e tecnologias de negócios usados pelas empresas para medir, monitorar e gerenciar o desempenho dos negócios. 
+
+• O BPM abrange três componentes principais 
+
+– Um conjunto de processos integrados (e de circuito fechado) de gerenciamento e análise, suportados pela tecnologia...
+– Ferramentas para as empresas definirem objetivos estratégicos e depois medirem/gerenciarem o desempenho em relação a eles 
+– Métodos e ferramentas para monitorar os principais indicadores de desempenho (KPIs), vinculados à estratégia organizacional
+
+## Um processo de circuito fechado para otimizar o desempenho dos negócios
+
+<img src="../.assets/procCircu.JPG">
+
+- Etapas do processo
+  - Definir Estratégia
+  - Planejar
+  - Monitorar/analisar
+  - Atuar/ajustar
+
+- Cada um com suas próprias etapas do processo
+
+## Estratégia: Para onde queremos ir?
+
+**Planejamento estratégico**
+
+• Tarefas comuns para o processo de planejamento estratégico:
+1. Realizar uma análise da situação atual
+2. Determinar o horizonte de planejamento
+3. Realizar uma verificação do ambiente
+4. Identificar fatores críticos de sucesso
+5. Concluir uma análise de lacunas
+6. Criar uma visão estratégica
+7. Desenvolver uma estratégia de negócios
+8. Identificar objetivos e metas estratégicas
+
+
+## Planejar: Como chegaremos até lá?
+
+**Planejamento operacional**
+
+• Plano operacional: plano que traduz os objetivos e metas estratégicas de uma organização em um conjunto de táticas e iniciativas bem definidas, requisitos de recursos e resultados esperados para algum período futuro (geralmente um ano). 
+
+• O planejamento operacional pode ser 
+  – Centrado na tática (focado operacionalmente) 
+  – Plano centrado no orçamento (focado financeiramente)
+  
+## Monitorar/analisar: como estamos indo?
+
+**Uma estrutura abrangente para monitorar o desempenho deve abordar duas questões principais:**
+
+- O que monitorar?
+  - Fatores críticos de sucesso
+  - Objetivos e metas estratégicas
+
+- Como monitorar?
+
+## Agir e ajustar: O que precisamos fazer de maneira diferente?
+
+• O sucesso (ou mera sobrevivência) depende de novos projetos: criação de novos produtos, entrada em novos mercados, aquisição de novos clientes (ou negócios) ou racionalização de alguns processos. 
+
+• Muitos novos projetos e empreendimentos fracassam! 
+
+• Qual é a chance de falhar? 
+  – 60% dos filmes de Hollywood falham
+  – 70% dos grandes projetos de TI falham,...
+
+## Medição de Desempenho
+
+**Sistema de medição de desempenho**
+
+• Um sistema que auxilia os gerentes a rastrear as implementações da estratégia de negócios, comparando os resultados reais com as metas e objetivos estratégicos 
+
+– Compreende métodos comparativos sistemáticos que indicam progresso (ou falta dele) em relação às metas
+
+## KPIs e métricas operacionais
+
+**Key Performance Indicator (KPI)** 
+• Um KPI representa um objetivo estratégico e métricas que medem o desempenho em relação a uma meta
+
+• Diferenciando recursos de KPIs:
+  - Estratégia
+  - Metas
+  - Ranges
+  - Codificações
+  - Prazos
+  - Benchmarks
+
+
+**Key Performance Indicator (KPI)** 
+
+• **KPIs de resultado** vs. **KPIs de direcionamento**
+
+• Áreas operacionais cobertas por KPIs de direcionamento 
+  – Desempenho do cliente 
+  – Desempenho do serviço 
+  – Operações de vendas 
+  – Plano/previsão de vendas
+
+## Sistemas de Medição de Desempenho
+
