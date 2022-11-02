@@ -207,3 +207,36 @@ Ex: Um mapa da riqueza e saúde das nações
   
 ## Visual Anaytics
 
+• Um termo recentemente cunhado 
+  – Visualização de informações + análise preditiva
+  
+• Visualização de informação 
+  – Descritivo, voltado para trás 
+  – "O que aconteceu" "o que está acontecendo"
+  
+• Análise preditiva 
+  – Preditivo, focado no futuro 
+  – "O que vai acontecer" "por que isso vai acontecer"
+  
+• Há uma forte mudança em direção à análise visual
+
+## Visual Anaytics do SAS institute
+
+<img src="../.assets/sas.JPG">
+
+• SAS Visual Analytics Architecture – Big data + In memory + Massively parallel processing + ..
+
+• Em teradatauniversitynetwork.com, você pode aprender mais sobre o SAS VA, experimentar a
+ferramenta
+
+<img src="../.assets/SASInst.JPG">
+
+## Painéis (Dashboards) de Desempenho
+
+• Os painéis de desempenho são comumente usados em grupos de software BPM e plataformas de BI 
+
+• Os painéis fornecem exibições visuais de informações importantes que são consolidadas e organizadas em uma única tela, para que as informações possam ser digeridas de uma só vez e facilmente perfuradas e exploradas
+
+<img src="../.assets/painelDesempenho.JPG">
+
+(13/23)
