@@ -232,11 +232,11 @@ Breve Histórico:
 
 - É preciso estabelecer uma estrutura conceitual para lidar com o problema de preferências, pois não existe uma fórmula matemática que seja utilizada para obter uma resposta única no que tange às relações de preferência.
 
+- O que é preciso fazer é impor algumas restrições: **restrições de racionalidade**.
+
 (30:00)
 
 #### Restrições de Racionalidade
-
-- O que é preciso fazer é impor algumas restrições: **restrições de racionalidade**.
 
 - Uma pessoa pode preferir laranjas a bananas e outra bananas a maçãs, sem que exista qualquer problema nestas afirmações.
 
