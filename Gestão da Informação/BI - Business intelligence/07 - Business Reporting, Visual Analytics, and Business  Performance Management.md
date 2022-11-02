@@ -17,3 +17,43 @@
 • Aprender a metodologia BPM de circuito fechado
 
 • Descrever os elementos básicos dos balanced scorecards
+
+==================
+
+# Definições e Conceitos
+
+• Relatório = Informação -> Decisão
+
+• Relatório? 
+
+  – Qualquer artefato de comunicação preparado para transmitir informações específicas
+  
+• Um relatório pode cumprir muitas funções:
+
+– Garantir o funcionamento departamental adequado 
+
+– Fornecer informações 
+
+– Fornecer os resultados de uma análise 
+
+– Persuadir os outros a agirem
+
+– Criar uma memória organizacional
+
+## O que é um relatório empresarial?
+
+• Um documento escrito que contém informações sobre assuntos empresariais. 
+
+• **Objetivo:** melhorar as decisões gerenciais
+
+• **Fonte:** dados de dentro e de fora da organização (através do uso de ETL) 
+
+• **Formato:** texto + tabelas + gráficos
+
+• **Distribuição:** impressa, e-mail, portal/intranet 
+
+• Aquisição de dados -> geração de informações -> Tomada de decisão -> Gerenciamento de processos
+
+## Business Reporting
+
+<img src="../.assets/BusinessReport.JPG">
