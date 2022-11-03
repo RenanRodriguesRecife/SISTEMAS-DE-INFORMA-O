@@ -84,6 +84,9 @@ PO - Pesquisa Operacional
 
 
 
+ALgumas ferramentas
 
+- Tableau
+- Power bi
 
 
