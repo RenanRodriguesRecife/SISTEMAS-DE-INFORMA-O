@@ -30,8 +30,31 @@ Como lidar com isso?
 
 ### O que é gerenciamento?
 
-## 03 
+# 03 - Informação Competitiva
 
+A concorrência está no âmago do sucesso ou fracasso de uma organização
+
+A competição é a força motriz para adequação das atividades que podem contribuir para o seu desempenho:
+
+### Greiner: Crescimento organizacional (um dos primeiros modelo de maturidade - 70's)
+
+Existe uma relação entre a maturidade de uma empresa e o tamanho dela
+
+### Adizes: Crescimento organizacional
+
+Ele diz que as empresas tem suas crises. E se não morrer antes ela pode até chegar ao momento de Prime (melhor performace). Até chegar no pico e depois cair. 
+
+### Greiner: Características das fases de crescimento
+
+<img>
+
+Uma empresa jovem para concorrer com uma empresa maior ela precisa se destacar pela inovação (realidade das startup)
+
+Depois que se tem uma estrutura muito burocrática que se torna enrigecida, as vezes é preciso voltar a buscar inovar para caminhar ao sucesso.
+
+De uma forma de outra tudo isso está voltado a competividade e a vantagem competitiva.
+
+## Modelo de Estratégia de Porter
 
 # 05 - Modelo de BI
 
