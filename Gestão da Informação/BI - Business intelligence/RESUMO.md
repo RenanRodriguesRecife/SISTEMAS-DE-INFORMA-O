@@ -1,4 +1,36 @@
+# 01 -  Por que estudar Gestão da Informação e do Conhecimento
 
+- SIs precisão ser vistos como uma ferramenta fundamental para obtenção de vantagem competitiva (uso da informação)
+
+- SIs permitem utilizar a informação como instrumento de gestão
+
+- SIs oferecem suporte para melhorar o relacionamento com o clientes e fornecedores.
+
+- SIs fornecem suporte para redução de custos, estoques, melhoram a logística (interna e externa), entre outros;
+
+- SIs permitem melhorar a eficiência organizacional, a produtividade, a eficiência dos processos, a satisfação…
+
+No mundo atual globalizado a informação se tornou estratégia para obtenção da vantagem competitiva
+
+A informação precisa estar em todos os processos da organização (todos os setores devem ter acesso a informação para conseguir aumnetar a margem de lucro e melhorando os processos)-> Business Intelligence! (informação no contexto correto, no lugar certo, na hora certa, sendo disponibilizada para quem precisa)
+
+# 02 - Conceitos básicos
+
+### Gestão: 
+
+um conjunto de técnicas, destinadas a racionalizar e otimizar o funcionamento das organizações
+
+### função do gestor
+
+(O papel do gestor é a pessoa que está fazendo essa ponte)(ele tem que tar defendendo os interecesses da empresa mas ele não é dono)(existe mecanismos de controle e acompanhamento tanto do trabalho de quem tá abaixo do gestor quanto do gestor)
+
+Como lidar com isso?
+
+(Existe um ditado antigo: "O que engorda o gado é o olho do dono". Porém esse ditado é ultrapassado hoje existe gestão organizacional, nas multinacionais é impossível o dono da empresa ficar de olho em tudo)(Um bom sistema de gestão para funcionar precisa de um Sistema da Informação)
+
+### O que é gerenciamento?
+
+## 03 
 
 
 # 05 - Modelo de BI
