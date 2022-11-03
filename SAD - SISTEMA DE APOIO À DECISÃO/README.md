@@ -61,3 +61,16 @@ Prova de SAD (Vai até teoria dos jogos)
  - Teórico
 ```
 
+
+============
+
+OBS
+
+Programação linear:
+- Variável de excesso 
+- Variável de folga
+
+No computador o sinal de <=é tratado como ==. O < é tratado como uma variável artificial. (ou seja <= tem o mesmo tempo de processamento do ==)
+
+"Se for realizar um problema no computador usando solver pode dá error por conta disso"
+Buscar: Excel (solver)
