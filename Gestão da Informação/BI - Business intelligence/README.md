@@ -78,14 +78,8 @@ Analitics tem um ciclo
 
 ```
 
-```
-Disney:
-- Modelo: para que vai 1 vez na vida
-- Modelo: para quem vai todo ano (Dinheiro não é problema)
-- Modelo: para quem é local
-
 PO - Pesquisa Operacional
-```
+
 
 
 
