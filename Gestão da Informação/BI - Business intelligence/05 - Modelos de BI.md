@@ -373,12 +373,24 @@ Exemplo problema de BI: Realocar passageiros
 <img src="../.assets/analitics.JPG">
 
 
-Analytics
+
+
+
+
+
+## Analytics
 
 - https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/
 
 - How analytics enhance the guest experience at Walt Disney World
     - https://www.informs.org/Impact/O.R.-Analytics-Success-Stories/Industry-Profiles/Disney
+
+```
+Disney:
+- Modelo: para quem vai 1 vez na vida
+- Modelo: para quem vai todo ano (Dinheiro não é problema)
+- Modelo: para quem é local
+```
 
 - Simplifying Vehicle Choice: Ford’s Fleet Purchase Planner
     - https://www.youtube.com/watch?v=HErOv30WLqQ
@@ -388,7 +400,7 @@ Overcoming the Challenges of Aircraft Engine Maintenance and Repair (American Ai
     – https://www.youtube.com/watch?v=_Gq4lga5ER4
 
 
-Prêmio Edelman Award
+## Prêmio Edelman Award
 
 - A competição Franz Edelman iniciou em 1972
 
