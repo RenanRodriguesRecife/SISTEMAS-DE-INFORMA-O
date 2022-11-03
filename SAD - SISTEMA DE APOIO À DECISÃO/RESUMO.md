@@ -108,6 +108,18 @@ Processo de 4 etapas conforme proposto por Simon:
 
 # 4 Modelagem de problemas
 
+## VALUE-FOCUSED THINKING - VFT
+
+Os valores são o motivo de ficarmos pensando na decisão!
+
+Mas o que são valores?
+
+- Eles especificam o que é importante nas decisões que você toma;
+
+- Indicam o que você espera alcançar ao tomar aquela decisão
+
+- Deixam claro o significado do que é melhor para você naquele contexto de decisão
+
 
 
 
