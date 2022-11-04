@@ -195,6 +195,8 @@ VALOR X OBJETIVO
 • Objetivo Fundamental: um objetivo que define uma razão básica para se preocupar com uma decisão. 
 • Objetivo Meio: um objetivo cuja importância decorre de sua influência na consecução de outros objetivos.
 
+<img src=".assets/objmeioL.jpg">
+
 (34-45)
 
 
