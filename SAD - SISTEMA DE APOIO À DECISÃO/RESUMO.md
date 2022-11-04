@@ -108,6 +108,40 @@ Processo de 4 etapas conforme proposto por Simon:
 
 # 4 Modelagem de problemas
 
+
+
+
+
+# 5 Métodos de estruturação de problemas
+
+
+
+# 6 Métodos de estruturação de problemas (VFT e AFT)
+
+Projeto de Ciência de Dados
+
+"um projeto que usa técnicas estatísticas e de aprendizado de máquina em grandes volumes de dados não estruturados e/ou estruturados gerados por sistemas, pessoas, sensores ou rastros digitais de informações de pessoas."
+
+Este trabalho é feito em um ambiente computacional com o objetivo de identificar correlações e relações causais, classificar e prever eventos, identificar padrões e anomalias e inferir probabilidades, interesse e sentimento.
+
+ciclo de vida da ciência de dados
+
+<img src=".assets/cicloDC.jpg">
+
+#### compreensão do negócio
+
+#### compreensão de dados
+
+#### preparação dos dados
+
+#### modelagem
+
+#### Avaliação
+
+#### Implantação
+
+#### Monitoramento
+
 ## VALUE-FOCUSED THINKING - VFT
 
 Os valores são o motivo de ficarmos pensando na decisão!
@@ -119,17 +153,6 @@ Mas o que são valores?
 - Indicam o que você espera alcançar ao tomar aquela decisão
 
 - Deixam claro o significado do que é melhor para você naquele contexto de decisão
-
-
-
-
-# 5 Métodos de estruturação de problemas
-
-
-
-
-# 6 Métodos de estruturação de problemas (VFT e AFT)
-
 
 
 # 7 Teoria da Decisão 
