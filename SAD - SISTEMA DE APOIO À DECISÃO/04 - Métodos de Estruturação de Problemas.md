@@ -138,7 +138,8 @@
   
   - Avaliação do modelo (análise com base no conhecimento do domínio, nos critérios de sucesso predefinidos e no design do teste)
   
-  
+#### Avaliação 
+
 - Diferentemente da Avaliação do Modelo da fase de Modelagem, a fase de **Avaliação** foca em verificar de forma mais ampla qual modelo atende melhor aos negócios e o que fazer em seguida.
 
   - Esta fase tem três tarefas:
@@ -149,6 +150,8 @@
     
     - Determine as próximas etapas (continuar com a implantação, iterar mais ou iniciar novos projetos?)
     
+#### Implantação 
+   
 - Um modelo só é util se traz resultados para o cliente, fazendo com que a fase de **implantação** seja muito importante e com complexidade variável.
 
   - Esta fase final tem quatro tarefas:
