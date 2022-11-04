@@ -167,6 +167,35 @@ Uma abordagem de decisão mais útil e capacitadora é baseada em seus valores.
 
 (26-45) - verificar esse slide
 
+Tomar decisões de qualidade, requer prática.
+
+• Se você não sabe o que quer alcançar tomando uma decisão, é impossível pensar na melhor forma de alcançá-lo. 
+• A regra principal de qualquer processo de decisão coerente é “entender com o que você se importa em relação à decisão que enfrenta”. 
+• Valores que deem significado para as consequências de suas decisões.
+
+• É importante dedicar um sério esforço à especificação de objetivos
+
+• Processo para identificar valores:
+1. Crie uma lista de desejos. Inclua todos os valores que você espera alcançar na situação de decisão.
+2. Estimule valores adicionais usando técnicas de sondagem da mente.
+3. Peça que outras pessoas sugiram valores
+4. Use valores identificados para identificar valores adicionais
+
+VALOR X OBJETIVO
+
+• É útil declarar valores no formato de um objetivo. 
+• Um valor é qualquer coisa com que um decisor se preocupa em uma decisão
+
+• Um objetivo é um valor declarado em um formato verbo-objeto, por exemplo:
+
+– 'dinheiro' se torna 'maximizar meu salário' ou 'maximizar lucros' 
+
+– ‘muito gelo derretido’ pode se tornar ‘preservar o habitat do urso polar’
+
+• Objetivo Fundamental: um objetivo que define uma razão básica para se preocupar com uma decisão. 
+• Objetivo Meio: um objetivo cuja importância decorre de sua influência na consecução de outros objetivos.
+
+(34-45)
 
 
 # 7 Teoria da Decisão 
