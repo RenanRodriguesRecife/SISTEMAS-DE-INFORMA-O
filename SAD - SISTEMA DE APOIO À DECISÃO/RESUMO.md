@@ -142,6 +142,32 @@ Mas o que são valores?
 
 - Deixam claro o significado do que é melhor para você naquele contexto de decisão
 
+### O Processo Padrão de Tomada de Decisão (Tomada de decisão com foco na alternativa):
+
+1. Ocorre um Problema -> 2. Identificam-se as alternativas (muitas vezes apenas aceita-se) -> 3. Avaliam-se as alternativas -> 4. Escolhe
+
+Problema: Este processo é reativa e inversa:
+
+– É uma reação a um problema que ocorreu.
+
+– É inversa porque se concentra em alternativas antes de ser claro sobre o que a decisão deve alcançar. 
+
+(Alternativas são meios para alcançar seus **valores**, então **comece com valores.**)
+
+### VALUE-FOCUSED THINKING - VFT
+
+Uma abordagem de decisão mais útil e capacitadora é baseada em seus valores. 
+
+• Para um problema de decisão ou uma oportunidade de decisão: 
+
+– comece com seus valores: seu primeiro pensamento consciente deve ser sobre seus valores. 
+– Seus valores, então, guiam tudo o que você faz em relação a essa decisão.
+
+– É uma tomada de decisão proativa e com visão de futuro.
+
+(26-45) - verificar esse slide
+
+
 
 # 7 Teoria da Decisão 
 
