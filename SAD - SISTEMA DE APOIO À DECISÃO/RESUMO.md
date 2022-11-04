@@ -128,19 +128,7 @@ ciclo de vida da ciência de dados
 
 <img src=".assets/cicloDC.jpg">
 
-#### compreensão do negócio
-
-#### compreensão de dados
-
-#### preparação dos dados
-
-#### modelagem
-
-#### Avaliação
-
-#### Implantação
-
-#### Monitoramento
+**1. compreensão do negócio -> 2. compreensão de dados -> 3. preparação dos dados -> 4. modelagem -> 5. Avaliação -> 6. Implantação -> 7. Monitoramento**
 
 ## VALUE-FOCUSED THINKING - VFT
 
