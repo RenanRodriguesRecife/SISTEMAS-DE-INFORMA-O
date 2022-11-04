@@ -70,24 +70,8 @@
 
 <img src=".assets/cicloDC.jpg">
 
+  
 #### compreensão do negócio
-
-- A fase de **compreensão do negócio** concentra-se na compreensão dos objetivos e requisitos do projeto.
-
-  - Apesar de muitas equipes se apressarem nessa fase, ela é absolutamente essencial.
-
-    (gerenciamento de projetos){
-   - Determine os objetivos de negócios (o que o cliente deseja realizar?)
-
-   - Avalie a situação (recursos, requisitos, riscos e contingências, analise custo-benefício)
-
-   - Determine as metas de mineração de dados
-
-   - Produza o plano do projeto (seleção de tecnologias e ferrametnas).
-  
-  }
-  
-  #### compreensão do negócio
   
   - A fase de **compreensão do negócio** concentra-se na compreensão dos objetivos e requisitos do projeto.
 
@@ -104,7 +88,7 @@
  
   }
 
-  #### compreensão de dados
+#### compreensão de dados
   
   Em seguida é a fase de **compreensão de dados**.
   
