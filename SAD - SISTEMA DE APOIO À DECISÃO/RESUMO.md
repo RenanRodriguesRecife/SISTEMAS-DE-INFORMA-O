@@ -197,7 +197,24 @@ VALOR X OBJETIVO
 
 <img src=".assets/objmeioL.jpg">
 
-(34-45)
+• Os objetivos fundamentais podem ser estruturados em uma
+hierarquia
+• O objetivo mais geral está no topo
+• Objetivos de nível inferior explicam o significado dos objetivos de
+nível superior 
+• A realização dos objetivos de nível mais baixo pode ser medida
+usando “métricas” para descrever e avaliar as várias alternativas
+
+<img src=".assets/objmeioL.jpg">
+
+<img src=".assets/objmeioL.jpg">
+
+• Somente objetivos fundamentais devem ser usados para avaliar e
+comparar alternativas. 
+– A realização dos objetivos de nível mais baixo pode ser medida
+usando “atributos” para descrever e avaliar as várias alternativas. 
+• Significa que os objetivos podem ser usados para criar alternativas
+• Se um objetivo é um meio ou um objetivo fundamental depende do contexto de decisão
 
 
 # 7 Teoria da Decisão 
