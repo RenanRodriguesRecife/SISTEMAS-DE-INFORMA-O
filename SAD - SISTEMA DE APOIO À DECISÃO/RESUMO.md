@@ -257,6 +257,17 @@ Quando o decisor conhece a probabilidade de ocorrência dos cenários, por conse
 
 (As pessoas tem uma dificuldade em entender o que é uma boa decisão. Uma boa decisão é fruto do uso de boas metodologias e de um bom processo decisório)(você pode ter resultados ruins para uma determinada decisão isso não significa que a decisão não teve qualidade - você deu azar. mas que você fez tudo que esteve em seu alcance para tomar a melhor decisão possível)
 
+### Elementos de uma boa decisao
+
+<img src=".assets/eleBoaDeci.JPG">
+
+- utilidade: (O nível de desajabilidade que aquela consequencia tem)
+
+- Escala útil: (Escala usada em muitos modelos economicos para mensurar e antecipar muitos comportamentos)
+
+
+
+
 
 # 8 Arvore de Decisão
 
