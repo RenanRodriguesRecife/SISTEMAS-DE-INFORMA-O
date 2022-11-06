@@ -219,7 +219,43 @@ usando “atributos” para descrever e avaliar as várias alternativas.
 
 # 7 Teoria da Decisão 
 
+Metodologia para considerar que as decisões foram tomadas da melhor forma possível (medir a intensidade das alternativas para extrair a melhor decisão)
 
+Precisamos da garantia da racionalidade na tomada de decisão
+
+Dominância estocástica - buscar soluções melhores
+
+A teoria da decisão não surge como uma teoria que tenta descrever ou explicar o comportamento das pessoas (ou instituições) ou como elas tomam suas decisões
+
+– Ela busca organizar de forma lógica parâmetros que possam ajudar na tomada de decisões, face as preferências do agente decisor e ao que se deseja obter.
+
+## Decisão
+
+“Curso de ação escolhido pela pessoa, como o meio mais efetivo à sua disposição, para alcançar os objetivos pretendidos”
+
+E, segundo esta teoria, uma boa decisão deverá ser uma função lógica **daquilo que se quer**, **daquilo que se sabe** e **daquilo que se pode fazer**.” (Souza, 2007)
+
+#### Decisão sob Incerteza 
+
+O decisor Não consegue estimar a probabilidade de orrência dos cenários
+
+#### Decisão sob Risco
+
+Quando o decisor conhece a probabilidade de ocorrência dos cenários, por conseguinte, pode avaliar o risco associado a decisão adotada
+
+#### Perspectiva de Análise da Decisão:
+
+– Descritiva: descreve a realidade das ações como elas são. A física é descritiva porque os modelos da física têm a intensão de descrever a realidade e podem ser comprovados experimentalmente (lei da gravidade)
+
+– Normativa: identifica como as ações deveriam ser
+
+– Prescritiva: quando está prescrevendo uma recomendação específica
+
+### Decisão X Consequência
+
+<img src=".assets/decxquali.JPG">
+
+(As pessoas tem uma dificuldade em entender o que é uma boa decisão. Uma boa decisão é fruto do uso de boas metodologias e de um bom processo decisório)(você pode ter resultados ruins para uma determinada decisão isso não significa que a decisão não teve qualidade - você deu azar. mas que você fez tudo que esteve em seu alcance para tomar a melhor decisão possível)
 
 
 # 8 Arvore de Decisão
