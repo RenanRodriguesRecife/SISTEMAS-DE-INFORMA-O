@@ -497,8 +497,6 @@ Problema da Barganha
   
   – A solução se mantém sob transformações lineares da função utilidade de cada jogador
 
-Problema da Barganha
-
 - Existe exatamente uma solução de barganha de Nash que satisfaz estas quatro condições
 
 - Dessa forma, o problema é solucionado maximizando o Produto de Nash:
