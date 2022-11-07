@@ -425,6 +425,164 @@ Um exemplo clássico para um jogo de estratégias mistas é o jogo do “Papel, 
 
 ## O Dilema do Prisioneiro
 
+A situação retratada considera dois comparsas num crime que foram presos sob suspeita
 
+Cada prisioneiro tem a chance de confessar o crime implicando o comparsa e sair em liberdade deixando o comparsa preso caso não confesse o crime (6 anos)
 
+– Tipo uma colaboração premiada
+
+Caso os dois prisioneiros não confessem, então os dois ficarão detidos por um período pequeno (1 ano)
+
+Caso os dois confessem ambos dividem a pena e ficam presos por 3 anos
+
+O dilema do prisioneiro pode ser ilustrado pelo jogo abaixo:
+
+<img src=".assets/payOffPrisio.jpg">
+
+Se coloque na situação do jogador A:
+
+– Se B decidir negar o crime, então é melhor confessar
+
+– Se B decidir confessar, então é melhor confessar
+
+– Qualquer que seja a ação de B, a melhor estratégia para A é confessar
+
+O mesmo vale para B, então temos um único Equilíbrio de Nash
+
+Veja que este não é um jogo cooperativo, eles não são amigos, são comparsas...
+
+Observe que se houvesse cooperação, ambos estariam melhores!!!
+
+– “Como não há honra entre ladrões....”
+
+A estratégia “Negar, Negar” seria a melhor para ambos, mas não há como ter certeza da ação do outro
+
+– Esta estratégia seria “Pareto eficiente”, não existe estratégia melhor para os dois simultaneamente
+
+Como não há como coordenar as ações de ambos, se houvesse cooperação, ambos estariam melhores...
+
+```
+- Se você ver a pessoa uma vez na vida (o ideal é não coperar)
+
+- Se você ver a pessoa repetidamente (deve levar em consideração a cooperação)
+```
+
+ pessoa repetidamente (deve levar em consideração a cooperação)
+O dilema do prisioneiro se aplica a uma grande gama de fenômenos econômicos e políticos, exemplo:
+
+– Controle de armas
+
+Desenvolver/Destruir uma arma nuclear, Não Desenvolver/Destruir uma arma nuclear
+– Cartéis econômicos
+
+– Negociações numa cadeia de suprimentos
+
+– Campanhas publicitárias
+
+Existe um caso interessante das indústria de cigarros! (Não dava para confiar que o concorrente não iria fazer publicidade, dai veio a legislação que proibia a publicidade, logo a industria do cigarro cooperou e a propaganda passou a ser nos cinemas e nos filmes. Como eles passaram a gastar menos com publicidade então eles passaram a lucrar mais).
+O dilema do prisioneiro provocou muitas controvérsias sobre a melhor estratégia de jogo
+
+– Qual seria a forma correta?
+
+– A resposta depende se o jogo é repetitivo ou não-repetitivo (one-shot)
+
+Se o jogo for jogado apenas uma vez, a melhor estratégia é confessar
+
+Caso seja um jogo repetitivo, algumas considerações precisam ser feitas... depende de quantas vezes ele vai se repetir. (você pode cooperar e cooperar e na ultima não cooperar)
+
+### Jogos Competitivos:
+
+– Jogos simultâneos ou sequenciais
+
+– Jogos com informação incompleta ou completa
+
+– Jogos com informação imperfeita ou perfeita
+
+– Jogos estritamente competitivos
+
+– Jogos repetidos
+
+### Jogos Cooperativos
+
+Jogos Simultâneos ou Sequenciais
+
+Nos jogos simultâneos cada jogador conhece os payoffs dos outros jogadores e as estratégias disponíveis
+
+Mas não conhecem a vantagem atual dos outros jogadores em relação às estratégias escolhidas porque os jogadores fazem duas escolhas ao mesmo tempo.
+
+– Ex.: Dilema dos prisioneiros, guerra dos sexos
+
+Nos jogos sequenciais, os jogadores se movimentam sequencialmente, são jogos dinâmicos
+
+Um jogador deve saber a escolha de outros jogadores antes de fazer sua própria escolha
+
+– Ex.: Jogo dos fabricantes de aviões. (se ele vai desenvolver um avião maior, ou se vai continuar com o que tem ou vai abandonar o mercado... eles vão acompanhar o que o outro fabricante está fazendo)
+
+### Jogos Simultâneos ou Sequenciais
+
+Um fabricante de avião tem que decidir se introduz ou não um novo modelo de aeronave para competir com a empresa dominante no mercado
+
+E a líder (fabricante 2) terá após o movimento da nova empresa que decidir se mantém ou reduz seu preço.
+
+<img src=".assets/aviao.jpg">
+
+### Informação Completa e Incompleta
+
+#### Jogo com informação completa:
+
+– Cada jogador conhece o payoff dos outros jogadores e cada jogador sabe o que os outros jogadores sabem
+
+#### Jogo com informação incompleta:
+
+– Um jogador não conhece o payoff dos outros jogadores
+
+– Neste caso podem ser considerados tipos de jogadores para cada qual está associada uma distribuição de probabilidade a priori
+
+– Cada jogador sabe o que o outro está escolhendo a partir de um conjunto de possíveis tipos, mas não sabe exatamente qual deles está jogando.
+
+#### O jogo de sinalização
+
+– A contratação de um novo funcionário e o empregador não conhece sua produtividade e pode usar o nível educacional como sinal de sua produtividade
+
+– O jogador pode atualizar suas crenças sobre o tipo de funcionária (atualização bayesiana).
+
+#### Informação Perfeita e Imperfeita
+
+**Jogos com informação perfeita:**
+
+– Representam situações nas quais os jogadores se movem um de cada vez, são jogos sequenciais
+
+– Quando um jogador se movimenta ele sabe tudo que todos os jogadores observaram e fizeram até o nó de decisão atual
+
+ - Ex.: xadrez
+ 
+**Jogo com informação imperfeita:**
+
+– Os jogadores não conhecem a escolha da ação dos outros
+
+  - Ex.: cartas
+
+#### Jogos Repetitivos
+
+A interação estratégica se repete ao longo do tempo
+
+O jogador aqui não deve considerar apenas as consequências imediatas de suas escolhas
+
+Nos jogos repetidos finitos:
+
+  Indução reversa: cada participante antecipa o resultado final e retrocede até a etapa em que se encontra.
+
+Nos jogos repetidos infinitos: há motivação para cooperação
+
+#### Jogos Cooperativos
+
+Cooperar é agir em conjunto para que as partes obtenham um payoff mais satisfatório
+
+Os jogadores concordam em adotar uma estratégia e a cumprir esse acordo
+
+Para Nash as ações cooperativas são o resultado de alguns processos de barganha que satisfazem os mesmos critérios de maximização de utilidade pessoal como em qualquer outra situação de interação estratégica
+
+Pode se usar o valor de Shapley... (O valor de Shapley representa o que cada um acrescenta em uma cooperação).
+
+##### Problema da Barganha
 
