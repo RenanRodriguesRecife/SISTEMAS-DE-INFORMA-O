@@ -234,24 +234,13 @@ estratégias dominantes
 
   – Jogador B sempre jogará “Esquerda”, recebendo 1
   
-### Equilíbrio de Nash
-
-- Equilíbrio de estratégias dominantes são situações confortáveis, mas não acontecem frequentemente
-
-- Observe o jogo abaixo:
-
-<img src=".assets/matrizPayOff3.jpg">
-
-- Neste caso, a escolha ótima para o jogador A depende o que ele pensa que o
-jogador B vai fazer
-
 ## Equilíbrio de Nash
 
 - Equilíbrio de estratégias dominantes são situações confortáveis, mas não acontecem frequentemente
 
 - Observe o jogo abaixo:
 
-<img src=".assets/matrizPayOff4.jpg">
+<img src=".assets/matrizPayOff3.jpg">
 
 - Neste caso, a escolha ótima para o jogador A depende o que ele pensa que o
 jogador B vai fazer
@@ -323,7 +312,7 @@ Observe este jogo:
     
 - Considerando que os humanos não são randomizadores perfeitos, assim como no Pôquer é possível verificar alguns padrões
 
-### O Dilema do Prisioneiro
+## O Dilema do Prisioneiro
 
 - O Dilema do Prisioneiro é um jogo bastante conhecido
 
