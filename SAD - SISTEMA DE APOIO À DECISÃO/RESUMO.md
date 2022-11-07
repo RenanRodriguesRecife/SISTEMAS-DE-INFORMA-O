@@ -102,7 +102,22 @@ Processo de 4 etapas conforme proposto por Simon:
 
 
 
+
+
+
+
 # 3 Fases do processo de decisão
+
+## Fases do processo de decisão: Simon (1977)
+
+Inteligência: percepção do indivíduo e a capacidade de análise.
+
+Design: (é construído um modelo que representa o sistema. Isso é feito fazendo suposições que simplificam a realidade e anotando as relações entre todas as variáveis)
+
+Escolha: inclui a seleção de uma solução proposta para o modelo
+
+Implementação: implementação da decisão
+
 
 
 
