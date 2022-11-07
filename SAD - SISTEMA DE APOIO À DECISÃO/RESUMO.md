@@ -392,3 +392,39 @@ A lógica do Equilíbrio de Nash é interessante, no entanto tem alguns problema
 – Existem jogos que não possuem Equilíbrios de Nash conforme descrevemos através de estratégia pura, a não ser que esta noção seja expandida para estratégias mistas
 
 ## Estratégias mistas
+
+Uma outra perspectiva é permitir que os agentes randomizem suas estratégias
+
+Ao associar probabilidades para suas escolhas, os jogadores podem construir estratégias mistas
+
+Ao calcular o valor esperado das estratégias de cada jogador, é possível obter um Equilíbrio de Nash no qual cada agente escolhe a frequência ótima para jogar considerando as frequências dos outros agentes
+
+É possível provar matematicamente que sempre haverá um Equilíbrio de Nash para estratégias mistas
+
+– Por isso é tão importante entender o comportamento do jogo
+
+Observe este jogo:
+
+<img src=".assets/matrizPayOff5.jpg">
+
+Neste jogo não existe Equilíbio de Nash em estratégias puras
+
+Suponha que A escolha uma estratégia que consiste em 50% para cada ação, e que B escolha os mesmos percentuais:
+
+– O payoff médio de A será 0 e B será 1⁄2
+
+O Equilíbrio de Nash ocorre com as probabilidades 3⁄4 para “Acima” 1⁄4 para “Abaixo”, 1⁄2 para “Esquerda” e 1⁄2 para “Direita”
+
+<img src=".assets/estrategiaMista.jpg">
+
+<img src=".assets/estrategiasmistas2.JPG">
+
+Um exemplo clássico para um jogo de estratégias mistas é o jogo do “Papel, Pedra e Tesoura”
+
+(Curiosidade: Considerando que os humanos não são randomizadores perfeitos, assim como no Pôquer é possível verificar alguns padrões)
+
+## O Dilema do Prisioneiro
+
+
+
+
