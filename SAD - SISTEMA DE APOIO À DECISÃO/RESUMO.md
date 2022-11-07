@@ -273,3 +273,122 @@ Quando o decisor conhece a probabilidade de ocorrência dos cenários, por conse
 
 
 # 9 Teoria dos Jogos
+
+### Interação estratégica
+
+– Situações onde as decisões tomadas influenciam-se os participantes reciprocamente
+
+### Teoria dos Jogos vs Teoria da Decisão
+
+– Teoria da Decisão: o decisor joga com a incerteza ou aleatório, que não possui uma racionalidade específica
+
+– Teoria dos Jogos: o decisor joga com outro decisor racional
+
+(– “Não é que as pessoas estejam contra você. É que elas estão a favor delas próprias” (Gene Fowler, biógrafo e jornalista norte americano))
+
+### Escolha Racional
+
+- Escolher a melhor estratégia entre todas as disponíveis (maximizar o valor esperado dos seus ganhos)
+
+- modelos matemáticos para representar conflitos e cooperação entre decisores racionais
+
+- Os ganhos dos indivíduos são medidos em escalas de utilidade
+
+### Caracterização de um jogo
+
+– **Modelo do jogo**: descrição e análise
+
+– **Interações**: as ações de cada agente (individualmente) afetam os demais
+
+– **Agentes / Jogadores**: é qualquer indivíduo ou grupo com capacidade de decisão para afetar os demais
+
+– **Racionalidade**: os agentes empregam os meios adequados aos objetivos que almejam
+
+– **Comportamento estratégico**: cada jogador ao tomar sua decisão leva em consideração a interação com os outros jogadores e as consequências das múltiplas decisões em conjunto
+
+
+### Matriz de Payoff de um Jogo
+
+Suponha que num jogo simplificado simultâneo:
+
+– O jogador A vai escrever uma de duas palavras num pedaço de papel: “Acima” ou “Abaixo”
+
+– O jogador B vai de forma independente e simultânea escrever no papel: “Esquerda” ou “Direita”
+
+– Em seguida os papeis serão examinados, então teremos a matriz de payoff
+
+A matriz de payoff pode ser representada assim:
+
+<img src=".assets/matrizPayOff1.jpg">
+
+Estas escolhas podem representar situações como:
+
+– “aumentar o preço” ou “diminuir o preço”
+
+– “lançar um novo produto” ou “criar uma versão melhorada”
+
+– “declarar guerra” ou “retaliar economicamente/diplomaticamente”
+
+Este jogo apresentado tem uma solução muito simples:
+
+– Para o jogador A, sempre será melhor escolher “Abaixo”
+
+– Para o jogador B, sempre será melhor escolher “Esquerda”
+
+<img src=".assets/matrizPayOff2.jpg">
+
+Existe uma relação clara de dominância nessa matriz para cada jogador
+
+A condição de equilíbrio sempre será “Abaixo” e “Esquerda”
+
+Uma **estratégia dominante** é representada pela escolha ótima para cada jogador, independentemente da ação do outro
+
+Portanto, estas escolhas dominam as outras opções resultando num equilíbrio de estratégias dominantes
+
+Se existe uma estratégia para cada jogador, então podemos prever que este será o resultado de equilíbrio do jogo
+
+Para este jogo:
+
+– Jogador A sempre jogará “Abaixo”, recebendo 2
+
+– Jogador B sempre jogará “Esquerda”, recebendo 1
+
+## Equilíbrio de Nash
+
+Equilíbrio de estratégias dominantes são situações confortáveis, mas não acontecem frequentemente
+
+Observe o jogo abaixo:
+
+<img src=".assets/matrizPayOff3.jpg">
+
+Neste caso, a escolha ótima para o jogador A depende o que ele pensa que o jogador B vai fazer
+
+O equilíbrio de estratégias dominantes é uma situação muito exigente (que normalmente não acontece)
+
+Ao invés de exigir que a escolha do jogador A seja ótima para todas as escolhas do jogador B, podemos considerar as escolhas ótimas do jogador A dado uma escolha do jogador B
+
+– Podemos assumir que B é racional e “bem informado”
+
+– No entanto, o que é ótimo para B também depende da escolha de A
+
+O Equilíbrio de Nash será representado por um par de estratégias
+
+– Se a escolha de A é ótima dado a escolha de B, e B é ótimo dado a escolha de A
+
+– Lembre que A e B não sabem qual a escolha de seus oponentes!
+
+O Equilíbrio de Nash pode ser interpretado como um par de expectativas sobre a escolha de cada jogador
+
+Quando uma escolha é revelada, nenhum jogador mudará seu comportamento
+
+O Equilíbrio de Nash é uma generalização do Equilíbrio de Cournot
+
+– O Equilíbrio de Cournot considera a decisão entre concorrentes sobre o quanto produzir, onde cada firma decide o quanto produzir considerando a decisão do concorrente
+
+A lógica do Equilíbrio de Nash é interessante, no entanto tem alguns problemas
+
+– Um jogo pode ter mais de um Equilíbrio de Nash, o que ocorre em jogos simétricos
+
+– Existem jogos que não possuem Equilíbrios de Nash conforme descrevemos através de estratégia pura, a não ser que esta noção seja expandida para estratégias mistas
+
+## Estratégias mistas
