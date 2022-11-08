@@ -70,24 +70,8 @@
 
 <img src=".assets/cicloDC.jpg">
 
+  
 #### compreensão do negócio
-
-- A fase de **compreensão do negócio** concentra-se na compreensão dos objetivos e requisitos do projeto.
-
-  - Apesar de muitas equipes se apressarem nessa fase, ela é absolutamente essencial.
-
-    (gerenciamento de projetos){
-   - Determine os objetivos de negócios (o que o cliente deseja realizar?)
-
-   - Avalie a situação (recursos, requisitos, riscos e contingências, analise custo-benefício)
-
-   - Determine as metas de mineração de dados
-
-   - Produza o plano do projeto (seleção de tecnologias e ferrametnas).
-  
-  }
-  
-  #### compreensão do negócio
   
   - A fase de **compreensão do negócio** concentra-se na compreensão dos objetivos e requisitos do projeto.
 
@@ -104,7 +88,7 @@
  
   }
 
-  #### compreensão de dados
+#### compreensão de dados
   
   Em seguida é a fase de **compreensão de dados**.
   
@@ -138,6 +122,7 @@
 
     - Formete os dados conforme necessário
 
+#### modelagem
 
 - Na fase de **modelagem**, provavelmente serão construídos e avaliados vários modelos com base em várias técnicas de modelagem diferentes.
 
@@ -153,7 +138,8 @@
   
   - Avaliação do modelo (análise com base no conhecimento do domínio, nos critérios de sucesso predefinidos e no design do teste)
   
-  
+#### Avaliação 
+
 - Diferentemente da Avaliação do Modelo da fase de Modelagem, a fase de **Avaliação** foca em verificar de forma mais ampla qual modelo atende melhor aos negócios e o que fazer em seguida.
 
   - Esta fase tem três tarefas:
@@ -164,6 +150,8 @@
     
     - Determine as próximas etapas (continuar com a implantação, iterar mais ou iniciar novos projetos?)
     
+#### Implantação 
+   
 - Um modelo só é util se traz resultados para o cliente, fazendo com que a fase de **implantação** seja muito importante e com complexidade variável.
 
   - Esta fase final tem quatro tarefas:

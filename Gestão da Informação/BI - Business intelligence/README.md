@@ -52,23 +52,6 @@ OBS
 Bi geralmente é colocado de lado no Brasil. Pq existe muita sonegação e "corrupção" que causa maior vantagem competitiva.
 ```
 
-OBS
-```
-Programação linear:
-- Variável de excesso 
-- Variável de folga
-
-No computador o sinal de <=é tratado como ==. O < é tratado como uma variável artificial. (ou seja <= tem o mesmo tempo de processamento do ==)
-
-"Se for realizar um problema no computador usando solver pode dá error por conta disso"
-```
-
-Buscar: Excel (solver)
-
-
-
-
-
 ===================
 
 ```
@@ -95,31 +78,15 @@ Analitics tem um ciclo
 
 ```
 
-```
-Disney:
-- Modelo: para que vai 1 vez na vida
-- Modelo: para quem vai todo ano (Dinheiro não é problema)
-- Modelo: para quem é local
-
 PO - Pesquisa Operacional
-```
 
 
 
 
 
-####################
+ALgumas ferramentas
 
+- Tableau
+- Power bi
 
-Relatório
-
-Correções - a confiabilidade
-
-TQM - controle de Qualidade total em via de regra vamos querer uma informação que está contextualizada
-
-Balanced Scorecad (mais amplo)
-
-Sis Sigma (mais operacional)
-
-============================
 
