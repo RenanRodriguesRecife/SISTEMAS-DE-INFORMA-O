@@ -1,3 +1,17 @@
+
+  decisão estruturada - (se existe um receita de bolo que vai funcionar sempre - o problema é estruturado)
+
+  decisão não estruturada - (problema não formulado)
+
+   (não existe um padrão de como essa decisão vai ser realizada) 
+    
+   - tem vários aspectos que mudam quando você considera a individualidade de cada um 
+
+   - cada indivíduo verifica aspectos diferentes (ex: alguém prefere comprar a casa pela vista outros pela localização…)
+
+   - o resultado de hoje pode não valer para o ano que vem
+
+
 <img src=".assets/computer decision.jpg">
 
 É mais comum ter decisões estruturadas na base (nível operacional). E decisões não-estruturadas são mais comuns no nível estratégico.
