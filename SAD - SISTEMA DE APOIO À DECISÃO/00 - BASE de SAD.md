@@ -5,11 +5,6 @@
 Um sistema de informação consistindo de hardware/software e do elemento humano designado para assistir um tomador de decisão de qualquer nível, com ênfase em tarefas estruturadas e não-estruturadas (desestruturadas).
 
 
-
-
-
-é mais comum ter mais decisões estruturadas na parte operacional e mais decisões não estruturadas estão em nível hierárquico mais elevados
-
 ```
 O SAD serve para decisões não estruturadas. QUE não é simplesmente programar um sistema, é preciso entender qual a utilidade, designação e estruturar a aplicação. O problema muitas vezes não está formulado ou dado o cliente muitas vezes não sabe o que quer.
  
