@@ -11,6 +11,7 @@
 
    - o resultado de hoje pode não valer para o ano que vem
 
+A falta de preparo de quem vai realizar a decisão não torna o problema não-estruturado 
 
 <img src=".assets/computer decision.jpg">
 
