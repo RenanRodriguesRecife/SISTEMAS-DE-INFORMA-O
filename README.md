@@ -26,3 +26,8 @@ https://gestaodesegurancaprivada.com.br/sistema-de-informacao-o-que-e-conceitos/
 
 
 https://www.youtube.com/watch?v=N0Y8SzE0-cg&list=PLxI8Can9yAHczVm37Sw-UssyYdd0FMyR0&index=12
+
+
+
+rp - armazenamento de recursos gerais
+crm -
