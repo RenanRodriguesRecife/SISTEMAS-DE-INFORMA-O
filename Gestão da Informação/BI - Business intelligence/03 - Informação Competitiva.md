@@ -156,6 +156,12 @@ Curiosidade: A apple usa muito o monopólio da inovação. Ela trata o produdo d
 
 (Duvida pessoal: Como fica essa relação sobre podutos infinitos (artigos digitais) e produtos que acabam copetindo contra eles mesmos. Ex: Um veículo que nunca quebra)
 
+```
+No caso da apple - ela usa a estratégia de dizer que o produto dela é único para criar um monopólio (quem quer apple não quer outra coisa)
+
+A uber aumenta o preço da corrida em locais que tem pouca demanda. Para atrair o motorista
+```
+
 # Pensamento econômico
 
 - Existem várias correntes de pensamento econômico
