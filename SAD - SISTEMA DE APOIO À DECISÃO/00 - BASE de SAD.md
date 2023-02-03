@@ -94,7 +94,7 @@ O Fator crítico para obter a eficácia do sistema é uma combinação das carac
 
 (são vários aspectos que mundam quando está considerando a individualidade de cada um. Cada pessoa pode se preocupar e foca em algum aspecto diferente do problema, não existe um padrão para tomar uma decisão não estruturada. Ex: escolher a carreira - cada pessoa segue uma trilha diferente de pensamento para tomar a sua decisão)
 
-- idéia é melhorar a qualidade de tomar uma decisão não estruturada para minimisar a insatisfação que pode ter ou as perdas que pode ter no futuro por que não usou uma metodologia não adequada. 
+- O objetivo é melhorar a qualidade de tomar uma decisão não estruturada para minimisar a insatisfação e as perdas que pode ter no futuro por que não usou uma metodologia adequada. 
 
 ## Implementação de um SAD
 
